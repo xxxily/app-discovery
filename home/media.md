@@ -362,7 +362,7 @@ Windows 音量控制增强工具，提供每应用独立音量调节和设备切
 - **Platforms:** **Windows**, **macOS**, **Linux**
 - **Stars:** ⭐️ 10.2k
 - **Tags:** `manga` `epub-reader` `media-server` `self-hosted`
-- **最后活动时间:** 2026-03-23
+- **最后活动时间:** 2026-03-24
 
 ## [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop)
 

@@ -3,17 +3,17 @@
     "windows": {
       "level": 1,
       "lastExplored": "2026-03-24T12:18:35.039Z",
-      "score": 745
+      "score": 748
     },
     "macos": {
       "level": 1,
       "lastExplored": "2026-03-24T12:08:08.011Z",
-      "score": 816
+      "score": 817
     },
     "android": {
       "level": 1,
       "lastExplored": "2026-03-24T12:30:06.514Z",
-      "score": 359
+      "score": 360
     },
     "ios": {
       "level": 1,
@@ -22,7 +22,7 @@
     },
     "cross-platform": {
       "level": 1,
-      "lastExplored": "2026-03-24T11:57:36.939Z",
+      "lastExplored": "2026-03-24T12:52:44.882Z",
       "score": 233
     },
     "open-source-app": {
@@ -265,7 +265,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 524
+      "score": 525
     },
     "oracle": {
       "level": 2,
@@ -535,13 +535,13 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 86
+      "score": 88
     },
     "remote-admin-tool": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 2
+      "score": 3
     },
     "remote-administration-tool": {
       "level": 2,
@@ -925,7 +925,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 37
+      "score": 38
     },
     "terminal": {
       "level": 2,
@@ -943,7 +943,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 23
+      "score": 24
     },
     "command-line": {
       "level": 2,
@@ -1111,7 +1111,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 10
+      "score": 11
     },
     "xbox360-controller": {
       "level": 2,
@@ -1255,7 +1255,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 4
+      "score": 5
     },
     "software": {
       "level": 2,
@@ -1411,7 +1411,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 60
+      "score": 61
     },
     "privacy": {
       "level": 2,
@@ -1633,7 +1633,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 25
+      "score": 27
     },
     "cmd": {
       "level": 2,
@@ -1669,7 +1669,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 27
+      "score": 28
     },
     "sdk": {
       "level": 2,
@@ -1741,7 +1741,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 7
+      "score": 9
     },
     "privilege-escalation": {
       "level": 2,
@@ -2065,7 +2065,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 10
+      "score": 11
     },
     "wsl2": {
       "level": 2,
@@ -2203,7 +2203,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 34
+      "score": 35
     },
     "clipping": {
       "level": 2,
@@ -2527,19 +2527,19 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 0
+      "score": 1
     },
     "rat": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 2
+      "score": 3
     },
     "reverse-shell": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 1
+      "score": 2
     },
     "backdrop": {
       "level": 2,
@@ -2875,7 +2875,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 4
+      "score": 5
     },
     "awesome": {
       "level": 2,
@@ -3841,7 +3841,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.520Z",
-      "score": 19
+      "score": 20
     },
     "qrcode": {
       "level": 2,
@@ -4027,7 +4027,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.520Z",
-      "score": 3
+      "score": 4
     },
     "response": {
       "level": 2,
@@ -4843,7 +4843,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:55:55.507Z",
-      "score": 8
+      "score": 9
     },
     "computer-use": {
       "level": 2,
@@ -5623,7 +5623,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:55:55.507Z",
-      "score": 25
+      "score": 26
     },
     "multilingual": {
       "level": 2,
@@ -5833,7 +5833,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:55:55.507Z",
-      "score": 4
+      "score": 5
     },
     "electron-builder": {
       "level": 2,
@@ -7111,7 +7111,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:55:55.508Z",
-      "score": 19
+      "score": 20
     },
     "keyboard-layout": {
       "level": 2,
@@ -10165,7 +10165,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:50.966Z",
-      "score": 9
+      "score": 10
     },
     "mouse-emulation": {
       "level": 2,
@@ -10441,7 +10441,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:50.966Z",
-      "score": 4
+      "score": 5
     },
     "active-directory-cheatsheet": {
       "level": 2,
@@ -11539,7 +11539,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:50.967Z",
-      "score": 1
+      "score": 2
     },
     "pentest-tools": {
       "level": 2,
@@ -13159,7 +13159,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:53.523Z",
-      "score": 16
+      "score": 17
     },
     "openssl": {
       "level": 2,
@@ -13537,7 +13537,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:53.523Z",
-      "score": 10
+      "score": 11
     },
     "hight-performance": {
       "level": 2,
@@ -13573,7 +13573,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:53.523Z",
-      "score": 11
+      "score": 12
     },
     "ostree": {
       "level": 2,
@@ -13723,7 +13723,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:53.523Z",
-      "score": 3
+      "score": 4
     },
     "ai-agent": {
       "level": 2,
@@ -20929,7 +20929,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:21:21.911Z",
-      "score": 0
+      "score": 1
     },
     "reverse-shells": {
       "level": 2,
@@ -21343,7 +21343,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T03:57:04.398Z",
-      "score": 5
+      "score": 6
     },
     "cap": {
       "level": 2,
@@ -21685,7 +21685,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T03:57:04.398Z",
-      "score": 6
+      "score": 7
     },
     "database-gui": {
       "level": 2,
@@ -24397,31 +24397,31 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T03:59:12.505Z",
-      "score": 1
+      "score": 2
     },
     "mac-os": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T03:59:12.505Z",
-      "score": 0
+      "score": 1
     },
     "meterpreter": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T03:59:12.505Z",
-      "score": 1
+      "score": 2
     },
     "pupy": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T03:59:12.505Z",
-      "score": 0
+      "score": 1
     },
     "reflective-injection": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T03:59:12.505Z",
-      "score": 0
+      "score": 1
     },
     "ad-blocker": {
       "level": 2,
@@ -32017,7 +32017,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:11:26.292Z",
-      "score": 1
+      "score": 2
     },
     "zhipuai": {
       "level": 2,
@@ -32263,7 +32263,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:11:26.293Z",
-      "score": 1
+      "score": 2
     },
     "tabby": {
       "level": 2,
@@ -34801,7 +34801,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:13:23.731Z",
-      "score": 1
+      "score": 2
     },
     "ctypes": {
       "level": 2,
@@ -47791,7 +47791,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T06:47:59.759Z",
-      "score": 0
+      "score": 1
     },
     "forensic-tools": {
       "level": 2,
@@ -49561,7 +49561,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T06:51:09.456Z",
-      "score": 0
+      "score": 1
     },
     "artoolkitx-community": {
       "level": 2,
@@ -50431,7 +50431,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T06:52:09.656Z",
-      "score": 0
+      "score": 1
     },
     "unified-interface": {
       "level": 2,
@@ -54721,7 +54721,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T07:02:17.888Z",
-      "score": 1
+      "score": 2
     },
     "calculate-previews": {
       "level": 2,
@@ -57097,7 +57097,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T07:05:40.736Z",
-      "score": 1
+      "score": 2
     },
     "force-proxy-network-hook": {
       "level": 2,
@@ -57535,7 +57535,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T07:06:40.287Z",
-      "score": 0
+      "score": 1
     },
     "macro-deck": {
       "level": 2,
@@ -65671,13 +65671,13 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:23:36.059Z",
-      "score": 0
+      "score": 1
     },
     "nfc-reader": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:23:36.059Z",
-      "score": 0
+      "score": 1
     },
     "abandonware": {
       "level": 2,
@@ -65695,31 +65695,31 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:23:36.059Z",
-      "score": 0
+      "score": 1
     },
     "apt-attacks": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:23:36.059Z",
-      "score": 0
+      "score": 1
     },
     "purpleteam": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:23:36.059Z",
-      "score": 0
+      "score": 1
     },
     "windows-eventlog": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:23:36.059Z",
-      "score": 0
+      "score": 1
     },
     "bash-on-windows": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:23:36.059Z",
-      "score": 0
+      "score": 1
     },
     "remoteaccess": {
       "level": 2,
@@ -65737,7 +65737,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:26:47.286Z",
-      "score": 0
+      "score": 1
     },
     "media3-exoplayer": {
       "level": 2,
@@ -89551,6 +89551,900 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T12:39:33.471Z",
+      "score": 0
+    },
+    "feishu": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:44:45.164Z",
+      "score": 0
+    },
+    "koishi": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:44:45.164Z",
+      "score": 0
+    },
+    "koishijs": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:44:45.164Z",
+      "score": 0
+    },
+    "lark": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:44:45.164Z",
+      "score": 0
+    },
+    "onebot": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:44:45.164Z",
+      "score": 0
+    },
+    "ehentai": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:44:45.164Z",
+      "score": 0
+    },
+    "ehtagtranslation": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:44:45.164Z",
+      "score": 0
+    },
+    "glsl-editors": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:44:45.164Z",
+      "score": 0
+    },
+    "glsl-sandbox": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:44:45.164Z",
+      "score": 0
+    },
+    "qtav": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:44:45.164Z",
+      "score": 0
+    },
+    "video-stabilization": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:45:45.081Z",
+      "score": 0
+    },
+    "webrtc-video": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:45:45.081Z",
+      "score": 0
+    },
+    "razor": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:45:45.081Z",
+      "score": 0
+    },
+    "mmorpg-server": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:45:45.081Z",
+      "score": 0
+    },
+    "ragnarok": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:45:45.081Z",
+      "score": 0
+    },
+    "rathena": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:45:45.081Z",
+      "score": 0
+    },
+    "lightproxy": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:45:45.081Z",
+      "score": 0
+    },
+    "whistle": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:45:45.081Z",
+      "score": 0
+    },
+    "any-listen": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:46:45.355Z",
+      "score": 0
+    },
+    "nas": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:46:45.355Z",
+      "score": 0
+    },
+    "dua": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:46:45.356Z",
+      "score": 0
+    },
+    "dust": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:46:45.356Z",
+      "score": 0
+    },
+    "exa": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:46:45.356Z",
+      "score": 0
+    },
+    "fd": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:46:45.356Z",
+      "score": 0
+    },
+    "ls": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:46:45.356Z",
+      "score": 0
+    },
+    "wc": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:46:45.356Z",
+      "score": 0
+    },
+    "level-editor": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:46:45.356Z",
+      "score": 0
+    },
+    "application-insights": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:46:45.356Z",
+      "score": 0
+    },
+    "grafana": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:46:45.356Z",
+      "score": 0
+    },
+    "grafana-dashboard": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:46:45.356Z",
+      "score": 0
+    },
+    "graphite": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:46:45.356Z",
+      "score": 0
+    },
+    "health-check": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:46:45.356Z",
+      "score": 0
+    },
+    "webvr": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:46:45.356Z",
+      "score": 0
+    },
+    "gulp": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:46:45.356Z",
+      "score": 0
+    },
+    "column": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:46:45.356Z",
+      "score": 0
+    },
+    "csv-cat": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:46:45.356Z",
+      "score": 0
+    },
+    "csv-column": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:46:45.356Z",
+      "score": 0
+    },
+    "csv-pretty-print": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:46:45.356Z",
+      "score": 0
+    },
+    "csv-visualization": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:46:45.356Z",
+      "score": 0
+    },
+    "dataframe": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:46:45.356Z",
+      "score": 0
+    },
+    "tibble": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:46:45.356Z",
+      "score": 0
+    },
+    "blurhash": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:49:48.883Z",
+      "score": 0
+    },
+    "carplay": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:49:48.883Z",
+      "score": 0
+    },
+    "jellify": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:49:48.883Z",
+      "score": 0
+    },
+    "react-native-mmkv": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:49:48.883Z",
+      "score": 0
+    },
+    "react-native-track-player": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:49:48.883Z",
+      "score": 0
+    },
+    "tamagui": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:49:48.883Z",
+      "score": 0
+    },
+    "tanstack-query": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:49:48.883Z",
+      "score": 0
+    },
+    "csv-writer": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:49:48.883Z",
+      "score": 0
+    },
+    "static-analyzer": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:49:48.883Z",
+      "score": 0
+    },
+    "backend-driven": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:49:48.883Z",
+      "score": 0
+    },
+    "component-driven": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:49:48.883Z",
+      "score": 0
+    },
+    "spots": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:49:48.883Z",
+      "score": 0
+    },
+    "cli-tool": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:49:48.883Z",
+      "score": 0
+    },
+    "cli-utilities": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:49:48.883Z",
+      "score": 0
+    },
+    "encryption-decryption": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:49:48.883Z",
+      "score": 0
+    },
+    "tui-app": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:49:48.883Z",
+      "score": 0
+    },
+    "zeropad": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:49:48.883Z",
+      "score": 0
+    },
+    "core-functionality": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:49:48.883Z",
+      "score": 0
+    },
+    "flex-engine": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "personal-game-engine": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "crates": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "multimedia-library": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "lottie-convert": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "sticker-downloader": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "sticker-export": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "telegram-sticker": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "tgs-convert": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "apk-tool": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "computer-use-agents": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "gui-agents": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "online-evaluation-suite": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "scalecua": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "3d-audio": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "ambisonics": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "microphone-array-processing": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "multi-source-tracking": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "sofa-reader": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "spatial-audio-framework": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "spherical-harmonics": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "vbap": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "msgstore": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "reverse-egieering": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "bochs": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "bochscpu": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "fuzz-testing": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "kvm-api": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "snapshot-fuzzer": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "winhv": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "bgrabitmap": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "lazpaint": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "dlangui": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "pnpm": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "turborepo": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "nxdk": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "xboxkrnl": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "xiso": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "beep": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "beeps": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "notify": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "bash-scripting": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "unit-testing-framework": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "mvu": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.275Z",
+      "score": 0
+    },
+    "hentai-scraper": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.276Z",
+      "score": 0
+    },
+    "nsfw-downloader": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.276Z",
+      "score": 0
+    },
+    "porn-download": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.276Z",
+      "score": 0
+    },
+    "porn-downloader": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.276Z",
+      "score": 0
+    },
+    "porn-scraper": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.276Z",
+      "score": 0
+    },
+    "r34": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.276Z",
+      "score": 0
+    },
+    "rule34": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.276Z",
+      "score": 0
+    },
+    "rule34-downloader": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:50:49.276Z",
+      "score": 0
+    },
+    "digital-twin": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "echo": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "mit-scratch": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "spine": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "tensorlfow": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "flowchart": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "mind-mapping": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "studying": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "gitit": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "uwp-applications": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "daimler": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "diagnostics-application": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "dpdu": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "ecu": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "j2534": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "macchina-m2": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "mercedes-cbf": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "odb": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "open-vehicle-diagnostics": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "ovd": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "reverse-engineering-framework": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "socketcan": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "uds": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "pcap-analyzer": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "micro-framework": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "haxe-library": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "physics-3d": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "build-script": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "continuous-deployment": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "deploy-tool": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "deployment-automation": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "dotnet-cli": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "filesystem-api": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "babylon": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "cpp1z": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "juci": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "libclang": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
+      "score": 0
+    },
+    "proposal": {
+      "level": 2,
+      "lastExplored": "1970-01-01T00:00:00Z",
+      "added": "2026-03-24T12:51:49.073Z",
       "score": 0
     }
   },

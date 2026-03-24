@@ -15,7 +15,7 @@
       "stars": 7020,
       "lastUpdated": "2026-03-20T08:04:36Z",
       "addedAt": "2026-03-23T17:08:38.002Z",
-      "_lastChecked": "2026-03-24T12:34:53.361Z",
+      "_lastChecked": "2026-03-24T12:43:40.496Z",
       "github_topics": [
         "chatbot",
         "cross-platform",
@@ -70,10 +70,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/jtroo/kanata",
-      "stars": 7013,
+      "stars": 7014,
       "lastUpdated": "2026-03-24T06:13:59Z",
       "addedAt": "2026-03-23T17:08:38.002Z",
-      "_lastChecked": "2026-03-24T12:00:40.420Z",
+      "_lastChecked": "2026-03-24T12:43:40.496Z",
       "github_topics": [
         "cross-platform",
         "interception-driver",
@@ -124,7 +124,7 @@
       "stars": 6886,
       "lastUpdated": "2025-11-06T02:26:45Z",
       "addedAt": "2026-03-23T17:08:38.002Z",
-      "_lastChecked": "2026-03-24T12:07:10.812Z",
+      "_lastChecked": "2026-03-24T12:50:49.276Z",
       "github_topics": [
         "application",
         "clipboard",
@@ -223,7 +223,7 @@
       "stars": 6777,
       "lastUpdated": "2023-01-26T06:08:29Z",
       "addedAt": "2026-03-23T17:08:38.002Z",
-      "_lastChecked": "2026-03-24T12:00:40.420Z",
+      "_lastChecked": "2026-03-24T12:43:40.496Z",
       "github_topics": [
         "dlna",
         "linux",
@@ -268,7 +268,7 @@
       "stars": 6753,
       "lastUpdated": "2026-03-18T03:58:14Z",
       "addedAt": "2026-03-23T17:08:38.002Z",
-      "_lastChecked": "2026-03-24T12:12:11.141Z",
+      "_lastChecked": "2026-03-24T12:43:40.496Z",
       "github_topics": [
         "benchmarking",
         "bombardier",
@@ -749,10 +749,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/xushengfeng/eSearch",
-      "stars": 6321,
+      "stars": 6322,
       "lastUpdated": "2026-03-14T05:28:42Z",
       "addedAt": "2026-03-24T03:55:57.151Z",
-      "_lastChecked": "2026-03-24T12:13:11.278Z",
+      "_lastChecked": "2026-03-24T12:43:40.496Z",
       "github_topics": [
         "clipboard",
         "color-picker",
@@ -967,10 +967,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/karlstav/cava",
-      "stars": 5962,
+      "stars": 5963,
       "lastUpdated": "2026-03-22T18:25:24Z",
       "addedAt": "2026-03-24T03:56:54.969Z",
-      "_lastChecked": "2026-03-24T11:07:24.317Z",
+      "_lastChecked": "2026-03-24T12:44:45.163Z",
       "topics": [
         "alsa",
         "audio-visualizer",
@@ -1165,7 +1165,7 @@
       "stars": 5724,
       "lastUpdated": "2025-06-11T15:44:24Z",
       "addedAt": "2026-03-24T03:57:52.067Z",
-      "_lastChecked": "2026-03-24T12:18:38.520Z",
+      "_lastChecked": "2026-03-24T12:44:45.163Z",
       "topics": [
         "bash",
         "cli",
@@ -1256,7 +1256,7 @@
       "stars": 5713,
       "lastUpdated": "2026-03-23T05:06:54Z",
       "addedAt": "2026-03-24T03:57:52.067Z",
-      "_lastChecked": "2026-03-24T11:51:15.138Z",
+      "_lastChecked": "2026-03-24T12:44:45.163Z",
       "topics": [
         "cross-platform",
         "electron",
@@ -1294,7 +1294,7 @@
       "stars": 5711,
       "lastUpdated": "2025-09-10T07:23:01Z",
       "addedAt": "2026-03-24T03:59:03.760Z",
-      "_lastChecked": "2026-03-24T12:07:10.812Z",
+      "_lastChecked": "2026-03-24T12:44:45.163Z",
       "topics": [
         "caesium",
         "compression",
@@ -1473,7 +1473,7 @@
       "stars": 5497,
       "lastUpdated": "2025-02-15T23:12:50Z",
       "addedAt": "2026-03-24T03:59:03.761Z",
-      "_lastChecked": "2026-03-24T12:18:38.520Z",
+      "_lastChecked": "2026-03-24T12:44:45.164Z",
       "topics": [
         "c",
         "c-plus-plus",
@@ -1607,7 +1607,7 @@
       "stars": 5383,
       "lastUpdated": "2026-03-23T18:39:53Z",
       "addedAt": "2026-03-24T04:00:16.710Z",
-      "_lastChecked": "2026-03-24T11:48:09.855Z",
+      "_lastChecked": "2026-03-24T12:44:45.164Z",
       "topics": [
         "client",
         "cross-platform",
@@ -2174,7 +2174,7 @@
       "stars": 5006,
       "lastUpdated": "2026-03-08T17:44:04Z",
       "addedAt": "2026-03-24T04:01:28.121Z",
-      "_lastChecked": "2026-03-24T12:33:53.647Z",
+      "_lastChecked": "2026-03-24T12:44:45.164Z",
       "topics": [
         "android",
         "bluetooth",
@@ -2366,7 +2366,7 @@
       "stars": 4935,
       "lastUpdated": "2026-03-11T10:02:39Z",
       "addedAt": "2026-03-24T04:02:22.646Z",
-      "_lastChecked": "2026-03-24T12:13:11.278Z",
+      "_lastChecked": "2026-03-24T12:44:45.164Z",
       "topics": [
         "cross-platform",
         "haskell",
@@ -2523,10 +2523,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/throneproj/Throne",
-      "stars": 4832,
+      "stars": 4834,
       "lastUpdated": "2026-03-24T07:41:01Z",
       "addedAt": "2026-03-24T04:03:33.945Z",
-      "_lastChecked": "2026-03-24T11:58:40.375Z",
+      "_lastChecked": "2026-03-24T12:44:45.164Z",
       "topics": [
         "anytls",
         "clash",
@@ -2631,7 +2631,7 @@
       "stars": 4722,
       "lastUpdated": "2026-01-05T04:53:15Z",
       "addedAt": "2026-03-24T04:03:33.945Z",
-      "_lastChecked": "2026-03-24T12:33:53.647Z",
+      "_lastChecked": "2026-03-24T12:50:49.275Z",
       "topics": [
         "ios",
         "linux",
@@ -2859,7 +2859,7 @@
       "stars": 4608,
       "lastUpdated": "2026-03-09T07:29:56Z",
       "addedAt": "2026-03-24T04:04:32.681Z",
-      "_lastChecked": "2026-03-24T12:14:32.076Z",
+      "_lastChecked": "2026-03-24T12:44:45.164Z",
       "topics": [
         "developer-tools",
         "kubernetes",
@@ -3200,7 +3200,7 @@
       "stars": 7856,
       "lastUpdated": "2026-03-22T10:58:48Z",
       "addedAt": "2026-03-24T04:05:43.038Z",
-      "_lastChecked": "2026-03-24T12:10:11.277Z",
+      "_lastChecked": "2026-03-24T12:43:40.496Z",
       "topics": [
         "audio",
         "client",
@@ -3331,10 +3331,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/maxrave-dev/SimpMusic",
-      "stars": 8463,
+      "stars": 8464,
       "lastUpdated": "2026-03-22T08:52:39Z",
       "addedAt": "2026-03-24T04:06:41.309Z",
-      "_lastChecked": "2026-03-24T12:00:40.420Z",
+      "_lastChecked": "2026-03-24T12:43:40.496Z",
       "topics": [
         "android",
         "android-16",
@@ -4377,7 +4377,7 @@
       "stars": 4279,
       "lastUpdated": "2026-03-24T02:44:35Z",
       "addedAt": "2026-03-24T04:10:14.923Z",
-      "_lastChecked": "2026-03-24T12:33:53.647Z",
+      "_lastChecked": "2026-03-24T12:44:45.164Z",
       "topics": [
         "android",
         "cross-platform",
@@ -4613,7 +4613,7 @@
       "stars": 5785,
       "lastUpdated": "2026-03-21T10:33:33Z",
       "addedAt": "2026-03-24T04:11:17.563Z",
-      "_lastChecked": "2026-03-24T12:02:40.594Z",
+      "_lastChecked": "2026-03-24T12:44:45.163Z",
       "topics": [
         "chromeos",
         "electron",
@@ -4856,7 +4856,7 @@
       "stars": 913,
       "lastUpdated": "2026-03-21T09:34:48Z",
       "addedAt": "2026-03-24T04:12:16.331Z",
-      "_lastChecked": "2026-03-24T12:12:11.140Z",
+      "_lastChecked": "2026-03-24T12:51:49.073Z",
       "topics": [
         "dns",
         "dns-over-h3",
@@ -5552,7 +5552,7 @@
       "stars": 12588,
       "lastUpdated": "2026-03-20T05:48:58Z",
       "addedAt": "2026-03-24T04:15:33.379Z",
-      "_lastChecked": "2026-03-24T12:02:40.594Z",
+      "_lastChecked": "2026-03-24T12:43:40.495Z",
       "topics": [
         "avalonia",
         "avif",
@@ -7399,7 +7399,7 @@
       "stars": 22648,
       "lastUpdated": "2026-03-23T14:49:09Z",
       "addedAt": "2026-03-24T04:24:39.946Z",
-      "_lastChecked": "2026-03-24T12:32:46.350Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "android",
         "cross-platform",
@@ -8275,7 +8275,7 @@
       "stars": 986,
       "lastUpdated": "2026-03-20T00:58:56Z",
       "addedAt": "2026-03-24T04:29:26.627Z",
-      "_lastChecked": "2026-03-24T10:37:55.981Z",
+      "_lastChecked": "2026-03-24T12:51:49.073Z",
       "topics": [
         "android",
         "dart",
@@ -8767,7 +8767,7 @@
       "stars": 2205,
       "lastUpdated": "2023-11-15T00:18:20Z",
       "addedAt": "2026-03-24T04:37:53.769Z",
-      "_lastChecked": "2026-03-24T11:50:09.992Z",
+      "_lastChecked": "2026-03-24T12:48:29.869Z",
       "topics": [
         "activestate",
         "cross-platform",
@@ -8853,10 +8853,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/ihmily/StreamCap",
-      "stars": 3398,
+      "stars": 3399,
       "lastUpdated": "2026-01-01T23:15:31Z",
       "addedAt": "2026-03-24T04:37:53.769Z",
-      "_lastChecked": "2026-03-24T05:51:05.233Z",
+      "_lastChecked": "2026-03-24T12:50:49.275Z",
       "topics": [
         "bilibili",
         "cross-platform",
@@ -8898,7 +8898,7 @@
       "stars": 2716,
       "lastUpdated": "2021-03-06T07:55:05Z",
       "addedAt": "2026-03-24T04:37:53.769Z",
-      "_lastChecked": "2026-03-24T11:50:09.992Z",
+      "_lastChecked": "2026-03-24T12:48:29.870Z",
       "topics": [
         "3d",
         "3d-graphics",
@@ -9023,10 +9023,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/Abdenasser/neohtop",
-      "stars": 8940,
+      "stars": 8941,
       "lastUpdated": "2026-01-07T16:11:16Z",
       "addedAt": "2026-03-24T04:39:04.395Z",
-      "_lastChecked": "2026-03-24T09:57:50.694Z",
+      "_lastChecked": "2026-03-24T12:50:49.275Z",
       "topics": [
         "activity",
         "btop",
@@ -9062,7 +9062,7 @@
       "stars": 3022,
       "lastUpdated": "2022-06-16T23:52:57Z",
       "addedAt": "2026-03-24T04:39:04.395Z",
-      "_lastChecked": "2026-03-24T05:51:05.233Z",
+      "_lastChecked": "2026-03-24T12:48:29.870Z",
       "topics": [
         "aria2",
         "cross-platform",
@@ -9090,10 +9090,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/doublecmd/doublecmd",
-      "stars": 3952,
+      "stars": 3953,
       "lastUpdated": "2026-03-22T18:56:15Z",
       "addedAt": "2026-03-24T04:39:04.395Z",
-      "_lastChecked": "2026-03-24T10:53:24.449Z",
+      "_lastChecked": "2026-03-24T12:45:45.080Z",
       "topics": [
         "cross-platform",
         "double-commander",
@@ -9122,7 +9122,7 @@
       "stars": 6187,
       "lastUpdated": "2025-11-24T12:02:20Z",
       "addedAt": "2026-03-24T04:40:13.936Z",
-      "_lastChecked": "2026-03-24T05:51:05.233Z",
+      "_lastChecked": "2026-03-24T12:50:49.275Z",
       "topics": [
         "cross-platform",
         "multi-cursor",
@@ -9156,7 +9156,7 @@
       "stars": 2235,
       "lastUpdated": "2024-04-05T14:03:52Z",
       "addedAt": "2026-03-24T04:40:13.936Z",
-      "_lastChecked": "2026-03-24T11:50:09.992Z",
+      "_lastChecked": "2026-03-24T12:48:29.869Z",
       "topics": [
         "airspy",
         "airspyhf",
@@ -9200,7 +9200,7 @@
       "stars": 2118,
       "lastUpdated": "2026-03-12T01:42:37Z",
       "addedAt": "2026-03-24T04:40:13.936Z",
-      "_lastChecked": "2026-03-24T12:06:10.591Z",
+      "_lastChecked": "2026-03-24T12:46:45.356Z",
       "topics": [
         "apps",
         "ci",
@@ -9239,7 +9239,7 @@
       "stars": 2564,
       "lastUpdated": "2026-03-03T23:05:02Z",
       "addedAt": "2026-03-24T04:40:13.936Z",
-      "_lastChecked": "2026-03-24T11:50:09.992Z",
+      "_lastChecked": "2026-03-24T12:46:45.356Z",
       "topics": [
         "aquacomputer",
         "asus",
@@ -9279,10 +9279,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
-      "stars": 4775,
+      "stars": 4776,
       "lastUpdated": "2026-03-24T04:54:51Z",
       "addedAt": "2026-03-24T04:40:57.571Z",
-      "_lastChecked": "2026-03-24T11:48:09.855Z",
+      "_lastChecked": "2026-03-24T12:44:45.164Z",
       "topics": [
         "async",
         "asyncio",
@@ -9321,10 +9321,10 @@
       "health": "Maintained",
       "is_cross_platform": true,
       "url": "https://github.com/kootenpv/whereami",
-      "stars": 5144,
+      "stars": 5145,
       "lastUpdated": "2023-11-30T10:27:09Z",
       "addedAt": "2026-03-24T04:40:57.572Z",
-      "_lastChecked": "2026-03-24T10:57:41.799Z",
+      "_lastChecked": "2026-03-24T12:48:29.869Z",
       "topics": [
         "access-point",
         "cross-platform",
@@ -9399,7 +9399,7 @@
       "stars": 2080,
       "lastUpdated": "2026-03-23T14:39:36Z",
       "addedAt": "2026-03-24T04:42:09.854Z",
-      "_lastChecked": "2026-03-24T11:50:09.992Z",
+      "_lastChecked": "2026-03-24T12:46:45.356Z",
       "topics": [
         "cross-platform",
         "csharp",
@@ -9470,7 +9470,7 @@
       "stars": 1379,
       "lastUpdated": "2024-07-30T14:31:26Z",
       "addedAt": "2026-03-24T04:42:09.854Z",
-      "_lastChecked": "2026-03-24T10:57:41.799Z",
+      "_lastChecked": "2026-03-24T12:49:48.883Z",
       "topics": [
         "cli",
         "codeforces",
@@ -9535,7 +9535,7 @@
       "stars": 3819,
       "lastUpdated": "2026-03-24T08:26:30Z",
       "addedAt": "2026-03-24T04:43:14.696Z",
-      "_lastChecked": "2026-03-24T11:48:09.855Z",
+      "_lastChecked": "2026-03-24T12:45:45.081Z",
       "topics": [
         "canvas",
         "canvas2d",
@@ -9576,7 +9576,7 @@
       "stars": 2096,
       "lastUpdated": "2026-03-24T11:09:06Z",
       "addedAt": "2026-03-24T04:43:14.697Z",
-      "_lastChecked": "2026-03-24T11:50:09.992Z",
+      "_lastChecked": "2026-03-24T12:46:45.356Z",
       "topics": [
         "cross-platform",
         "electron",
@@ -9610,7 +9610,7 @@
       "stars": 3858,
       "lastUpdated": "2025-12-22T08:55:32Z",
       "addedAt": "2026-03-24T04:43:14.697Z",
-      "_lastChecked": "2026-03-24T12:14:32.077Z",
+      "_lastChecked": "2026-03-24T12:50:49.275Z",
       "topics": [
         "cross-platform",
         "electron",
@@ -9738,7 +9738,7 @@
       "stars": 1128,
       "lastUpdated": "2025-12-29T18:37:37Z",
       "addedAt": "2026-03-24T04:44:09.074Z",
-      "_lastChecked": "2026-03-24T11:46:10.158Z",
+      "_lastChecked": "2026-03-24T12:50:49.275Z",
       "topics": [
         "android",
         "clone",
@@ -9777,10 +9777,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/athasdev/athas",
-      "stars": 2339,
+      "stars": 2340,
       "lastUpdated": "2026-03-22T16:31:14Z",
       "addedAt": "2026-03-24T04:44:09.074Z",
-      "_lastChecked": "2026-03-24T11:50:09.992Z",
+      "_lastChecked": "2026-03-24T12:46:45.356Z",
       "topics": [
         "athas",
         "code-editor",
@@ -9859,7 +9859,7 @@
       "stars": 2978,
       "lastUpdated": "2026-01-19T13:44:37Z",
       "addedAt": "2026-03-24T04:45:02.795Z",
-      "_lastChecked": "2026-03-24T10:58:57.536Z",
+      "_lastChecked": "2026-03-24T12:50:49.274Z",
       "topics": [
         "c-plus-plus",
         "cross-platform",
@@ -9936,7 +9936,7 @@
       "stars": 3028,
       "lastUpdated": "2026-03-23T19:00:21Z",
       "addedAt": "2026-03-24T04:45:02.795Z",
-      "_lastChecked": "2026-03-24T11:48:09.855Z",
+      "_lastChecked": "2026-03-24T12:45:45.081Z",
       "topics": [
         "cross-platform",
         "lazarus",
@@ -9965,10 +9965,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/qingchencloud/clawpanel",
-      "stars": 1573,
+      "stars": 1576,
       "lastUpdated": "2026-03-24T03:57:52Z",
       "addedAt": "2026-03-24T04:46:10.314Z",
-      "_lastChecked": "2026-03-24T11:48:09.855Z",
+      "_lastChecked": "2026-03-24T12:49:48.883Z",
       "topics": [
         "admin-panel",
         "ai-agent",
@@ -10014,7 +10014,7 @@
       "stars": 3181,
       "lastUpdated": "2026-03-07T11:11:27Z",
       "addedAt": "2026-03-24T04:46:10.314Z",
-      "_lastChecked": "2026-03-24T12:37:04.702Z",
+      "_lastChecked": "2026-03-24T12:45:45.081Z",
       "topics": [
         "android",
         "cross-platform",
@@ -10934,7 +10934,7 @@
       "stars": 4861,
       "lastUpdated": "2026-02-07T06:05:27Z",
       "addedAt": "2026-03-24T04:49:19.152Z",
-      "_lastChecked": "2026-03-24T06:22:32.498Z",
+      "_lastChecked": "2026-03-24T12:44:45.164Z",
       "topics": [
         "bilibili",
         "download",
@@ -11008,7 +11008,7 @@
       "stars": 19649,
       "lastUpdated": "2026-01-22T03:01:36Z",
       "addedAt": "2026-03-24T04:50:46.159Z",
-      "_lastChecked": "2026-03-24T12:10:11.277Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "bongo-cat",
         "bongocat",
@@ -11085,10 +11085,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/ChatGPTNextWeb/NextChat",
-      "stars": 87573,
+      "stars": 87572,
       "lastUpdated": "2025-12-02T17:05:02Z",
       "addedAt": "2026-03-24T04:50:46.159Z",
-      "_lastChecked": "2026-03-24T12:09:10.608Z",
+      "_lastChecked": "2026-03-24T12:50:49.275Z",
       "topics": [
         "calclaude",
         "chatgpt",
@@ -11138,7 +11138,7 @@
       "stars": 942,
       "lastUpdated": "2026-03-23T08:25:45Z",
       "addedAt": "2026-03-24T04:50:46.159Z",
-      "_lastChecked": "2026-03-24T06:22:32.498Z",
+      "_lastChecked": "2026-03-24T12:51:49.073Z",
       "topics": [
         "image-compression",
         "image-compressor",
@@ -11211,7 +11211,7 @@
       "stars": 2728,
       "lastUpdated": "2025-06-27T20:37:53Z",
       "addedAt": "2026-03-24T04:50:46.159Z",
-      "_lastChecked": "2026-03-24T11:50:09.992Z",
+      "_lastChecked": "2026-03-24T12:46:45.355Z",
       "topics": [
         "cross-platform",
         "rust",
@@ -11614,7 +11614,7 @@
       "stars": 23503,
       "lastUpdated": "2024-06-21T12:08:56Z",
       "addedAt": "2026-03-24T04:52:43.727Z",
-      "_lastChecked": "2026-03-24T12:10:11.277Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "cross-platform",
         "electron",
@@ -12009,7 +12009,7 @@
       "stars": 9562,
       "lastUpdated": "2026-01-14T03:25:16Z",
       "addedAt": "2026-03-24T04:54:45.996Z",
-      "_lastChecked": "2026-03-24T12:10:11.277Z",
+      "_lastChecked": "2026-03-24T12:50:49.275Z",
       "topics": [
         "cross-platform",
         "desktop-app",
@@ -12410,7 +12410,7 @@
       "stars": 10073,
       "lastUpdated": "2024-09-07T23:06:30Z",
       "addedAt": "2026-03-24T04:56:46.517Z",
-      "_lastChecked": "2026-03-24T12:34:53.361Z",
+      "_lastChecked": "2026-03-24T12:43:40.496Z",
       "topics": [
         "android",
         "cross-platform",
@@ -12827,9 +12827,9 @@
       "is_cross_platform": true,
       "url": "https://github.com/sxyazi/yazi",
       "stars": 35181,
-      "lastUpdated": "2026-03-24T12:14:06Z",
+      "lastUpdated": "2026-03-24T12:31:27Z",
       "addedAt": "2026-03-24T04:57:47.165Z",
-      "_lastChecked": "2026-03-24T12:19:59.993Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "android",
         "asyncio",
@@ -13886,7 +13886,7 @@
       "stars": 15111,
       "lastUpdated": "2026-02-25T19:32:48Z",
       "addedAt": "2026-03-24T05:03:08.984Z",
-      "_lastChecked": "2026-03-24T12:38:22.997Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "android",
         "cross-platform",
@@ -14182,10 +14182,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/keepassxreboot/keepassxc",
-      "stars": 26347,
+      "stars": 26348,
       "lastUpdated": "2026-03-15T10:06:23Z",
       "addedAt": "2026-03-24T05:05:19.125Z",
-      "_lastChecked": "2026-03-24T12:13:11.278Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "cross-platform",
         "hacktoberfest",
@@ -14267,7 +14267,7 @@
       "stars": 31113,
       "lastUpdated": "2026-02-25T11:53:38Z",
       "addedAt": "2026-03-24T05:05:19.126Z",
-      "_lastChecked": "2026-03-24T12:15:31.424Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "blazor",
         "cross-platform",
@@ -14399,7 +14399,7 @@
       "stars": 23452,
       "lastUpdated": "2026-03-23T03:01:59Z",
       "addedAt": "2026-03-24T05:05:19.126Z",
-      "_lastChecked": "2026-03-24T12:32:46.350Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "android",
         "bittorrent",
@@ -15027,7 +15027,7 @@
       "stars": 8032,
       "lastUpdated": "2026-03-04T01:54:51Z",
       "addedAt": "2026-03-24T05:10:22.216Z",
-      "_lastChecked": "2026-03-24T12:38:22.996Z",
+      "_lastChecked": "2026-03-24T12:43:40.496Z",
       "topics": [
         "acg",
         "android",
@@ -15864,7 +15864,7 @@
       "stars": 18964,
       "lastUpdated": "2026-03-23T14:08:52Z",
       "addedAt": "2026-03-24T05:19:16.147Z",
-      "_lastChecked": "2026-03-24T12:32:46.350Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "android",
         "cross-platform",
@@ -16206,10 +16206,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/vim/vim",
-      "stars": 40055,
+      "stars": 40054,
       "lastUpdated": "2026-03-23T19:59:06Z",
       "addedAt": "2026-03-24T05:23:38.121Z",
-      "_lastChecked": "2026-03-24T11:48:09.855Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "c",
         "cross-platform",
@@ -16238,10 +16238,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/spacedriveapp/spacedrive",
-      "stars": 37467,
+      "stars": 37469,
       "lastUpdated": "2026-03-22T21:16:19Z",
       "addedAt": "2026-03-24T05:23:38.121Z",
-      "_lastChecked": "2026-03-24T11:49:09.526Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "cross-platform",
         "distributed-systems",
@@ -16274,10 +16274,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/balena-io/etcher",
-      "stars": 33375,
+      "stars": 33376,
       "lastUpdated": "2025-07-29T12:17:38Z",
       "addedAt": "2026-03-24T05:23:38.121Z",
-      "_lastChecked": "2026-03-24T10:52:24.853Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "cross-platform",
         "etcher",
@@ -16307,7 +16307,7 @@
       "stars": 29576,
       "lastUpdated": "2026-03-24T00:56:36Z",
       "addedAt": "2026-03-24T05:23:38.121Z",
-      "_lastChecked": "2026-03-24T11:48:09.855Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "capture",
         "cross-platform",
@@ -16344,7 +16344,7 @@
       "stars": 28257,
       "lastUpdated": "2026-03-24T00:30:13Z",
       "addedAt": "2026-03-24T05:23:38.121Z",
-      "_lastChecked": "2026-03-24T11:49:09.526Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "command-line",
         "cross-platform",
@@ -16380,7 +16380,7 @@
       "stars": 28069,
       "lastUpdated": "2026-03-23T16:04:42Z",
       "addedAt": "2026-03-24T05:23:38.121Z",
-      "_lastChecked": "2026-03-24T11:48:09.855Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "cross-platform",
         "documentation",
@@ -16412,10 +16412,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/BeyondDimension/SteamTools",
-      "stars": 24874,
+      "stars": 24875,
       "lastUpdated": "2026-03-11T16:59:36Z",
       "addedAt": "2026-03-24T05:24:26.530Z",
-      "_lastChecked": "2026-03-24T10:52:24.853Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "android-app",
         "avalonia",
@@ -16463,7 +16463,7 @@
       "stars": 23803,
       "lastUpdated": "2026-03-23T00:26:25Z",
       "addedAt": "2026-03-24T05:24:26.531Z",
-      "_lastChecked": "2026-03-24T10:53:24.449Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "c-plus-plus",
         "cross-platform",
@@ -16498,7 +16498,7 @@
       "stars": 22961,
       "lastUpdated": "2026-03-24T07:42:29Z",
       "addedAt": "2026-03-24T05:24:26.531Z",
-      "_lastChecked": "2026-03-24T11:48:09.854Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "busybox",
         "command-line-tool",
@@ -16532,7 +16532,7 @@
       "stars": 22044,
       "lastUpdated": "2023-11-03T08:00:47Z",
       "addedAt": "2026-03-24T05:24:26.531Z",
-      "_lastChecked": "2026-03-24T12:09:10.609Z",
+      "_lastChecked": "2026-03-24T12:48:29.869Z",
       "topics": [
         "clash",
         "cross-platform",
@@ -16563,10 +16563,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/cjpais/Handy",
-      "stars": 18525,
+      "stars": 18527,
       "lastUpdated": "2026-03-23T12:26:17Z",
       "addedAt": "2026-03-24T05:25:38.104Z",
-      "_lastChecked": "2026-03-24T11:49:09.526Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "accessibility",
         "cross-platform",
@@ -16600,7 +16600,7 @@
       "stars": 17050,
       "lastUpdated": "2026-03-21T12:14:06Z",
       "addedAt": "2026-03-24T05:25:38.104Z",
-      "_lastChecked": "2026-03-24T11:49:09.527Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "activitywatch",
         "afk",
@@ -16641,7 +16641,7 @@
       "stars": 16683,
       "lastUpdated": "2026-03-23T12:01:38Z",
       "addedAt": "2026-03-24T05:25:38.104Z",
-      "_lastChecked": "2026-03-24T10:53:24.449Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "audio",
         "cross-platform",
@@ -16674,7 +16674,7 @@
       "stars": 16549,
       "lastUpdated": "2026-03-24T10:42:47Z",
       "addedAt": "2026-03-24T05:25:38.104Z",
-      "_lastChecked": "2026-03-24T12:09:10.610Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "command-and-conquer",
         "cross-platform",
@@ -16717,7 +16717,7 @@
       "stars": 15422,
       "lastUpdated": "2026-03-10T09:22:44Z",
       "addedAt": "2026-03-24T05:25:38.104Z",
-      "_lastChecked": "2026-03-24T12:31:42.515Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "android",
         "cross-platform",
@@ -16753,10 +16753,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/carla-simulator/carla",
-      "stars": 13729,
+      "stars": 13730,
       "lastUpdated": "2026-03-24T10:04:31Z",
       "addedAt": "2026-03-24T05:26:22.737Z",
-      "_lastChecked": "2026-03-24T11:48:09.854Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "ai",
         "artificial-intelligence",
@@ -16797,10 +16797,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/mltframework/shotcut",
-      "stars": 13651,
+      "stars": 13652,
       "lastUpdated": "2026-03-23T23:02:31Z",
       "addedAt": "2026-03-24T05:26:22.737Z",
-      "_lastChecked": "2026-03-24T11:49:09.526Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "cross-platform",
         "gplv3",
@@ -16829,10 +16829,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/ClementTsang/bottom",
-      "stars": 13069,
+      "stars": 13070,
       "lastUpdated": "2026-03-23T00:54:47Z",
       "addedAt": "2026-03-24T05:26:22.737Z",
-      "_lastChecked": "2026-03-24T10:53:24.449Z",
+      "_lastChecked": "2026-03-24T12:42:33.295Z",
       "topics": [
         "bottom",
         "btm",
@@ -16868,7 +16868,7 @@
       "stars": 11367,
       "lastUpdated": "2026-03-24T06:20:12Z",
       "addedAt": "2026-03-24T05:27:32.952Z",
-      "_lastChecked": "2026-03-24T11:48:09.855Z",
+      "_lastChecked": "2026-03-24T12:43:40.495Z",
       "topics": [
         "clipboard",
         "clipboard-manager",
@@ -16901,9 +16901,9 @@
       "is_cross_platform": true,
       "url": "https://github.com/Kareadita/Kavita",
       "stars": 10173,
-      "lastUpdated": "2026-03-23T18:43:53Z",
+      "lastUpdated": "2026-03-24T12:30:18Z",
       "addedAt": "2026-03-24T05:27:32.952Z",
-      "_lastChecked": "2026-03-24T12:11:11.086Z",
+      "_lastChecked": "2026-03-24T12:43:40.496Z",
       "topics": [
         "annotations",
         "cbz",
@@ -16951,7 +16951,7 @@
       "stars": 9451,
       "lastUpdated": "2022-12-06T17:12:44Z",
       "addedAt": "2026-03-24T05:27:32.952Z",
-      "_lastChecked": "2026-03-24T10:52:24.853Z",
+      "_lastChecked": "2026-03-24T12:48:29.870Z",
       "topics": [
         "cross-platform",
         "downloader",
@@ -16991,7 +16991,7 @@
       "stars": 9276,
       "lastUpdated": "2026-03-01T19:13:04Z",
       "addedAt": "2026-03-24T05:27:32.952Z",
-      "_lastChecked": "2026-03-24T11:49:09.527Z",
+      "_lastChecked": "2026-03-24T12:43:40.496Z",
       "topics": [
         "cross-platform",
         "golang",
@@ -17021,10 +17021,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/coaidev/coai",
-      "stars": 9033,
+      "stars": 9034,
       "lastUpdated": "2026-03-12T10:00:31Z",
       "addedAt": "2026-03-24T05:27:32.952Z",
-      "_lastChecked": "2026-03-24T11:49:09.526Z",
+      "_lastChecked": "2026-03-24T12:43:40.496Z",
       "topics": [
         "ai-gateway",
         "api",
@@ -17061,7 +17061,7 @@
       "stars": 8970,
       "lastUpdated": "2024-12-05T10:34:17Z",
       "addedAt": "2026-03-24T05:28:33.044Z",
-      "_lastChecked": "2026-03-24T12:11:11.086Z",
+      "_lastChecked": "2026-03-24T12:43:40.496Z",
       "topics": [
         "cpp",
         "cross-platform",
@@ -17095,10 +17095,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/git-ecosystem/git-credential-manager",
-      "stars": 8691,
+      "stars": 8692,
       "lastUpdated": "2026-03-23T11:03:50Z",
       "addedAt": "2026-03-24T05:28:33.044Z",
-      "_lastChecked": "2026-03-24T10:53:24.449Z",
+      "_lastChecked": "2026-03-24T12:43:40.496Z",
       "topics": [
         "aad",
         "authentication",
@@ -17137,7 +17137,7 @@
       "stars": 8221,
       "lastUpdated": "2023-01-04T14:30:16Z",
       "addedAt": "2026-03-24T05:28:33.045Z",
-      "_lastChecked": "2026-03-24T11:49:09.527Z",
+      "_lastChecked": "2026-03-24T12:48:29.870Z",
       "topics": [
         "cross-platform",
         "electron",
@@ -17169,7 +17169,7 @@
       "stars": 7962,
       "lastUpdated": "2019-11-02T19:58:36Z",
       "addedAt": "2026-03-24T05:28:33.045Z",
-      "_lastChecked": "2026-03-24T10:52:24.853Z",
+      "_lastChecked": "2026-03-24T12:48:29.870Z",
       "topics": [
         "cross-platform",
         "proxy",
@@ -17199,7 +17199,7 @@
       "stars": 7878,
       "lastUpdated": "2026-03-21T09:30:06Z",
       "addedAt": "2026-03-24T05:28:33.045Z",
-      "_lastChecked": "2026-03-24T10:54:23.952Z",
+      "_lastChecked": "2026-03-24T12:43:40.496Z",
       "topics": [
         "cross-platform",
         "dhcp-server",
@@ -17240,7 +17240,7 @@
       "stars": 7759,
       "lastUpdated": "2025-09-08T07:20:44Z",
       "addedAt": "2026-03-24T05:28:33.045Z",
-      "_lastChecked": "2026-03-24T11:49:09.526Z",
+      "_lastChecked": "2026-03-24T12:43:40.496Z",
       "topics": [
         "cross-platform",
         "go",
@@ -17274,7 +17274,7 @@
       "stars": 7147,
       "lastUpdated": "2026-02-27T09:58:45Z",
       "addedAt": "2026-03-24T05:29:49.657Z",
-      "_lastChecked": "2026-03-24T10:54:23.952Z",
+      "_lastChecked": "2026-03-24T12:43:40.496Z",
       "topics": [
         "computer-vision",
         "cross-platform",
@@ -17312,7 +17312,7 @@
       "stars": 6982,
       "lastUpdated": "2025-11-09T09:58:29Z",
       "addedAt": "2026-03-24T05:29:49.657Z",
-      "_lastChecked": "2026-03-24T11:51:15.138Z",
+      "_lastChecked": "2026-03-24T12:50:49.275Z",
       "topics": [
         "cli",
         "cli-app",
@@ -17347,7 +17347,7 @@
       "stars": 6919,
       "lastUpdated": "2026-03-11T13:16:56Z",
       "addedAt": "2026-03-24T05:29:49.657Z",
-      "_lastChecked": "2026-03-24T10:54:23.952Z",
+      "_lastChecked": "2026-03-24T12:43:40.496Z",
       "topics": [
         "cross-platform",
         "file-sharing",
@@ -17385,7 +17385,7 @@
       "stars": 6705,
       "lastUpdated": "2026-03-23T22:13:39Z",
       "addedAt": "2026-03-24T05:29:49.657Z",
-      "_lastChecked": "2026-03-24T11:49:09.526Z",
+      "_lastChecked": "2026-03-24T12:43:40.496Z",
       "topics": [
         "cross-platform",
         "emby",
@@ -17429,7 +17429,7 @@
       "stars": 6554,
       "lastUpdated": "2026-03-24T07:50:48Z",
       "addedAt": "2026-03-24T05:29:49.657Z",
-      "_lastChecked": "2026-03-24T11:48:09.854Z",
+      "_lastChecked": "2026-03-24T12:43:40.496Z",
       "topics": [
         "c",
         "c-plus-plus",
@@ -20070,7 +20070,7 @@
       "stars": 4951,
       "lastUpdated": "2021-06-06T10:16:29Z",
       "addedAt": "2026-03-24T05:43:18.493Z",
-      "_lastChecked": "2026-03-24T12:10:11.277Z",
+      "_lastChecked": "2026-03-24T12:48:29.870Z",
       "topics": [
         "cross-platform",
         "download-subtitles",
@@ -20106,10 +20106,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/AlexandreRouma/SDRPlusPlus",
-      "stars": 5781,
+      "stars": 5782,
       "lastUpdated": "2026-03-23T14:15:57Z",
       "addedAt": "2026-03-24T05:43:18.494Z",
-      "_lastChecked": "2026-03-24T11:49:09.527Z",
+      "_lastChecked": "2026-03-24T12:44:45.163Z",
       "topics": [
         "cross-platform",
         "sdr"
@@ -20140,7 +20140,7 @@
       "stars": 3673,
       "lastUpdated": "2022-03-30T19:35:48Z",
       "addedAt": "2026-03-24T05:45:05.424Z",
-      "_lastChecked": "2026-03-24T10:54:23.952Z",
+      "_lastChecked": "2026-03-24T12:48:29.870Z",
       "topics": [
         "angular",
         "angulardart",
@@ -20429,7 +20429,7 @@
       "stars": 2276,
       "lastUpdated": "2025-01-19T03:17:20Z",
       "addedAt": "2026-03-24T05:46:04.233Z",
-      "_lastChecked": "2026-03-24T11:50:09.992Z",
+      "_lastChecked": "2026-03-24T12:46:45.356Z",
       "topics": [
         "4xmen",
         "android-app",
@@ -21492,7 +21492,7 @@
       "stars": 4736,
       "lastUpdated": "2025-12-03T04:33:09Z",
       "addedAt": "2026-03-24T05:50:57.109Z",
-      "_lastChecked": "2026-03-24T10:54:23.952Z",
+      "_lastChecked": "2026-03-24T12:50:49.275Z",
       "topics": [
         "cross-database",
         "cross-platform",
@@ -21529,7 +21529,7 @@
       "stars": 4835,
       "lastUpdated": "2026-03-19T13:30:46Z",
       "addedAt": "2026-03-24T05:52:21.648Z",
-      "_lastChecked": "2026-03-24T12:02:40.594Z",
+      "_lastChecked": "2026-03-24T12:44:45.164Z",
       "topics": [
         "cli",
         "cross-platform",
@@ -21703,7 +21703,7 @@
       "stars": 3638,
       "lastUpdated": "2024-01-25T20:33:42Z",
       "addedAt": "2026-03-24T05:52:21.649Z",
-      "_lastChecked": "2026-03-24T12:01:41.725Z",
+      "_lastChecked": "2026-03-24T12:48:29.869Z",
       "topics": [
         "cross-platform",
         "desktop-app",
@@ -22143,7 +22143,7 @@
       "stars": 895,
       "lastUpdated": "2020-07-30T08:31:26Z",
       "addedAt": "2026-03-24T05:54:39.105Z",
-      "_lastChecked": "2026-03-24T10:58:57.536Z",
+      "_lastChecked": "2026-03-24T12:51:49.073Z",
       "topics": [
         "bitcoin",
         "cryptocurrency",
@@ -23666,7 +23666,7 @@
       "stars": 2931,
       "lastUpdated": "2025-12-08T10:00:55Z",
       "addedAt": "2026-03-24T06:00:52.048Z",
-      "_lastChecked": "2026-03-24T10:27:27.395Z",
+      "_lastChecked": "2026-03-24T12:50:49.275Z",
       "topics": [
         "android-app",
         "flutter",
@@ -27132,7 +27132,7 @@
       "stars": 1782,
       "lastUpdated": "2024-01-15T08:28:42Z",
       "addedAt": "2026-03-24T06:26:19.347Z",
-      "_lastChecked": "2026-03-24T11:50:09.993Z",
+      "_lastChecked": "2026-03-24T12:48:29.869Z",
       "topics": [
         "android",
         "cross-platform",
@@ -27231,7 +27231,7 @@
       "stars": 2161,
       "lastUpdated": "2026-03-24T11:31:43Z",
       "addedAt": "2026-03-24T06:27:18.501Z",
-      "_lastChecked": "2026-03-24T11:58:40.374Z",
+      "_lastChecked": "2026-03-24T12:46:45.356Z",
       "topics": [
         "aurelia",
         "cross-platform",
@@ -27273,7 +27273,7 @@
       "stars": 903,
       "lastUpdated": "2026-03-24T00:05:03Z",
       "addedAt": "2026-03-24T06:27:18.501Z",
-      "_lastChecked": "2026-03-24T11:53:26.962Z",
+      "_lastChecked": "2026-03-24T12:51:49.073Z",
       "topics": [
         "clone",
         "cross-platform",
@@ -27305,7 +27305,7 @@
       "stars": 5619,
       "lastUpdated": "2026-03-24T08:48:08Z",
       "addedAt": "2026-03-24T06:27:18.501Z",
-      "_lastChecked": "2026-03-24T11:48:09.854Z",
+      "_lastChecked": "2026-03-24T12:44:45.164Z",
       "topics": [
         "agent",
         "agent-skills",
@@ -27388,7 +27388,7 @@
       "stars": 2517,
       "lastUpdated": "2026-03-23T21:36:17Z",
       "addedAt": "2026-03-24T06:28:29.180Z",
-      "_lastChecked": "2026-03-24T12:17:38.401Z",
+      "_lastChecked": "2026-03-24T12:46:45.356Z",
       "topics": [
         "bitcoin",
         "bitcoin-wallet",
@@ -27470,7 +27470,7 @@
       "stars": 2995,
       "lastUpdated": "2026-03-23T21:04:04Z",
       "addedAt": "2026-03-24T06:28:29.180Z",
-      "_lastChecked": "2026-03-24T11:51:15.138Z",
+      "_lastChecked": "2026-03-24T12:45:45.081Z",
       "topics": [
         "algernon",
         "buildless",
@@ -27522,7 +27522,7 @@
       "stars": 2631,
       "lastUpdated": "2026-03-23T20:53:42Z",
       "addedAt": "2026-03-24T06:28:29.180Z",
-      "_lastChecked": "2026-03-24T11:50:09.992Z",
+      "_lastChecked": "2026-03-24T12:46:45.356Z",
       "topics": [
         "cross-platform",
         "dark-mode",
@@ -27620,7 +27620,7 @@
       "stars": 2058,
       "lastUpdated": "2026-03-23T17:11:42Z",
       "addedAt": "2026-03-24T06:29:23.237Z",
-      "_lastChecked": "2026-03-24T11:50:09.992Z",
+      "_lastChecked": "2026-03-24T12:46:45.356Z",
       "topics": [
         "airsonic",
         "audio-player",
@@ -27698,7 +27698,7 @@
       "stars": 3889,
       "lastUpdated": "2026-03-23T16:07:57Z",
       "addedAt": "2026-03-24T06:29:23.237Z",
-      "_lastChecked": "2026-03-24T11:48:09.855Z",
+      "_lastChecked": "2026-03-24T12:45:45.081Z",
       "topics": [
         "audio-streaming",
         "codec",
@@ -29065,7 +29065,7 @@
       "stars": 1323,
       "lastUpdated": "2026-03-13T19:29:24Z",
       "addedAt": "2026-03-24T06:37:52.575Z",
-      "_lastChecked": "2026-03-24T11:53:26.962Z",
+      "_lastChecked": "2026-03-24T12:49:48.883Z",
       "topics": [
         "cross-platform",
         "editor",
@@ -29931,7 +29931,7 @@
       "stars": 10160,
       "lastUpdated": "2026-02-24T13:54:37Z",
       "addedAt": "2026-03-24T06:42:10.261Z",
-      "_lastChecked": "2026-03-24T12:38:22.997Z",
+      "_lastChecked": "2026-03-24T12:43:40.496Z",
       "topics": [
         "amnezia",
         "android",
@@ -30513,7 +30513,7 @@
       "stars": 2772,
       "lastUpdated": "2026-02-20T22:53:24Z",
       "addedAt": "2026-03-24T06:51:43.861Z",
-      "_lastChecked": "2026-03-24T11:50:09.991Z",
+      "_lastChecked": "2026-03-24T12:45:45.081Z",
       "topics": [
         "avalonia",
         "cross-platform",
@@ -30549,7 +30549,7 @@
       "stars": 2598,
       "lastUpdated": "2026-02-03T08:33:39Z",
       "addedAt": "2026-03-24T06:52:50.111Z",
-      "_lastChecked": "2026-03-24T11:50:09.992Z",
+      "_lastChecked": "2026-03-24T12:46:45.356Z",
       "topics": [
         "cross-platform",
         "editor",
@@ -30589,7 +30589,7 @@
       "stars": 2547,
       "lastUpdated": "2023-11-20T10:54:46Z",
       "addedAt": "2026-03-24T06:52:50.112Z",
-      "_lastChecked": "2026-03-24T12:30:10.208Z",
+      "_lastChecked": "2026-03-24T12:48:29.869Z",
       "topics": [
         "android",
         "cobalt-strike",
@@ -30623,7 +30623,7 @@
       "stars": 2367,
       "lastUpdated": "2026-03-24T10:19:25Z",
       "addedAt": "2026-03-24T06:52:50.112Z",
-      "_lastChecked": "2026-03-24T12:17:38.401Z",
+      "_lastChecked": "2026-03-24T12:46:45.356Z",
       "topics": [
         "cross-platform",
         "linux",
@@ -30655,7 +30655,7 @@
       "stars": 2203,
       "lastUpdated": "2026-02-16T16:24:35Z",
       "addedAt": "2026-03-24T06:54:03.369Z",
-      "_lastChecked": "2026-03-24T11:50:09.992Z",
+      "_lastChecked": "2026-03-24T12:46:45.356Z",
       "topics": [
         "async-rust",
         "concurrency",
@@ -30702,7 +30702,7 @@
       "stars": 2145,
       "lastUpdated": "2026-02-24T02:37:13Z",
       "addedAt": "2026-03-24T06:54:03.369Z",
-      "_lastChecked": "2026-03-24T11:50:09.992Z",
+      "_lastChecked": "2026-03-24T12:46:45.356Z",
       "topics": [
         "azure-storage",
         "azurite",
@@ -30737,7 +30737,7 @@
       "stars": 2119,
       "lastUpdated": "2026-03-14T21:06:51Z",
       "addedAt": "2026-03-24T06:54:03.369Z",
-      "_lastChecked": "2026-03-24T11:51:15.138Z",
+      "_lastChecked": "2026-03-24T12:46:45.356Z",
       "topics": [
         "acm",
         "acm-icpc",
@@ -30853,7 +30853,7 @@
       "stars": 1878,
       "lastUpdated": "2022-05-16T17:17:30Z",
       "addedAt": "2026-03-24T06:56:23.883Z",
-      "_lastChecked": "2026-03-24T11:50:09.992Z",
+      "_lastChecked": "2026-03-24T12:48:29.870Z",
       "topics": [
         "clojure",
         "clojurescript",
@@ -30994,7 +30994,7 @@
       "stars": 1781,
       "lastUpdated": "2026-01-04T13:48:02Z",
       "addedAt": "2026-03-24T06:57:17.498Z",
-      "_lastChecked": "2026-03-24T11:51:15.138Z",
+      "_lastChecked": "2026-03-24T12:50:49.275Z",
       "topics": [
         "ai",
         "chatgpt",
@@ -31233,7 +31233,7 @@
       "stars": 1616,
       "lastUpdated": "2024-11-10T01:58:39Z",
       "addedAt": "2026-03-24T06:58:44.015Z",
-      "_lastChecked": "2026-03-24T11:50:09.993Z",
+      "_lastChecked": "2026-03-24T12:49:48.882Z",
       "topics": [
         "android",
         "balatro",
@@ -36916,10 +36916,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/thewh1teagle/vibe",
-      "stars": 5602,
+      "stars": 5603,
       "lastUpdated": "2026-03-13T06:02:34Z",
       "addedAt": "2026-03-24T07:37:10.223Z",
-      "_lastChecked": "2026-03-24T09:59:50.995Z",
+      "_lastChecked": "2026-03-24T12:44:45.164Z",
       "topics": [
         "ai",
         "cross-platform",
@@ -36954,7 +36954,7 @@
       "stars": 5414,
       "lastUpdated": "2026-03-24T05:34:53Z",
       "addedAt": "2026-03-24T07:37:10.224Z",
-      "_lastChecked": "2026-03-24T11:48:09.855Z",
+      "_lastChecked": "2026-03-24T12:44:45.164Z",
       "topics": [
         "cross-platform",
         "file",
@@ -36989,7 +36989,7 @@
       "stars": 5213,
       "lastUpdated": "2026-02-23T01:27:16Z",
       "addedAt": "2026-03-24T07:37:10.224Z",
-      "_lastChecked": "2026-03-24T10:56:24.474Z",
+      "_lastChecked": "2026-03-24T12:44:45.164Z",
       "topics": [
         "backup",
         "cli",
@@ -37028,7 +37028,7 @@
       "stars": 5079,
       "lastUpdated": "2026-03-04T03:01:52Z",
       "addedAt": "2026-03-24T07:37:10.224Z",
-      "_lastChecked": "2026-03-24T10:54:23.952Z",
+      "_lastChecked": "2026-03-24T12:44:45.164Z",
       "topics": [
         "cosplatfrom",
         "cross-platform",
@@ -37062,7 +37062,7 @@
       "stars": 4958,
       "lastUpdated": "2026-03-05T09:16:27Z",
       "addedAt": "2026-03-24T07:37:10.224Z",
-      "_lastChecked": "2026-03-24T11:11:34.071Z",
+      "_lastChecked": "2026-03-24T12:44:45.164Z",
       "topics": [
         "collaboration",
         "cross-platform",
@@ -37100,10 +37100,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/sourcegit-scm/sourcegit",
-      "stars": 4762,
+      "stars": 4763,
       "lastUpdated": "2026-03-24T11:22:18Z",
       "addedAt": "2026-03-24T07:38:09.312Z",
-      "_lastChecked": "2026-03-24T11:48:09.855Z",
+      "_lastChecked": "2026-03-24T12:44:45.164Z",
       "topics": [
         "cross-platform",
         "git",
@@ -37131,10 +37131,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/clangen/musikcube",
-      "stars": 4722,
+      "stars": 4723,
       "lastUpdated": "2026-03-23T02:00:57Z",
       "addedAt": "2026-03-24T07:38:09.312Z",
-      "_lastChecked": "2026-03-24T10:53:24.449Z",
+      "_lastChecked": "2026-03-24T12:44:45.164Z",
       "topics": [
         "alsa",
         "audio-engine",
@@ -37174,7 +37174,7 @@
       "stars": 4336,
       "lastUpdated": "2023-08-07T20:11:29Z",
       "addedAt": "2026-03-24T07:38:09.312Z",
-      "_lastChecked": "2026-03-24T12:14:32.077Z",
+      "_lastChecked": "2026-03-24T12:48:29.869Z",
       "topics": [
         "cross-platform",
         "desktop",
@@ -37212,7 +37212,7 @@
       "stars": 4242,
       "lastUpdated": "2025-11-15T20:05:05Z",
       "addedAt": "2026-03-24T07:38:09.312Z",
-      "_lastChecked": "2026-03-24T09:59:50.994Z",
+      "_lastChecked": "2026-03-24T12:50:49.275Z",
       "topics": [
         "c-plus-plus",
         "cross-platform",
@@ -37254,7 +37254,7 @@
       "stars": 3923,
       "lastUpdated": "2024-12-04T12:49:06Z",
       "addedAt": "2026-03-24T07:39:25.394Z",
-      "_lastChecked": "2026-03-24T11:51:15.138Z",
+      "_lastChecked": "2026-03-24T12:45:45.080Z",
       "topics": [
         "client-server",
         "cozo",
@@ -37295,7 +37295,7 @@
       "stars": 3915,
       "lastUpdated": "2021-12-30T15:22:52Z",
       "addedAt": "2026-03-24T07:39:25.394Z",
-      "_lastChecked": "2026-03-24T09:59:50.994Z",
+      "_lastChecked": "2026-03-24T12:48:29.870Z",
       "topics": [
         "c-plus-plus",
         "cross-platform",
@@ -37329,7 +37329,7 @@
       "stars": 3904,
       "lastUpdated": "2026-03-20T09:53:50Z",
       "addedAt": "2026-03-24T07:39:25.394Z",
-      "_lastChecked": "2026-03-24T10:54:23.952Z",
+      "_lastChecked": "2026-03-24T12:45:45.081Z",
       "topics": [
         "cross-platform",
         "linux",
@@ -37369,7 +37369,7 @@
       "stars": 3815,
       "lastUpdated": "2026-03-23T15:08:50Z",
       "addedAt": "2026-03-24T07:39:25.394Z",
-      "_lastChecked": "2026-03-24T12:16:31.883Z",
+      "_lastChecked": "2026-03-24T12:45:45.081Z",
       "topics": [
         "asdf",
         "bash",
@@ -37415,7 +37415,7 @@
       "stars": 3773,
       "lastUpdated": "2025-09-30T16:44:14Z",
       "addedAt": "2026-03-24T07:39:25.394Z",
-      "_lastChecked": "2026-03-24T07:39:25.394Z",
+      "_lastChecked": "2026-03-24T12:45:45.081Z",
       "topics": [
         "chat",
         "client",
@@ -37448,7 +37448,7 @@
       "stars": 3682,
       "lastUpdated": "2026-03-23T14:45:01Z",
       "addedAt": "2026-03-24T07:39:25.394Z",
-      "_lastChecked": "2026-03-24T11:48:09.855Z",
+      "_lastChecked": "2026-03-24T12:45:45.081Z",
       "topics": [
         "cross-platform",
         "csharp",
@@ -37482,7 +37482,7 @@
       "stars": 3662,
       "lastUpdated": "2026-03-12T03:11:18Z",
       "addedAt": "2026-03-24T07:39:25.394Z",
-      "_lastChecked": "2026-03-24T12:13:11.278Z",
+      "_lastChecked": "2026-03-24T12:45:45.081Z",
       "topics": [
         "ai",
         "automatic",
@@ -37524,7 +37524,7 @@
       "stars": 3469,
       "lastUpdated": "2023-08-15T07:45:24Z",
       "addedAt": "2026-03-24T07:40:32.784Z",
-      "_lastChecked": "2026-03-24T09:59:50.995Z",
+      "_lastChecked": "2026-03-24T12:48:29.869Z",
       "topics": [
         "cross-platform",
         "database-management",
@@ -37563,7 +37563,7 @@
       "stars": 3435,
       "lastUpdated": "2026-03-20T16:44:30Z",
       "addedAt": "2026-03-24T07:40:32.784Z",
-      "_lastChecked": "2026-03-24T11:51:15.138Z",
+      "_lastChecked": "2026-03-24T12:45:45.081Z",
       "topics": [
         "audio-applications",
         "composition",
@@ -37603,7 +37603,7 @@
       "stars": 3230,
       "lastUpdated": "2024-04-14T19:34:21Z",
       "addedAt": "2026-03-24T07:40:32.784Z",
-      "_lastChecked": "2026-03-24T11:51:15.138Z",
+      "_lastChecked": "2026-03-24T12:48:29.869Z",
       "topics": [
         "ascii",
         "ascii-art",
@@ -37650,7 +37650,7 @@
       "stars": 3205,
       "lastUpdated": "2025-10-13T00:28:01Z",
       "addedAt": "2026-03-24T07:40:32.784Z",
-      "_lastChecked": "2026-03-24T11:51:15.138Z",
+      "_lastChecked": "2026-03-24T12:45:45.081Z",
       "topics": [
         "cross-platform",
         "image-viewer",
@@ -37685,7 +37685,7 @@
       "stars": 3146,
       "lastUpdated": "2026-03-21T13:55:09Z",
       "addedAt": "2026-03-24T07:40:32.784Z",
-      "_lastChecked": "2026-03-24T11:51:15.138Z",
+      "_lastChecked": "2026-03-24T12:45:45.081Z",
       "topics": [
         "c",
         "console-application",
@@ -37724,7 +37724,7 @@
       "stars": 3063,
       "lastUpdated": "2024-05-16T17:27:43Z",
       "addedAt": "2026-03-24T07:40:32.784Z",
-      "_lastChecked": "2026-03-24T12:11:11.086Z",
+      "_lastChecked": "2026-03-24T12:45:45.081Z",
       "topics": [
         "cross-platform",
         "javafx",
@@ -37757,7 +37757,7 @@
       "stars": 2815,
       "lastUpdated": "2024-03-16T17:58:33Z",
       "addedAt": "2026-03-24T07:41:22.484Z",
-      "_lastChecked": "2026-03-24T10:54:23.952Z",
+      "_lastChecked": "2026-03-24T12:48:29.869Z",
       "topics": [
         "3d",
         "actorx",
@@ -38987,7 +38987,7 @@
       "stars": 904,
       "lastUpdated": "2020-10-01T18:04:46Z",
       "addedAt": "2026-03-24T07:54:19.161Z",
-      "_lastChecked": "2026-03-24T11:52:27.059Z",
+      "_lastChecked": "2026-03-24T12:51:49.073Z",
       "topics": [
         "android",
         "cross-platform",
@@ -39019,7 +39019,7 @@
       "stars": 877,
       "lastUpdated": "2024-01-08T02:29:50Z",
       "addedAt": "2026-03-24T07:55:33.691Z",
-      "_lastChecked": "2026-03-24T11:52:27.059Z",
+      "_lastChecked": "2026-03-24T12:48:29.869Z",
       "topics": [
         "cross-platform",
         "distributed",
@@ -39735,7 +39735,7 @@
       "stars": 1001,
       "lastUpdated": "2026-03-21T15:38:53Z",
       "addedAt": "2026-03-24T08:00:43.698Z",
-      "_lastChecked": "2026-03-24T12:12:11.140Z",
+      "_lastChecked": "2026-03-24T12:51:49.073Z",
       "topics": [
         "anime",
         "artwork",
@@ -39895,10 +39895,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/KnugiHK/WhatsApp-Chat-Exporter",
-      "stars": 995,
+      "stars": 996,
       "lastUpdated": "2026-03-21T10:04:38Z",
       "addedAt": "2026-03-24T08:02:43.811Z",
-      "_lastChecked": "2026-03-24T09:47:36.244Z",
+      "_lastChecked": "2026-03-24T12:51:49.073Z",
       "topics": [
         "android",
         "android-backup",
@@ -40105,7 +40105,7 @@
       "stars": 6864,
       "lastUpdated": "2026-03-23T18:20:41Z",
       "addedAt": "2026-03-24T08:09:48.375Z",
-      "_lastChecked": "2026-03-24T11:48:09.855Z",
+      "_lastChecked": "2026-03-24T12:43:40.496Z",
       "topics": [
         "compiler",
         "cross-platform",
@@ -41547,7 +41547,7 @@
       "stars": 911,
       "lastUpdated": "2026-03-18T03:38:43Z",
       "addedAt": "2026-03-24T08:28:08.772Z",
-      "_lastChecked": "2026-03-24T12:12:11.141Z",
+      "_lastChecked": "2026-03-24T12:51:49.073Z",
       "topics": [
         "bsd",
         "cli",
@@ -41592,7 +41592,7 @@
       "stars": 986,
       "lastUpdated": "2026-03-17T13:34:50Z",
       "addedAt": "2026-03-24T08:28:08.773Z",
-      "_lastChecked": "2026-03-24T11:53:26.960Z",
+      "_lastChecked": "2026-03-24T12:51:49.073Z",
       "topics": [
         "chess",
         "chess-puzzle",
@@ -41669,7 +41669,7 @@
       "stars": 991,
       "lastUpdated": "2026-03-15T17:14:07Z",
       "addedAt": "2026-03-24T08:28:54.544Z",
-      "_lastChecked": "2026-03-24T11:53:26.962Z",
+      "_lastChecked": "2026-03-24T12:51:49.073Z",
       "topics": [
         "avalonia-ui",
         "blu-ray",
@@ -41772,7 +41772,7 @@
       "stars": 908,
       "lastUpdated": "2026-03-13T12:40:12Z",
       "addedAt": "2026-03-24T08:30:08.675Z",
-      "_lastChecked": "2026-03-24T11:52:27.059Z",
+      "_lastChecked": "2026-03-24T12:51:49.073Z",
       "topics": [
         "ai",
         "api-wrapper",
@@ -41852,7 +41852,7 @@
       "stars": 1012,
       "lastUpdated": "2026-03-12T18:44:26Z",
       "addedAt": "2026-03-24T08:30:08.675Z",
-      "_lastChecked": "2026-03-24T12:27:51.542Z",
+      "_lastChecked": "2026-03-24T12:51:49.071Z",
       "topics": [
         "android",
         "bootloader",
@@ -42049,7 +42049,7 @@
       "stars": 1354,
       "lastUpdated": "2026-03-05T18:39:02Z",
       "addedAt": "2026-03-24T08:31:17.087Z",
-      "_lastChecked": "2026-03-24T11:51:15.138Z",
+      "_lastChecked": "2026-03-24T12:49:48.883Z",
       "topics": [
         "cross-platform",
         "gui",
@@ -42166,7 +42166,7 @@
       "stars": 1441,
       "lastUpdated": "2026-03-02T11:48:05Z",
       "addedAt": "2026-03-24T08:32:16.940Z",
-      "_lastChecked": "2026-03-24T12:38:22.997Z",
+      "_lastChecked": "2026-03-24T12:49:48.883Z",
       "topics": [
         "acg",
         "android",
@@ -42207,7 +42207,7 @@
       "stars": 1610,
       "lastUpdated": "2026-02-27T22:08:17Z",
       "addedAt": "2026-03-24T08:32:16.940Z",
-      "_lastChecked": "2026-03-24T10:56:24.483Z",
+      "_lastChecked": "2026-03-24T12:49:48.883Z",
       "topics": [
         "audio",
         "conversion",
@@ -42249,7 +42249,7 @@
       "stars": 1530,
       "lastUpdated": "2026-02-27T13:25:06Z",
       "addedAt": "2026-03-24T08:32:16.940Z",
-      "_lastChecked": "2026-03-24T11:51:15.138Z",
+      "_lastChecked": "2026-03-24T12:49:48.883Z",
       "topics": [
         "bioinformatics",
         "cross-platform",
@@ -43002,7 +43002,7 @@
       "stars": 1410,
       "lastUpdated": "2026-03-22T15:38:56Z",
       "addedAt": "2026-03-24T08:42:46.889Z",
-      "_lastChecked": "2026-03-24T10:56:24.481Z",
+      "_lastChecked": "2026-03-24T12:49:48.883Z",
       "topics": [
         "cross-platform",
         "elgato",
@@ -43164,7 +43164,7 @@
       "stars": 1368,
       "lastUpdated": "2026-03-20T14:18:17Z",
       "addedAt": "2026-03-24T08:43:43.980Z",
-      "_lastChecked": "2026-03-24T12:16:31.884Z",
+      "_lastChecked": "2026-03-24T12:49:48.883Z",
       "topics": [
         "cross-platform",
         "desktop",
@@ -47138,7 +47138,7 @@
       "stars": 2379,
       "lastUpdated": "2026-02-17T16:51:55Z",
       "addedAt": "2026-03-24T09:32:35.419Z",
-      "_lastChecked": "2026-03-24T12:17:38.401Z",
+      "_lastChecked": "2026-03-24T12:46:45.356Z",
       "topics": [
         "concurrency",
         "dark-mode",
@@ -48338,7 +48338,7 @@
       "stars": 1490,
       "lastUpdated": "2025-07-09T05:10:46Z",
       "addedAt": "2026-03-24T09:42:06.274Z",
-      "_lastChecked": "2026-03-24T11:51:15.138Z",
+      "_lastChecked": "2026-03-24T12:49:48.883Z",
       "topics": [
         "android",
         "cross-platform",
@@ -48380,7 +48380,7 @@
       "stars": 1008,
       "lastUpdated": "2024-08-14T18:33:58Z",
       "addedAt": "2026-03-24T09:42:06.274Z",
-      "_lastChecked": "2026-03-24T11:23:22.771Z",
+      "_lastChecked": "2026-03-24T12:51:49.073Z",
       "topics": [
         "android",
         "android-messages",
@@ -48481,7 +48481,7 @@
       "stars": 2174,
       "lastUpdated": "2026-03-15T14:27:13Z",
       "addedAt": "2026-03-24T09:42:06.275Z",
-      "_lastChecked": "2026-03-24T12:27:51.542Z",
+      "_lastChecked": "2026-03-24T12:46:45.356Z",
       "topics": [
         "alpine-linux",
         "amd64",
@@ -48707,7 +48707,7 @@
       "stars": 2768,
       "lastUpdated": "2026-03-16T13:02:18Z",
       "addedAt": "2026-03-24T09:43:15.218Z",
-      "_lastChecked": "2026-03-24T12:13:11.278Z",
+      "_lastChecked": "2026-03-24T12:45:45.081Z",
       "topics": [
         "bar",
         "desktop",
@@ -49321,7 +49321,7 @@
       "stars": 898,
       "lastUpdated": "2026-02-12T03:40:40Z",
       "addedAt": "2026-03-24T09:47:26.905Z",
-      "_lastChecked": "2026-03-24T12:15:31.424Z",
+      "_lastChecked": "2026-03-24T12:51:49.073Z",
       "topics": [
         "cli",
         "codesign",
@@ -51535,7 +51535,7 @@
       "stars": 1520,
       "lastUpdated": "2026-03-20T18:08:02Z",
       "addedAt": "2026-03-24T09:59:44.780Z",
-      "_lastChecked": "2026-03-24T12:04:10.403Z",
+      "_lastChecked": "2026-03-24T12:49:48.883Z",
       "topics": [
         "developer-tools",
         "devtools",
@@ -51645,7 +51645,7 @@
       "stars": 1378,
       "lastUpdated": "2024-01-22T09:55:43Z",
       "addedAt": "2026-03-24T09:59:44.781Z",
-      "_lastChecked": "2026-03-24T11:22:11.933Z",
+      "_lastChecked": "2026-03-24T12:49:48.883Z",
       "topics": [
         "cross-platform",
         "database",
@@ -54881,7 +54881,7 @@
       "stars": 3155,
       "lastUpdated": "2026-03-07T06:33:11Z",
       "addedAt": "2026-03-24T10:19:25.845Z",
-      "_lastChecked": "2026-03-24T12:04:10.402Z",
+      "_lastChecked": "2026-03-24T12:45:45.081Z",
       "topics": [
         "annotation",
         "blur-image",
@@ -56626,7 +56626,7 @@
       "stars": 1595,
       "lastUpdated": "2026-02-05T22:29:46Z",
       "addedAt": "2026-03-24T10:28:24.534Z",
-      "_lastChecked": "2026-03-24T12:15:31.424Z",
+      "_lastChecked": "2026-03-24T12:49:48.883Z",
       "topics": [
         "bar",
         "configurable",
@@ -58335,7 +58335,7 @@
       "stars": 2411,
       "lastUpdated": "2025-08-04T03:37:11Z",
       "addedAt": "2026-03-24T10:40:10.852Z",
-      "_lastChecked": "2026-03-24T12:17:38.401Z",
+      "_lastChecked": "2026-03-24T12:46:45.356Z",
       "topics": [
         "assistant",
         "debug",
@@ -58498,7 +58498,7 @@
       "stars": 2385,
       "lastUpdated": "2025-11-10T19:28:50Z",
       "addedAt": "2026-03-24T10:40:10.852Z",
-      "_lastChecked": "2026-03-24T12:17:38.401Z",
+      "_lastChecked": "2026-03-24T12:50:49.275Z",
       "topics": [
         "batch-rename",
         "bulk-rename-files",
@@ -66834,7 +66834,7 @@
       "stars": 1477,
       "lastUpdated": "2026-03-16T12:19:25Z",
       "addedAt": "2026-03-24T11:31:08.919Z",
-      "_lastChecked": "2026-03-24T11:31:08.919Z",
+      "_lastChecked": "2026-03-24T12:49:48.883Z",
       "topics": [
         "aspnetcore",
         "blazor",
@@ -68610,7 +68610,7 @@
       "stars": 3466,
       "lastUpdated": "2024-01-07T13:45:10Z",
       "addedAt": "2026-03-24T11:44:37.469Z",
-      "_lastChecked": "2026-03-24T11:44:37.469Z",
+      "_lastChecked": "2026-03-24T12:45:45.081Z",
       "topics": [
         "ant-design-vue",
         "bilibili-download",
@@ -69041,7 +69041,7 @@
       "stars": 1430,
       "lastUpdated": "2024-07-11T08:49:23Z",
       "addedAt": "2026-03-24T11:48:03.439Z",
-      "_lastChecked": "2026-03-24T11:48:03.439Z",
+      "_lastChecked": "2026-03-24T12:49:48.883Z",
       "topics": [
         "go",
         "grpc",
@@ -69187,7 +69187,7 @@
       "stars": 1326,
       "lastUpdated": "2025-12-10T12:19:38Z",
       "addedAt": "2026-03-24T11:48:03.439Z",
-      "_lastChecked": "2026-03-24T11:48:03.439Z",
+      "_lastChecked": "2026-03-24T12:50:49.275Z",
       "topics": [
         "bluetooth",
         "bluez",
@@ -69219,7 +69219,7 @@
       "stars": 1320,
       "lastUpdated": "2025-11-20T02:03:08Z",
       "addedAt": "2026-03-24T11:48:03.439Z",
-      "_lastChecked": "2026-03-24T12:07:10.812Z",
+      "_lastChecked": "2026-03-24T12:50:49.275Z",
       "topics": [
         "asdf-vm",
         "conda",
@@ -69953,7 +69953,7 @@
       "stars": 927,
       "lastUpdated": "2026-03-19T22:40:35Z",
       "addedAt": "2026-03-24T11:52:18.179Z",
-      "_lastChecked": "2026-03-24T12:02:40.594Z",
+      "_lastChecked": "2026-03-24T12:51:49.073Z",
       "topics": [
         "aws",
         "common-workflow-language",
@@ -74058,7 +74058,7 @@
       "stars": 2235,
       "lastUpdated": "2023-12-27T12:37:47Z",
       "addedAt": "2026-03-24T12:28:47.679Z",
-      "_lastChecked": "2026-03-24T12:28:47.679Z",
+      "_lastChecked": "2026-03-24T12:46:45.356Z",
       "topics": [
         "excel",
         "macro",
@@ -75280,7 +75280,7 @@
       "stars": 1081,
       "lastUpdated": "2026-01-16T14:56:46Z",
       "addedAt": "2026-03-24T12:38:13.188Z",
-      "_lastChecked": "2026-03-24T12:38:13.188Z",
+      "_lastChecked": "2026-03-24T12:50:49.275Z",
       "topics": [
         "bioinformatics",
         "command",
@@ -75589,10 +75589,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/vial-kb/vial-gui",
-      "stars": 1309,
+      "stars": 1310,
       "lastUpdated": "2025-12-21T21:29:24Z",
       "addedAt": "2026-03-24T12:40:20.137Z",
-      "_lastChecked": "2026-03-24T12:40:20.137Z",
+      "_lastChecked": "2026-03-24T12:50:49.275Z",
       "topics": [],
       "categories": [
         "utilities",
@@ -75846,6 +75846,456 @@
       "categories": [
         "utilities",
         "customization",
+        "trending"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "Windows 10 Virtual Desktop Enhancer",
+      "description": "一款增强 Windows 10 虚拟桌面功能的实用工具，支持自定义快捷键、独立壁纸设置及托盘指示器，让多桌面管理更加高效便捷。",
+      "tags": [
+        "virtual-desktop",
+        "windows-enhancement",
+        "autohotkey"
+      ],
+      "health": "Unmaintained",
+      "is_cross_platform": false,
+      "url": "https://github.com/sdias/win-10-virtual-desktop-enhancer",
+      "stars": 1795,
+      "lastUpdated": "2023-10-19T00:29:14Z",
+      "addedAt": "2026-03-24T12:43:29.700Z",
+      "_lastChecked": "2026-03-24T12:43:29.700Z",
+      "topics": [],
+      "categories": [
+        "utilities",
+        "customization"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "MifareOneTool",
+      "description": "一款 Windows 平台上的 Mifare Classic 卡片图形化操作工具，提供便捷的 NFC 卡片读写与破解功能。",
+      "tags": [
+        "nfc",
+        "mifare",
+        "smartcard"
+      ],
+      "health": "Unmaintained",
+      "is_cross_platform": false,
+      "url": "https://github.com/xcicode/MifareOneTool",
+      "stars": 1020,
+      "lastUpdated": "2019-05-17T15:37:50Z",
+      "addedAt": "2026-03-24T12:43:29.700Z",
+      "_lastChecked": "2026-03-24T12:43:29.700Z",
+      "topics": [
+        "nfc",
+        "nfc-crack",
+        "nfc-reader"
+      ],
+      "categories": [
+        "utilities",
+        "security"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "WGestures",
+      "description": "一款现代化的 Windows 鼠标手势工具，支持全局手势识别、自定义动作绑定，让窗口管理与操作更加高效流畅。",
+      "tags": [
+        "mouse-gestures",
+        "windows-enhancement",
+        "productivity"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/yingDev/WGestures",
+      "stars": 1579,
+      "lastUpdated": "2022-09-09T03:49:10Z",
+      "addedAt": "2026-03-24T12:43:29.701Z",
+      "_lastChecked": "2026-03-24T12:43:29.701Z",
+      "topics": [],
+      "categories": [
+        "utilities",
+        "productivity"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "HIDUSBF",
+      "description": "专业的 USB 鼠标超频工具，支持修改 USB 设备轮询率以提升响应速度，兼容 Windows 98 至 Windows 11 全系统版本。",
+      "tags": [
+        "USB",
+        "鼠标",
+        "超频",
+        "驱动"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/LordOfMice/hidusbf",
+      "stars": 1254,
+      "lastUpdated": "2026-03-17T08:08:41Z",
+      "addedAt": "2026-03-24T12:44:35.332Z",
+      "_lastChecked": "2026-03-24T12:44:35.332Z",
+      "topics": [
+        "game-controller",
+        "gamepad",
+        "keyboard",
+        "mouse",
+        "overclock",
+        "usb"
+      ],
+      "categories": [
+        "utilities",
+        "trending"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "APT-Hunter",
+      "description": "基于紫队思维设计的 Windows 事件日志威胁狩猎工具，通过预定义检测规则快速发现 APT 攻击痕迹并生成时间线报告。",
+      "tags": [
+        "威胁狩猎",
+        "安全分析",
+        "事件日志",
+        "APT检测"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/ahmedkhlief/APT-Hunter",
+      "stars": 1405,
+      "lastUpdated": "2024-11-07T03:50:25Z",
+      "addedAt": "2026-03-24T12:44:35.333Z",
+      "_lastChecked": "2026-03-24T12:44:35.333Z",
+      "topics": [
+        "apt-attacks",
+        "forensic-analysis",
+        "incident-response",
+        "purpleteam",
+        "python3",
+        "threat-hunting",
+        "windows-event-logs",
+        "windows-eventlog"
+      ],
+      "categories": [
+        "security",
+        "developer"
+      ],
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ]
+    },
+    {
+      "name": "OFGB",
+      "description": "简洁实用的 Windows 11 广告移除工具，通过修改注册表一键关闭文件资源管理器、开始菜单等系统各处的广告推送。",
+      "tags": [
+        "广告拦截",
+        "系统优化",
+        "Windows11",
+        "注册表"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/xM4ddy/OFGB",
+      "stars": 7456,
+      "lastUpdated": "2024-09-12T17:46:10Z",
+      "addedAt": "2026-03-24T12:44:35.333Z",
+      "_lastChecked": "2026-03-24T12:44:35.333Z",
+      "topics": [],
+      "categories": [
+        "utilities",
+        "customization"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "LxRunOffline",
+      "description": "功能完善的 WSL 管理工具，支持将 Linux 发行版安装至任意目录、迁移、复制、导出配置等高级操作。",
+      "tags": [
+        "WSL",
+        "Linux",
+        "系统管理",
+        "命令行"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/DDoSolitary/LxRunOffline",
+      "stars": 4270,
+      "lastUpdated": "2022-02-02T10:39:24Z",
+      "addedAt": "2026-03-24T12:44:35.333Z",
+      "_lastChecked": "2026-03-24T12:44:35.333Z",
+      "topics": [
+        "bash",
+        "bash-on-windows",
+        "installer",
+        "utility",
+        "windows-subsystem-linux",
+        "wsl"
+      ],
+      "categories": [
+        "utilities",
+        "developer"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "Foreign LINUX",
+      "description": "创新的 Linux 二进制翻译器，无需驱动即可在 Windows 上直接运行未经修改的 Linux 控制台和 GUI 应用程序。",
+      "tags": [
+        "Linux兼容",
+        "二进制翻译",
+        "跨平台",
+        "模拟器"
+      ],
+      "health": "Inactive",
+      "is_cross_platform": false,
+      "url": "https://github.com/wishstudio/flinux",
+      "stars": 3574,
+      "lastUpdated": "2016-03-31T09:32:36Z",
+      "addedAt": "2026-03-24T12:44:35.333Z",
+      "_lastChecked": "2026-03-24T12:44:35.333Z",
+      "topics": [],
+      "categories": [
+        "utilities",
+        "developer"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "enum4linux",
+      "description": "经典的 Windows 和 Samba 主机信息枚举工具，作为 enum.exe 的 Linux 替代方案，用于安全审计与渗透测试。",
+      "tags": [
+        "安全审计",
+        "渗透测试",
+        "Samba",
+        "信息枚举"
+      ],
+      "health": "Inactive",
+      "is_cross_platform": false,
+      "url": "https://github.com/CiscoCXSecurity/enum4linux",
+      "stars": 1381,
+      "lastUpdated": "2025-04-23T00:09:50Z",
+      "addedAt": "2026-03-24T12:44:35.333Z",
+      "_lastChecked": "2026-03-24T12:44:35.333Z",
+      "topics": [],
+      "categories": [
+        "security",
+        "developer"
+      ],
+      "platforms": [
+        "Linux"
+      ]
+    },
+    {
+      "name": "Windows Desktop Switcher",
+      "description": "一款轻量级的 Windows 虚拟桌面切换工具，支持通过 CapsLock + 数字键快速切换桌面，提供窗口移动、桌面创建删除等便捷功能。",
+      "tags": [
+        "virtual-desktop",
+        "hotkey",
+        "window-management",
+        "autohotkey"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/pmb6tz/windows-desktop-switcher",
+      "stars": 1387,
+      "lastUpdated": "2025-08-14T16:10:15Z",
+      "addedAt": "2026-03-24T12:45:25.206Z",
+      "_lastChecked": "2026-03-24T12:45:25.206Z",
+      "topics": [],
+      "categories": [
+        "utilities",
+        "productivity"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "ClaudeBar",
+      "description": "一款 macOS 菜单栏应用，实时监控 Claude、Codex、Gemini 等 AI 编程助手的配额使用情况，支持多种主题和系统通知提醒。",
+      "tags": [
+        "ai-assistant",
+        "quota-monitor",
+        "menu-bar",
+        "productivity"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/tddworks/ClaudeBar",
+      "stars": 833,
+      "lastUpdated": "2026-03-23T10:22:29Z",
+      "addedAt": "2026-03-24T12:45:25.207Z",
+      "_lastChecked": "2026-03-24T12:45:25.207Z",
+      "topics": [
+        "antigravity",
+        "claude",
+        "claude-code",
+        "codex",
+        "gemini",
+        "githubcopilot",
+        "glm5",
+        "kimi"
+      ],
+      "categories": [
+        "productivity",
+        "ai_apps",
+        "utilities"
+      ],
+      "platforms": [
+        "macOS"
+      ]
+    },
+    {
+      "name": "create-dmg",
+      "description": "一款强大的命令行工具，用于创建精美的 macOS 磁盘镜像文件（DMG），支持自定义窗口布局、图标位置、背景图片和应用拖放链接。",
+      "tags": [
+        "DMG",
+        "macOS",
+        "Shell",
+        "安装包"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/create-dmg/create-dmg",
+      "stars": 2531,
+      "lastUpdated": "2025-12-01T00:47:59Z",
+      "addedAt": "2026-03-24T12:48:20.739Z",
+      "_lastChecked": "2026-03-24T12:48:20.739Z",
+      "topics": [
+        "bash",
+        "dmg",
+        "macos"
+      ],
+      "categories": [
+        "utilities",
+        "developer"
+      ],
+      "platforms": [
+        "macOS"
+      ]
+    },
+    {
+      "name": "Pupy",
+      "description": "跨平台的后渗透测试与C2框架，支持内存执行、多传输协议和远程Python模块加载，适用于安全专业人员。",
+      "tags": [
+        "安全测试",
+        "远程管理",
+        "渗透测试"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/n1nj4sec/pupy",
+      "stars": 8955,
+      "lastUpdated": "2024-03-22T08:52:53Z",
+      "addedAt": "2026-03-24T12:49:39.456Z",
+      "_lastChecked": "2026-03-24T12:49:39.456Z",
+      "topics": [
+        "android",
+        "backdoor",
+        "linux",
+        "mac-os",
+        "meterpreter",
+        "payload",
+        "pentesting",
+        "post-exploitation",
+        "pupy",
+        "python",
+        "rat",
+        "reflective-injection",
+        "remote-access",
+        "remote-admin-tool",
+        "reverse-shell",
+        "shell",
+        "windows"
+      ],
+      "categories": [
+        "security"
+      ],
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android"
+      ]
+    },
+    {
+      "name": "CrackMapExec",
+      "description": "网络渗透测试的瑞士军刀工具，用于Active Directory安全评估和网络凭据收集。",
+      "tags": [
+        "渗透测试",
+        "网络安全",
+        "Active Directory"
+      ],
+      "health": "Unmaintained",
+      "is_cross_platform": true,
+      "url": "https://github.com/byt3bl33d3r/CrackMapExec",
+      "stars": 9108,
+      "lastUpdated": "2023-12-06T17:09:42Z",
+      "addedAt": "2026-03-24T12:49:39.456Z",
+      "_lastChecked": "2026-03-24T12:49:39.456Z",
+      "topics": [
+        "active-directory",
+        "networks",
+        "pentesting",
+        "powershell",
+        "python",
+        "windows"
+      ],
+      "categories": [
+        "security"
+      ],
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ]
+    },
+    {
+      "name": "UFO",
+      "description": "微软推出的 AI 驱动 Windows 自动化代理，支持跨应用协作与多设备任务编排，可通过自然语言自动操作 GUI 完成复杂工作流。",
+      "tags": [
+        "AI Agent",
+        "Automation",
+        "Windows",
+        "LLM"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/microsoft/UFO",
+      "stars": 8221,
+      "lastUpdated": "2026-03-19T03:45:46Z",
+      "addedAt": "2026-03-24T12:50:39.093Z",
+      "_lastChecked": "2026-03-24T12:50:39.093Z",
+      "topics": [
+        "agent",
+        "automation",
+        "copilot",
+        "gui",
+        "llm",
+        "windows"
+      ],
+      "categories": [
+        "ai_apps",
+        "productivity",
+        "utilities",
         "trending"
       ],
       "platforms": [

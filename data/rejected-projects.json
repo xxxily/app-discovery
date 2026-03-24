@@ -18052,6 +18052,531 @@
       "description": "🟢 收录 Clash Verge Rev, Clash for Windows,Clash for Android,FlClash 等Clash内核全平台客户端 Github 官方仓库与详细图文配置教程 (2026最新）",
       "rejected_at": "2026-03-24T12:42:11.444Z",
       "reason": "This is a collection of links and navigation to various Clash clients, not a standalone application itself."
+    },
+    {
+      "name": "windows",
+      "url": "https://github.com/boxcutter/windows",
+      "description": "Virtual machine templates for Windows written in legacy JSON and Batch Scripting/JScript",
+      "rejected_at": "2026-03-24T12:43:29.700Z",
+      "reason": "This is a collection of Packer templates for creating Windows VM images, not an end-user application."
+    },
+    {
+      "name": "CurveBall",
+      "url": "https://github.com/ly4k/CurveBall",
+      "description": "PoC for CVE-2020-0601- Windows CryptoAPI (Crypt32.dll)",
+      "rejected_at": "2026-03-24T12:43:29.700Z",
+      "reason": "This is a Proof of Concept (PoC) exploit code for a CVE vulnerability, not a finished end-user application."
+    },
+    {
+      "name": "ThreatPursuit-VM",
+      "url": "https://github.com/mandiant/ThreatPursuit-VM",
+      "description": "Threat Pursuit Virtual Machine (VM): A fully customizable, open-sourced Windows-based distribution focused on threat intelligence analysis and hunting designed for intel and malware analysts as well as threat hunters to get up and running quickly.",
+      "rejected_at": "2026-03-24T12:43:29.700Z",
+      "reason": "This is a VM configuration/installer script for setting up a threat intelligence analysis environment, essentially a template rather than a standalone application."
+    },
+    {
+      "name": "tap-windows6",
+      "url": "https://github.com/OpenVPN/tap-windows6",
+      "description": "Windows TAP driver (NDIS 6)",
+      "rejected_at": "2026-03-24T12:43:29.701Z",
+      "reason": "This is a Windows TAP network driver (NDIS 6), a system component rather than an end-user application."
+    },
+    {
+      "name": "ATF",
+      "url": "https://github.com/SonyWWS/ATF",
+      "description": "Authoring Tools Framework (ATF) is a set of C#/.NET components for making tools on Windows. ATF has been in continuous development in Sony Computer Entertainment's (SCE) Worldwide Studios central tools group since early 2005. ATF has been used by most SCE first party studios to make many custom tools such as Naughty Dog’s level editor and shader editor for The Last of Us, Guerrilla Games’ sequence editor for Killzone games (including the Killzone: Shadow Fall PS4 launch title), an animation blending tool at Santa Monica Studio, a level editor at Bend Studio, a visual state machine editor for Quantic Dream, sound editing tools, and many others.",
+      "rejected_at": "2026-03-24T12:43:29.701Z",
+      "reason": "This is a C#/.NET framework/library for building authoring tools, not a finished end-user application."
+    },
+    {
+      "name": "DSEFix",
+      "url": "https://github.com/hfiref0x/DSEFix",
+      "description": "Windows x64 Driver Signature Enforcement Overrider",
+      "rejected_at": "2026-03-24T12:43:29.701Z",
+      "reason": "This is deprecated/abandonware security exploit tool for bypassing Windows driver signature enforcement, not recommended for general use."
+    },
+    {
+      "name": "jquery-hashchange",
+      "url": "https://github.com/cowboy/jquery-hashchange",
+      "description": "This jQuery plugin enables very basic bookmarkable #hash history via a cross-browser HTML5 window.onhashchange event.",
+      "rejected_at": "2026-03-24T12:43:29.701Z",
+      "reason": "This is a jQuery plugin library for handling hash change events, not an end-user application."
+    },
+    {
+      "name": "best-windows-apps",
+      "url": "https://github.com/stackia/best-windows-apps",
+      "description": "推荐好用、优秀的 Windows 应用",
+      "rejected_at": "2026-03-24T12:44:35.333Z",
+      "reason": "这是一个 Windows 应用推荐列表/链接集合，并非实际的应用软件。"
+    },
+    {
+      "name": "amazon-cloudwatch-agent",
+      "url": "https://github.com/aws/amazon-cloudwatch-agent",
+      "description": "CloudWatch Agent enables you to collect and export host-level metrics and logs on instances running Linux or Windows server.",
+      "rejected_at": "2026-03-24T12:44:35.333Z",
+      "reason": "这是 AWS 基础设施监控代理程序，属于后端系统组件而非终端用户应用软件。"
+    },
+    {
+      "name": "notes",
+      "url": "https://github.com/Estom/notes",
+      "description": "一个码农的毕生所学!笔记 & 教程。考研,就业,上学.语言篇，Android,C++,Java,JavaScript,Latex,MATLAB,NodeJS,PHP,Python,技术篇,docker,git,Linux,Maven,office,Spark,Spring,SVN,基础篇,编译原理,操作系统,单片机,计算机网络,计算机网络实验,架构模式,软件文档写作,设计模式,数据结构,数据库,算法,UML建模,Windows程序设计,数学篇,概率论与数理统计,微积分,线性代数,张量,机器学习篇,机器学习,pytorch,sklearn,TensorFlow",
+      "rejected_at": "2026-03-24T12:44:35.333Z",
+      "reason": "这是一个编程学习笔记和教程文档集合，并非可执行的应用软件。"
+    },
+    {
+      "name": "docker-pyinstaller",
+      "url": "https://github.com/cdrx/docker-pyinstaller",
+      "description": "PyInstaller for Linux and Windows inside Docker",
+      "rejected_at": "2026-03-24T12:44:35.333Z",
+      "reason": "这是一个 Docker 镜像模板/开发工具，用于打包 Python 应用，并非终端用户应用软件。"
+    },
+    {
+      "name": "Powershell-RAT",
+      "url": "https://github.com/Viralmaniar/Powershell-RAT",
+      "description": "Python based backdoor that uses Gmail to exfiltrate data through attachment. This RAT will help during red team engagements to backdoor any Windows machines. It tracks the user activity using screen capture and sends it to an attacker as an e-mail attachment.",
+      "rejected_at": "2026-03-24T12:45:25.206Z",
+      "reason": "This is a hacking/malware tool (RAT - Remote Access Trojan) designed for backdooring systems. Not a legitimate end-user application."
+    },
+    {
+      "name": "inputsimulator",
+      "url": "https://github.com/michaelnoonan/inputsimulator",
+      "description": " Windows Input Simulator (C# SendInput Wrapper - Simulate Keyboard and Mouse)",
+      "rejected_at": "2026-03-24T12:45:25.206Z",
+      "reason": "This is a C# library/API wrapper for simulating keyboard and mouse input. It's a developer library, not an end-user application."
+    },
+    {
+      "name": "swift-cross-ui",
+      "url": "https://github.com/moreSwift/swift-cross-ui",
+      "description": "A cross-platform declarative UI framework, inspired by SwiftUI.",
+      "rejected_at": "2026-03-24T12:45:25.206Z",
+      "reason": "This is a UI framework for building cross-platform apps, inspired by SwiftUI. It's a framework/library, not an end-user application."
+    },
+    {
+      "name": "Engine",
+      "url": "https://github.com/nathantannar4/Engine",
+      "description": "Engine makes it easier to create idiomatic APIs and Views that feel natural in SwiftUI without sacrificing performance",
+      "rejected_at": "2026-03-24T12:45:25.206Z",
+      "reason": "This is a framework for developing SwiftUI frameworks and apps. It's a developer library, not an end-user application."
+    },
+    {
+      "name": "SwifterSwift",
+      "url": "https://github.com/SwifterSwift/SwifterSwift",
+      "description": "A handy collection of more than 500 native Swift extensions to boost your productivity.",
+      "rejected_at": "2026-03-24T12:45:25.207Z",
+      "reason": "This is a collection of Swift extensions for developers. It's a library, not an end-user application."
+    },
+    {
+      "name": "Sparkle",
+      "url": "https://github.com/sparkle-project/Sparkle",
+      "description": "A software update framework for macOS",
+      "rejected_at": "2026-03-24T12:45:25.207Z",
+      "reason": "This is a software update framework for macOS developers to integrate into their apps. It's a framework, not an end-user application."
+    },
+    {
+      "name": "Harbeth",
+      "url": "https://github.com/yangKJ/Harbeth",
+      "description": "🎨 GPU accelerated image / video and camera filter library based on Metal. Support macOS & iOS. 图像、视频、相机滤镜框架",
+      "rejected_at": "2026-03-24T12:45:25.207Z",
+      "reason": "This is a GPU-accelerated image/video filter library based on Metal. It's a developer library, not an end-user application."
+    },
+    {
+      "name": "homebrew-php",
+      "url": "https://github.com/shivammathur/homebrew-php",
+      "description": "Homebrew tap for PHP 5.6 to 8.6. PHP 8.6 is built nightly :beer:",
+      "rejected_at": "2026-03-24T12:45:25.207Z",
+      "reason": "This is a Homebrew tap (package repository) for PHP versions. It's a collection of formulae/packages, not an end-user application."
+    },
+    {
+      "name": "fast_float",
+      "url": "https://github.com/fastfloat/fast_float",
+      "description": "Fast and exact implementation of the C++ from_chars functions for number types: 4x to 10x faster than strtod, part of GCC 12, MySQL, Chromium, Redis and WebKit/Safari",
+      "rejected_at": "2026-03-24T12:46:39.741Z",
+      "reason": "This is a C++ header-only library for number parsing (from_chars functions), not an end-user application. It's designed to be embedded in other software like GCC, MySQL, Chromium, and Redis."
+    },
+    {
+      "name": "SwiftTerm",
+      "url": "https://github.com/migueldeicaza/SwiftTerm",
+      "description": "Xterm/VT100 Terminal emulator in Swift",
+      "rejected_at": "2026-03-24T12:46:39.741Z",
+      "reason": "This is a terminal emulator library/framework for Swift applications, not a standalone end-user application. It's designed to be embedded in other apps like SSH clients."
+    },
+    {
+      "name": "xcap",
+      "url": "https://github.com/nashaofu/xcap",
+      "description": "XCap is a cross-platform screen capture library written in Rust. It supports Linux (X11, Wayland), MacOS, and Windows. XCap supports screenshot and video recording (WIP).",
+      "rejected_at": "2026-03-24T12:46:39.741Z",
+      "reason": "This is a cross-platform screen capture library written in Rust, providing APIs for developers to integrate screen capture functionality into their applications, not a standalone end-user tool."
+    },
+    {
+      "name": "shell-intune-samples",
+      "url": "https://github.com/microsoft/shell-intune-samples",
+      "description": "Sample shell scripts for Intune admins.",
+      "rejected_at": "2026-03-24T12:46:39.741Z",
+      "reason": "This is a collection of sample shell scripts for Intune administrators, essentially a tutorial/resource collection rather than a finished end-user application."
+    },
+    {
+      "name": "Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform",
+      "url": "https://github.com/superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform",
+      "description": "🇸Superpowered Audio, Networking and Cryptographics SDKs. High performance and cross platform on Android, iOS, macOS, tvOS, Linux, Windows and modern web browsers.",
+      "rejected_at": "2026-03-24T12:46:39.741Z",
+      "reason": "This is the Superpowered SDK - a development toolkit for audio, networking, and cryptography. It's designed for developers to build applications, not an end-user application itself."
+    },
+    {
+      "name": "NootRX",
+      "url": "https://github.com/ChefKissInc/NootRX",
+      "description": "The rDNA 2 dGPU support patch kext. No commercial use.",
+      "rejected_at": "2026-03-24T12:46:39.741Z",
+      "reason": "This is a kernel extension (kext) for enabling AMD rDNA 2 GPU support on Hackintosh systems. It's a system driver/patch, not a typical end-user application."
+    },
+    {
+      "name": "KSPlayer",
+      "url": "https://github.com/kingslay/KSPlayer",
+      "description": "A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, SwiftUI, support subtitles.",
+      "rejected_at": "2026-03-24T12:46:39.742Z",
+      "reason": "This is a video player framework/library for iOS/macOS/tvOS/visionOS development. While it powers video players, it's a library for developers, not a standalone end-user application."
+    },
+    {
+      "name": "Splitties",
+      "url": "https://github.com/LouisCAD/Splitties",
+      "description": "A collection of hand-crafted extensions for your Kotlin projects.",
+      "rejected_at": "2026-03-24T12:46:39.742Z",
+      "reason": "This is a collection of Kotlin multiplatform libraries/extensions designed to simplify Android and iOS development. It's a developer library, not an end-user application."
+    },
+    {
+      "name": "macos-virtualbox-vm",
+      "url": "https://github.com/geerlingguy/macos-virtualbox-vm",
+      "description": "Instructions and script to help you create a VirtualBox VM running macOS.",
+      "rejected_at": "2026-03-24T12:46:39.742Z",
+      "reason": "This is a collection of instructions and helper scripts for creating macOS VirtualBox VMs. It's a tutorial/script resource, not a finished end-user application."
+    },
+    {
+      "name": "mir",
+      "url": "https://github.com/vnmakarov/mir",
+      "description": "A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR",
+      "rejected_at": "2026-03-24T12:46:39.742Z",
+      "reason": "This is a JIT compiler infrastructure based on MIR (Medium Internal Representation). It's a compiler/developer tool, not an end-user application."
+    },
+    {
+      "name": "SwiftUI-Kit",
+      "url": "https://github.com/jordansinger/SwiftUI-Kit",
+      "description": "A SwiftUI system components and interactions demo app",
+      "rejected_at": "2026-03-24T12:48:20.739Z",
+      "reason": "这是一个 SwiftUI 组件演示应用，主要用于开发者学习和参考系统组件样式，并非面向终端用户的生产级应用程序。"
+    },
+    {
+      "name": "IntelBluetoothFirmware",
+      "url": "https://github.com/OpenIntelWireless/IntelBluetoothFirmware",
+      "description": "Intel Bluetooth Kernel Extensions for macOS",
+      "rejected_at": "2026-03-24T12:48:20.740Z",
+      "reason": "这是一个内核扩展（Kext 驱动程序），用于在 Hackintosh 上启用 Intel 蓝牙功能，属于系统级驱动而非终端用户应用程序。"
+    },
+    {
+      "name": "XVim2",
+      "url": "https://github.com/XVimProject/XVim2",
+      "description": "Vim key-bindings for Xcode 9",
+      "rejected_at": "2026-03-24T12:48:20.740Z",
+      "reason": "这是 Xcode 编辑器的 Vim 键绑定插件，需要注入到 Xcode 中使用，不是独立的应用程序。"
+    },
+    {
+      "name": "macos_security",
+      "url": "https://github.com/usnistgov/macos_security",
+      "description": "macOS Security Compliance Project",
+      "rejected_at": "2026-03-24T12:48:20.740Z",
+      "reason": "这是一个 macOS 安全合规项目，包含安全配置规则和脚本框架，用于生成合规指南，不是终端用户应用程序。"
+    },
+    {
+      "name": "overthefirewall",
+      "url": "https://github.com/ZGQ-inc/overthefirewall",
+      "description": ":electron:覆盖全平台:electron:完全免费:electron:节点订阅:electron:机场推荐:electron:破解VPN软件分享:electron:",
+      "rejected_at": "2026-03-24T12:48:20.740Z",
+      "reason": "这是一个 VPN 工具和机场推荐的链接集合/资源导航站，属于链接汇总而非实际应用程序。"
+    },
+    {
+      "name": "siesta",
+      "url": "https://github.com/bustoutsolutions/siesta",
+      "description": "The civilized way to write REST API clients for iOS / macOS",
+      "rejected_at": "2026-03-24T12:48:20.740Z",
+      "reason": "这是一个用于 iOS/macOS 开发的 REST API 客户端库/框架，供开发者集成使用，不是终端用户应用程序。"
+    },
+    {
+      "name": "ForensicsTools",
+      "url": "https://github.com/mesquidar/ForensicsTools",
+      "description": "A list of free and open forensics analysis tools and other resources",
+      "rejected_at": "2026-03-24T12:48:20.740Z",
+      "reason": "这是一个数字取证分析工具的资源列表（Awesome List 类型），属于链接集合而非实际应用程序。"
+    },
+    {
+      "name": "docker.labs",
+      "url": "https://github.com/docker-archive-public/docker.labs",
+      "description": "This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.",
+      "rejected_at": "2026-03-24T12:48:20.740Z",
+      "reason": "这是一个 Docker 学习教程和实验集合，属于教育资源文档而非应用程序。"
+    },
+    {
+      "name": "winrar-keygen",
+      "url": "https://github.com/bitcookies/winrar-keygen",
+      "description": "Principle of WinRAR key generation.",
+      "rejected_at": "2026-03-24T12:48:20.740Z",
+      "reason": "这是一个用于生成 WinRAR 许可证密钥的工具，涉及软件破解行为，不符合道德标准予以排除。"
+    },
+    {
+      "name": "windows-kernel-exploits",
+      "url": "https://github.com/SecWiki/windows-kernel-exploits",
+      "description": "windows-kernel-exploits   Windows平台提权漏洞集合",
+      "rejected_at": "2026-03-24T12:49:39.456Z",
+      "reason": "这是一个Windows内核漏洞利用程序的集合/列表，不是终端用户应用程序，而是安全研究资源的汇总。"
+    },
+    {
+      "name": "openFrameworks",
+      "url": "https://github.com/openframeworks/openFrameworks",
+      "description": "openFrameworks is a community-developed cross platform toolkit for creative coding in C++.",
+      "rejected_at": "2026-03-24T12:49:39.456Z",
+      "reason": "这是一个用于创意编程的C++工具包/框架，属于开发库而非终端用户应用软件。"
+    },
+    {
+      "name": "MahApps.Metro",
+      "url": "https://github.com/MahApps/MahApps.Metro",
+      "description": "A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.",
+      "rejected_at": "2026-03-24T12:49:39.456Z",
+      "reason": "这是一个WPF UI框架/库，用于帮助开发者构建更好的界面，不是终端用户应用。"
+    },
+    {
+      "name": "sysmon-config",
+      "url": "https://github.com/SwiftOnSecurity/sysmon-config",
+      "description": "Sysmon configuration file template with default high-quality event tracing",
+      "rejected_at": "2026-03-24T12:49:39.456Z",
+      "reason": "这是一个Sysmon配置文件模板，仅包含XML配置文件，不是独立的应用程序。"
+    },
+    {
+      "name": "HP-Socket",
+      "url": "https://github.com/ldcsaa/HP-Socket",
+      "description": "High Performance TCP/UDP/HTTP Communication Component",
+      "rejected_at": "2026-03-24T12:49:39.456Z",
+      "reason": "这是一个高性能TCP/UDP/HTTP通信组件库，供开发者集成使用，不是终端用户应用。"
+    },
+    {
+      "name": "anyRTC-RTMP-OpenSource",
+      "url": "https://github.com/anyrtcIO-Community/anyRTC-RTMP-OpenSource",
+      "description": "RTMP 推流器，RTMP(HLS)秒开播放器，直播点播，跨平台（Win,IOS,Android）开源代码",
+      "rejected_at": "2026-03-24T12:49:39.456Z",
+      "reason": "这是一个RTMP推流/播放SDK开发包，供开发者集成到自己的应用中，不是独立的终端用户应用。"
+    },
+    {
+      "name": "calico",
+      "url": "https://github.com/projectcalico/calico",
+      "description": "Cloud native networking and network security",
+      "rejected_at": "2026-03-24T12:49:39.456Z",
+      "reason": "这是Kubernetes网络和安全基础设施软件，属于云原生基础设施组件，不是终端用户应用。"
+    },
+    {
+      "name": "tensorflow-windows-wheel",
+      "url": "https://github.com/fo40225/tensorflow-windows-wheel",
+      "description": "Tensorflow prebuilt binary for Windows",
+      "rejected_at": "2026-03-24T12:49:39.456Z",
+      "reason": "这是TensorFlow的Windows预编译二进制文件集合，不是独立的应用程序。"
+    },
+    {
+      "name": "Awesome_APIs",
+      "url": "https://github.com/TonnyL/Awesome_APIs",
+      "description": ":octocat: A collection of APIs",
+      "rejected_at": "2026-03-24T12:50:39.092Z",
+      "reason": "This is a curated collection/list of APIs for developers, not an end-user application."
+    },
+    {
+      "name": "Active-Directory-Exploitation-Cheat-Sheet",
+      "url": "https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet",
+      "description": "A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.",
+      "rejected_at": "2026-03-24T12:50:39.092Z",
+      "reason": "This is a cheat sheet/reference document for penetration testing, not a usable application software."
+    },
+    {
+      "name": "Infosec_Reference",
+      "url": "https://github.com/rmusser01/Infosec_Reference",
+      "description": "An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.",
+      "rejected_at": "2026-03-24T12:50:39.092Z",
+      "reason": "This is an information security reference resource/curated list, not an end-user application."
+    },
+    {
+      "name": "ChakraCore",
+      "url": "https://github.com/chakra-core/ChakraCore",
+      "description": "ChakraCore is an open source Javascript engine with a C API.",
+      "rejected_at": "2026-03-24T12:50:39.092Z",
+      "reason": "ChakraCore is a JavaScript engine library with C API for developers to embed, not an end-user application."
+    },
+    {
+      "name": "react-native-track-player",
+      "url": "https://github.com/doublesymmetry/react-native-track-player",
+      "description": "The best audio player ever built for React Native. Built on the New Architecture — Android Auto, caching, preloading, background playback, and more.",
+      "rejected_at": "2026-03-24T12:50:39.092Z",
+      "reason": "This is a React Native library/module for developers to add audio playback to their apps, not a standalone application."
+    },
+    {
+      "name": "RedTeam-Tools",
+      "url": "https://github.com/A-poc/RedTeam-Tools",
+      "description": "Tools and Techniques for Red Team / Penetration Testing",
+      "rejected_at": "2026-03-24T12:50:39.092Z",
+      "reason": "This is a curated collection/list of red team tools and resources, not an actual application."
+    },
+    {
+      "name": "endoflife.date",
+      "url": "https://github.com/endoflife-date/endoflife.date",
+      "description": "Informative site with EoL dates of everything",
+      "rejected_at": "2026-03-24T12:50:39.093Z",
+      "reason": "This is a Jekyll-based informational website, not a desktop, mobile, or CLI application."
+    },
+    {
+      "name": "k8s-for-docker-desktop",
+      "url": "https://github.com/denverdino/k8s-for-docker-desktop",
+      "description": "为Docker Desktop for Mac/Windows开启Kubernetes和Istio。",
+      "rejected_at": "2026-03-24T12:50:39.093Z",
+      "reason": "This is a setup script/helper for enabling Kubernetes in Docker Desktop, essentially a tutorial/configuration guide."
+    },
+    {
+      "name": "Squirrel.Windows",
+      "url": "https://github.com/Squirrel/Squirrel.Windows",
+      "description": "An installation and update framework for Windows desktop apps",
+      "rejected_at": "2026-03-24T12:50:39.093Z",
+      "reason": "Squirrel.Windows is an installer framework for developers to package their apps, not an end-user application."
+    },
+    {
+      "name": "walk",
+      "url": "https://github.com/lxn/walk",
+      "description": "A Windows GUI toolkit for the Go Programming Language",
+      "rejected_at": "2026-03-24T12:51:33.152Z",
+      "reason": "This is a GUI toolkit/library for Go developers, not an end-user application."
+    },
+    {
+      "name": "R3nzSkin",
+      "url": "https://github.com/R3nzTheCodeGOD/R3nzSkin",
+      "description": "Skin changer for League of Legends (LOL)",
+      "rejected_at": "2026-03-24T12:51:33.152Z",
+      "reason": "This is a game cheat/hack tool that is no longer supported due to anti-cheat implementation. Promoting cheating tools is not appropriate."
+    },
+    {
+      "name": "dockpanelsuite",
+      "url": "https://github.com/dockpanelsuite/dockpanelsuite",
+      "description": "DockPanel Suite - The Visual Studio inspired docking library for .NET WinForms",
+      "rejected_at": "2026-03-24T12:51:33.152Z",
+      "reason": "This is a docking library for .NET WinForms developers, not an end-user application."
+    },
+    {
+      "name": "mssql-docker",
+      "url": "https://github.com/microsoft/mssql-docker",
+      "description": "Official Microsoft repository for SQL Server in Docker resources",
+      "rejected_at": "2026-03-24T12:51:33.152Z",
+      "reason": "This is a collection of Dockerfiles and documentation resources for SQL Server containers, not an end-user application."
+    },
+    {
+      "name": "pywinauto",
+      "url": "https://github.com/pywinauto/pywinauto",
+      "description": "Windows GUI Automation with Python (based on text properties)",
+      "rejected_at": "2026-03-24T12:51:33.153Z",
+      "reason": "This is a Python library for GUI automation and testing, not an end-user application."
+    },
+    {
+      "name": "Stitch",
+      "url": "https://github.com/nathanlopez/Stitch",
+      "description": "Python Remote Administration Tool (RAT)",
+      "rejected_at": "2026-03-24T12:51:33.153Z",
+      "reason": "This is a Remote Administration Tool (RAT) / malware tool primarily used for hacking, not appropriate for general end-user recommendations."
+    },
+    {
+      "name": "react-native",
+      "url": "https://github.com/facebook/react-native",
+      "description": "A framework for building native applications using React",
+      "rejected_at": "2026-03-24T12:51:33.153Z",
+      "reason": "This is a framework for building mobile applications, not an end-user application itself."
+    },
+    {
+      "name": "free-programming-books-zh_CN",
+      "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+      "description": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
+      "rejected_at": "2026-03-24T12:51:33.153Z",
+      "reason": "This is a curated collection of links to free programming books, not an end-user application."
+    },
+    {
+      "name": "Awesome-Hacking",
+      "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+      "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
+      "rejected_at": "2026-03-24T12:51:33.153Z",
+      "reason": "This is a curated collection/awesome list of hacking resources, not an end-user application."
+    },
+    {
+      "name": "awesome-flutter",
+      "url": "https://github.com/Solido/awesome-flutter",
+      "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+      "rejected_at": "2026-03-24T12:51:33.153Z",
+      "reason": "This is an awesome list curating Flutter resources and libraries, not an end-user application."
+    },
+    {
+      "name": "awesome-android-ui",
+      "url": "https://github.com/wasabeef/awesome-android-ui",
+      "description": "A curated list of awesome Android UI/UX libraries",
+      "rejected_at": "2026-03-24T12:52:21.231Z",
+      "reason": "This is a curated list/collection of Android UI/UX libraries, not an end-user application. It's a resource directory for developers."
+    },
+    {
+      "name": "appwrite",
+      "url": "https://github.com/appwrite/appwrite",
+      "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+      "rejected_at": "2026-03-24T12:52:21.231Z",
+      "reason": "Appwrite is a backend-as-a-service (BaaS) platform and infrastructure for developers, not an end-user application. It's a server-side platform."
+    },
+    {
+      "name": "material-design-icons",
+      "url": "https://github.com/google/material-design-icons",
+      "description": "Material Design icons by Google (Material Symbols)",
+      "rejected_at": "2026-03-24T12:52:21.231Z",
+      "reason": "This is a collection of icon assets and design resources, not an end-user application software."
+    },
+    {
+      "name": "expo",
+      "url": "https://github.com/expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "rejected_at": "2026-03-24T12:52:21.231Z",
+      "reason": "Expo is a framework for building native apps with React. It's a developer tool/framework, not an end-user application."
+    },
+    {
+      "name": "okhttp",
+      "url": "https://github.com/square/okhttp",
+      "description": "Square’s meticulous HTTP client for the JVM, Android, and GraalVM.",
+      "rejected_at": "2026-03-24T12:52:21.232Z",
+      "reason": "OkHttp is an HTTP client library for JVM/Android developers. It's a library/API, not an end-user application."
+    },
+    {
+      "name": "architecture-samples",
+      "url": "https://github.com/android/architecture-samples",
+      "description": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
+      "rejected_at": "2026-03-24T12:52:21.232Z",
+      "reason": "This is a collection of architecture samples and templates for Android development, not an end-user application."
+    },
+    {
+      "name": "retrofit",
+      "url": "https://github.com/square/retrofit",
+      "description": "A type-safe HTTP client for Android and the JVM",
+      "rejected_at": "2026-03-24T12:52:21.232Z",
+      "reason": "Retrofit is a type-safe HTTP client library for Android/Java developers. It's a library, not an end-user application."
+    },
+    {
+      "name": "uni-app",
+      "url": "https://github.com/dcloudio/uni-app",
+      "description": "A cross-platform framework using Vue.js",
+      "rejected_at": "2026-03-24T12:52:21.232Z",
+      "reason": "uni-app is a cross-platform framework for building applications. It's a developer framework, not an end-user application."
+    },
+    {
+      "name": "MPAndroidChart",
+      "url": "https://github.com/PhilJay/MPAndroidChart",
+      "description": "A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.",
+      "rejected_at": "2026-03-24T12:52:21.232Z",
+      "reason": "MPAndroidChart is a chart/graph view library for Android developers. It's a UI library, not an end-user application."
+    },
+    {
+      "name": "lottie-android",
+      "url": "https://github.com/airbnb/lottie-android",
+      "description": "Render After Effects animations natively on Android and iOS, Web, and React Native",
+      "rejected_at": "2026-03-24T12:52:21.232Z",
+      "reason": "Lottie is an animation rendering library for mobile and web platforms. It's a library for developers, not an end-user application."
     }
   ]
 }

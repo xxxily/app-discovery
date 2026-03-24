@@ -11,7 +11,7 @@ export default {
   head: [
     [
       'script',
-      { defer: '', src: 'https://msc.anzz.site/script.js', 'data-website-id': '20b6a59e-90f5-4998-940e-a708c9972bac' }
+      { defer: '', src: 'https://msc.anzz.site/script.js', 'data-website-id': 'cc20886c-027f-44db-b779-239bcd42def5' }
     ],
     [
       'script',

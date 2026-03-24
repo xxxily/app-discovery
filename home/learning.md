@@ -101,7 +101,7 @@ Android 平台开源间隔重复记忆卡片应用，帮助用户高效记忆任
 - **Platforms:** **Windows**, **macOS**, **Linux**
 - **Stars:** ⭐️ 10.2k
 - **Tags:** `manga` `epub-reader` `media-server` `self-hosted`
-- **最后活动时间:** 2026-03-23
+- **最后活动时间:** 2026-03-24
 
 ## [Stellarium](https://github.com/Stellarium/stellarium)
 

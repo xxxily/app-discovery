@@ -1,17 +1,17 @@
 {
-  "totalProjects": 2101,
+  "totalProjects": 2116,
   "categories": {
     "trending": {
       "name": "🔥 热门推荐",
-      "count": 1050
+      "count": 1052
     },
     "productivity": {
       "name": "🚀 生产力与协作",
-      "count": 504
+      "count": 508
     },
     "utilities": {
       "name": "🛠️ 系统工具与实用程序",
-      "count": 1147
+      "count": 1158
     },
     "media": {
       "name": "🎬 影音与多媒体",
@@ -31,15 +31,15 @@
     },
     "security": {
       "name": "🛡️ 安全、隐私与清理",
-      "count": 257
+      "count": 262
     },
     "developer": {
       "name": "👨‍💻 开发工具与编程",
-      "count": 517
+      "count": 522
     },
     "ai_apps": {
       "name": "🤖 AI 助手与增强应用",
-      "count": 130
+      "count": 132
     },
     "learning": {
       "name": "📚 学习、教育与阅读",
@@ -55,16 +55,16 @@
     },
     "customization": {
       "name": "💎 个性化与美化",
-      "count": 168
+      "count": 170
     }
   },
   "platforms": {
-    "Windows": 1284,
-    "macOS": 1411,
-    "Android": 365,
+    "Windows": 1296,
+    "macOS": 1416,
+    "Android": 366,
     "iOS": 213,
-    "Linux": 1012,
+    "Linux": 1016,
     "Web": 43
   },
-  "lastUpdated": "2026-03-24T12:42:11.628Z"
+  "lastUpdated": "2026-03-24T12:52:49.311Z"
 }

@@ -2,7 +2,7 @@
 
 > 专为 Android 平台打造的高质量应用与工具。
 
-> 当前分类已收录 **365** 个相关项目。
+> 当前分类已收录 **366** 个相关项目。
 
 ## [RustDesk](https://github.com/rustdesk/rustdesk)
 
@@ -660,6 +660,15 @@ Zygisk独立实现工具，为KernelSU提供Zygisk API支持，同时可作为Ma
 - **Stars:** ⭐️ 9.0k
 - **Tags:** `Android` `Root` `Magisk` `KernelSU`
 - **最后活动时间:** 2026-03-22
+
+## [Pupy](https://github.com/n1nj4sec/pupy)
+
+跨平台的后渗透测试与C2框架，支持内存执行、多传输协议和远程Python模块加载，适用于安全专业人员。
+
+- **Platforms:** **Windows**, **Linux**, **macOS**, **Android**
+- **Stars:** ⭐️ 9.0k
+- **Tags:** `安全测试` `远程管理` `渗透测试`
+- **最后活动时间:** 2024-03-22
 
 ## [AdAway](https://github.com/AdAway/AdAway)
 
