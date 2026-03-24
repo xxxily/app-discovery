@@ -17,7 +17,7 @@
     },
     "ios": {
       "level": 1,
-      "lastExplored": "2026-03-24T11:47:05.941Z",
+      "lastExplored": "2026-03-24T12:41:29.751Z",
       "score": 227
     },
     "cross-platform": {
@@ -193,7 +193,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 1
+      "score": 2
     },
     "system-optimizer": {
       "level": 2,
@@ -733,7 +733,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 48
+      "score": 49
     },
     "mac": {
       "level": 2,
@@ -925,7 +925,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 36
+      "score": 37
     },
     "terminal": {
       "level": 2,
@@ -1027,7 +1027,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 52
+      "score": 53
     },
     "dotnet": {
       "level": 2,
@@ -1279,7 +1279,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 8
+      "score": 9
     },
     "airplay": {
       "level": 2,
@@ -2311,7 +2311,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 141
+      "score": 142
     },
     "g-assist": {
       "level": 2,
@@ -3169,7 +3169,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 4
+      "score": 5
     },
     "irc-client": {
       "level": 2,
@@ -4423,7 +4423,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.520Z",
-      "score": 26
+      "score": 27
     },
     "customization": {
       "level": 2,
@@ -6307,7 +6307,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:55:55.507Z",
-      "score": 18
+      "score": 19
     },
     "raycast": {
       "level": 2,
@@ -6523,7 +6523,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:55:55.508Z",
-      "score": 7
+      "score": 8
     },
     "cleanup": {
       "level": 2,
@@ -11083,13 +11083,13 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:50.967Z",
-      "score": 14
+      "score": 15
     },
     "sql": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:50.967Z",
-      "score": 12
+      "score": 13
     },
     "sqlite3": {
       "level": 2,
@@ -12757,7 +12757,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:50.967Z",
-      "score": 1
+      "score": 2
     },
     "network-monitor": {
       "level": 2,
@@ -14899,7 +14899,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:53.524Z",
-      "score": 11
+      "score": 12
     },
     "rocketchat": {
       "level": 2,
@@ -17053,7 +17053,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:07:43.585Z",
-      "score": 6
+      "score": 7
     },
     "time-tracker": {
       "level": 2,
@@ -18865,7 +18865,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:21:21.909Z",
-      "score": 6
+      "score": 7
     },
     "tcl": {
       "level": 2,
@@ -19501,7 +19501,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:21:21.910Z",
-      "score": 7
+      "score": 8
     },
     "glut": {
       "level": 2,
@@ -21013,7 +21013,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:21:21.911Z",
-      "score": 2
+      "score": 3
     },
     "fuchsia-os": {
       "level": 2,
@@ -22153,7 +22153,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T03:58:05.517Z",
-      "score": 5
+      "score": 6
     },
     "ps": {
       "level": 2,
@@ -32719,7 +32719,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:12:23.830Z",
-      "score": 0
+      "score": 1
     },
     "outofmemory": {
       "level": 2,
@@ -42973,7 +42973,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T05:11:41.156Z",
-      "score": 1
+      "score": 2
     },
     "ascii-image": {
       "level": 2,
@@ -43471,7 +43471,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T05:15:40.096Z",
-      "score": 1
+      "score": 2
     },
     "ribbon": {
       "level": 2,
@@ -44113,7 +44113,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T05:27:46.829Z",
-      "score": 1
+      "score": 2
     },
     "windows-optimizer": {
       "level": 2,
@@ -45655,7 +45655,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T05:58:34.865Z",
-      "score": 0
+      "score": 1
     },
     "chess-puzzle": {
       "level": 2,
@@ -51259,7 +51259,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T06:53:09.262Z",
-      "score": 1
+      "score": 2
     },
     "nginx-configuration": {
       "level": 2,
@@ -51901,13 +51901,13 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T06:54:09.768Z",
-      "score": 0
+      "score": 1
     },
     "ircd": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T06:54:09.768Z",
-      "score": 0
+      "score": 1
     },
     "ngircd": {
       "level": 2,
@@ -65425,37 +65425,37 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:23:36.058Z",
-      "score": 0
+      "score": 1
     },
     "rubyinstaller": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:23:36.058Z",
-      "score": 0
+      "score": 1
     },
     "inspircd": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:23:36.058Z",
-      "score": 0
+      "score": 1
     },
     "irc-protocol": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:23:36.058Z",
-      "score": 0
+      "score": 1
     },
     "irc-server": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:23:36.058Z",
-      "score": 0
+      "score": 1
     },
     "ircv3": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:23:36.058Z",
-      "score": 0
+      "score": 1
     },
     "qstylesheet": {
       "level": 2,
@@ -65467,19 +65467,19 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:23:36.058Z",
-      "score": 0
+      "score": 1
     },
     "plotly": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:23:36.058Z",
-      "score": 0
+      "score": 1
     },
     "redshift": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:23:36.058Z",
-      "score": 0
+      "score": 1
     },
     "hololens": {
       "level": 2,
@@ -65503,37 +65503,37 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:23:36.058Z",
-      "score": 0
+      "score": 1
     },
     "memory-cache": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:23:36.058Z",
-      "score": 0
+      "score": 1
     },
     "memory-manager": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:23:36.058Z",
-      "score": 0
+      "score": 1
     },
     "memory-optimization": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:23:36.058Z",
-      "score": 0
+      "score": 1
     },
     "memory-optimizer": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:23:36.058Z",
-      "score": 0
+      "score": 1
     },
     "rammap": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:23:36.058Z",
-      "score": 0
+      "score": 1
     },
     "confirm": {
       "level": 2,

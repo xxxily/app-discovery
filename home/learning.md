@@ -2,7 +2,7 @@
 
 > 电子书阅读、课程学习、语言学习及百科知识。
 
-> 当前分类已收录 **59** 个相关项目。
+> 当前分类已收录 **60** 个相关项目。
 
 ## [Trilium Notes](https://github.com/TriliumNext/Trilium)
 
@@ -110,7 +110,7 @@ Android 平台开源间隔重复记忆卡片应用，帮助用户高效记忆任
 - **Platforms:** **Windows**, **macOS**, **Linux**
 - **Stars:** ⭐️ 9.5k
 - **Tags:** `天文` `星图` `科学`
-- **最后活动时间:** 2026-03-23
+- **最后活动时间:** 2026-03-24
 
 ## [WWDC](https://github.com/insidegui/WWDC)
 
@@ -144,7 +144,7 @@ Android 平台开源间隔重复记忆卡片应用，帮助用户高效记忆任
 Udemy 课程下载器桌面应用，支持批量下载已购课程视频、选择画质、断点续传，方便离线学习。
 
 - **Platforms:** **Windows**, **macOS**, **Linux**
-- **Stars:** ⭐️ 6.2k
+- **Stars:** ⭐️ 6.3k
 - **Tags:** `下载器` `Udemy` `课程` `离线学习`
 - **最后活动时间:** 2024-04-06
 
@@ -246,6 +246,15 @@ JetBrains 官方 KotlinConf 大会应用，采用 Kotlin Multiplatform 和 Compo
 - **Stars:** ⭐️ 2.7k
 - **Tags:** `围棋` `棋谱编辑` `桌面应用`
 - **最后活动时间:** 2026-03-10
+
+## [SwiftPamphletApp](https://github.com/ming1016/SwiftPamphletApp)
+
+使用 SwiftUI 开发的 macOS 知识手册应用，整合 GitHub API，提供活的知识管理与学习体验。
+
+- **Platforms:** **macOS**
+- **Stars:** ⭐️ 2.6k
+- **Tags:** `知识管理` `Swift` `GitHub`
+- **最后活动时间:** 2025-08-16
 
 ## [Trail Sense](https://github.com/kylecorry31/Trail-Sense)
 

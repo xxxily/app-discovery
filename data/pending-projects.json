@@ -1,467 +1,6 @@
 {
   "queue": [
     {
-      "name": "hcsshim",
-      "html_url": "https://github.com/microsoft/hcsshim",
-      "full_name": "microsoft/hcsshim",
-      "description": "Windows - Host Compute Service Shim",
-      "topics": [],
-      "stargazers_count": 650,
-      "pushed_at": "2026-03-23T17:07:43Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "Process-Dump",
-      "html_url": "https://github.com/glmcdona/Process-Dump",
-      "full_name": "glmcdona/Process-Dump",
-      "description": "Windows tool for dumping malware PE files from memory back to disk for analysis.",
-      "topics": [],
-      "stargazers_count": 1834,
-      "pushed_at": "2024-09-03T21:16:32Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "Continuous-Claude-v3",
-      "html_url": "https://github.com/parcadei/Continuous-Claude-v3",
-      "full_name": "parcadei/Continuous-Claude-v3",
-      "description": "Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.",
-      "topics": [
-        "agents",
-        "claude-code",
-        "claude-code-cli",
-        "claude-code-hooks",
-        "claude-code-mcp",
-        "claude-code-skills",
-        "claude-code-subagents",
-        "claude-skills",
-        "mcp"
-      ],
-      "stargazers_count": 3621,
-      "pushed_at": "2026-01-26T15:27:49Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "vial-gui",
-      "html_url": "https://github.com/vial-kb/vial-gui",
-      "full_name": "vial-kb/vial-gui",
-      "description": "Vial is an open-source cross-platform (Windows, Linux and Mac) GUI and a QMK fork for configuring your keyboard in real time.",
-      "topics": [],
-      "stargazers_count": 1309,
-      "pushed_at": "2025-12-21T21:29:24Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "microsoft-pdb",
-      "html_url": "https://github.com/microsoft/microsoft-pdb",
-      "full_name": "microsoft/microsoft-pdb",
-      "description": "Information from Microsoft about the PDB format.  We'll try to keep this up to date. Just trying to help the CLANG/LLVM community get onto Windows.",
-      "topics": [],
-      "stargazers_count": 1928,
-      "pushed_at": "2023-04-27T22:36:05Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "glTFast",
-      "html_url": "https://github.com/atteneder/glTFast",
-      "full_name": "atteneder/glTFast",
-      "description": "Efficient glTF 3D import / export package for Unity",
-      "topics": [
-        "3d",
-        "android",
-        "draco",
-        "gltf",
-        "graphics",
-        "ios",
-        "ktx",
-        "linux",
-        "macos",
-        "mesh",
-        "unity",
-        "unity3d",
-        "upm",
-        "webgl",
-        "windows"
-      ],
-      "stargazers_count": 1442,
-      "pushed_at": "2026-02-26T17:06:35Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "rubyinstaller2",
-      "html_url": "https://github.com/oneclick/rubyinstaller2",
-      "full_name": "oneclick/rubyinstaller2",
-      "description": "MSYS2 based RubyInstaller for Windows",
-      "topics": [
-        "msys2",
-        "ruby",
-        "rubyinstaller"
-      ],
-      "stargazers_count": 706,
-      "pushed_at": "2026-03-17T18:09:12Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "inspircd",
-      "html_url": "https://github.com/inspircd/inspircd",
-      "full_name": "inspircd/inspircd",
-      "description": "A high-performance Internet Relay Chat (IRCv3) server for UNIX-like and Windows systems",
-      "topics": [
-        "c-plus-plus",
-        "inspircd",
-        "internet-relay-chat",
-        "irc",
-        "irc-protocol",
-        "irc-server",
-        "ircd",
-        "ircv3"
-      ],
-      "stargazers_count": 1304,
-      "pushed_at": "2026-03-19T19:04:54Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "Qt-Frameless-Window-DarkStyle",
-      "html_url": "https://github.com/Jorgen-VikingGod/Qt-Frameless-Window-DarkStyle",
-      "full_name": "Jorgen-VikingGod/Qt-Frameless-Window-DarkStyle",
-      "description": "simple MainWindow class implementation with frameless window and custom dark style. It adds also support for titlebar and buttons (minimize, maximize, close)",
-      "topics": [
-        "cpp",
-        "dark-theme",
-        "fancy",
-        "qstylesheet",
-        "qt",
-        "qt5",
-        "stylesheets"
-      ],
-      "stargazers_count": 1217,
-      "pushed_at": "2022-12-15T07:11:10Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "SimpleVisor",
-      "html_url": "https://github.com/ionescu007/SimpleVisor",
-      "full_name": "ionescu007/SimpleVisor",
-      "description": "SimpleVisor is a simple, portable, Intel VT-x hypervisor with two specific goals: using the least amount of assembly code (10 lines), and having the smallest amount of VMX-related code to support dynamic hyperjacking and unhyperjacking (that is, virtualizing the host state from within the host). It works on Windows and UEFI.",
-      "topics": [],
-      "stargazers_count": 1925,
-      "pushed_at": "2024-05-08T14:28:23Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "mqttclient",
-      "html_url": "https://github.com/IoTSharp/mqttclient",
-      "full_name": "IoTSharp/mqttclient",
-      "description": "A high-performance, high-stability, cross-platform MQTT client, developed based on the socket API, can be used on embedded devices (FreeRTOS / LiteOS / RT-Thread / TencentOS tiny), Linux, Windows, Mac, with a very concise The API interface realizes the quality of service of QOS2 with very few resources, and seamlessly connects the mbedtls encryption library.",
-      "topics": [
-        "cross-platform",
-        "linux",
-        "mbedtls",
-        "mqtt",
-        "mqtt-client",
-        "mqttclient",
-        "net",
-        "network",
-        "qos1",
-        "qos2",
-        "rtos",
-        "socket-mqtt",
-        "ssl",
-        "tcpip"
-      ],
-      "stargazers_count": 823,
-      "pushed_at": "2026-02-11T08:33:40Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "dopamine-windows",
-      "html_url": "https://github.com/digimezzo/dopamine-windows",
-      "full_name": "digimezzo/dopamine-windows",
-      "description": "Audio player which tries to make organizing and listening to music as simple and pretty as possible.",
-      "topics": [],
-      "stargazers_count": 2038,
-      "pushed_at": "2025-12-30T07:54:32Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "pywinrm",
-      "html_url": "https://github.com/diyan/pywinrm",
-      "full_name": "diyan/pywinrm",
-      "description": "Python library for Windows Remote Management (WinRM)",
-      "topics": [
-        "python",
-        "winrm"
-      ],
-      "stargazers_count": 1127,
-      "pushed_at": "2024-08-09T02:07:49Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "falcon",
-      "html_url": "https://github.com/plotly/falcon",
-      "full_name": "plotly/falcon",
-      "description": "Free, open-source SQL client for Windows and Mac 🦅",
-      "topics": [
-        "electron",
-        "falcon",
-        "mysql-client",
-        "plotly",
-        "postgresql",
-        "redshift",
-        "sql",
-        "visualization"
-      ],
-      "stargazers_count": 5104,
-      "pushed_at": "2023-04-17T17:59:03Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "sharppcap",
-      "html_url": "https://github.com/dotpcap/sharppcap",
-      "full_name": "dotpcap/sharppcap",
-      "description": "Official repository - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets",
-      "topics": [
-        "analysis",
-        "c-sharp",
-        "capture-packets",
-        "capturing-packets",
-        "cross-platform",
-        "linux",
-        "macos",
-        "network-monitoring",
-        "network-programming",
-        "npcap",
-        "packet",
-        "packets",
-        "sharppcap",
-        "windivert",
-        "windows"
-      ],
-      "stargazers_count": 1463,
-      "pushed_at": "2026-03-21T21:03:49Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "MixedRealityToolkit",
-      "html_url": "https://github.com/microsoft/MixedRealityToolkit",
-      "full_name": "microsoft/MixedRealityToolkit",
-      "description": "The MixedRealityToolkit is a collection of scripts and components intended to accelerate the development of mixed reality applications targeting Windows Mixed Reality.",
-      "topics": [
-        "hololens",
-        "holotoolkit",
-        "mixed-reality",
-        "mixedrealitytoolkit"
-      ],
-      "stargazers_count": 870,
-      "pushed_at": "2025-04-30T20:02:33Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "stumpwm",
-      "html_url": "https://github.com/stumpwm/stumpwm",
-      "full_name": "stumpwm/stumpwm",
-      "description": "The Stump Window Manager",
-      "topics": [],
-      "stargazers_count": 2011,
-      "pushed_at": "2026-01-09T03:08:35Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "flowpilot",
-      "html_url": "https://github.com/flowdriveai/flowpilot",
-      "full_name": "flowdriveai/flowpilot",
-      "description": "flow-pilot is an openpilot based driver assistance system that runs on linux, windows and android powered machines.",
-      "topics": [],
-      "stargazers_count": 2019,
-      "pushed_at": "2024-09-19T16:37:47Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "WinMemoryCleaner",
-      "html_url": "https://github.com/IgorMundstein/WinMemoryCleaner",
-      "full_name": "IgorMundstein/WinMemoryCleaner",
-      "description": "This free RAM cleaner uses native Windows features to optimize memory areas. It's a compact, portable, and smart application.",
-      "topics": [
-        "cleaner",
-        "foss",
-        "gaming-performance",
-        "memory",
-        "memory-cache",
-        "memory-cleaner",
-        "memory-leak",
-        "memory-management",
-        "memory-manager",
-        "memory-monitoring",
-        "memory-optimization",
-        "memory-optimizer",
-        "ram",
-        "ram-cleaner",
-        "rammap",
-        "windows-optimization-tool"
-      ],
-      "stargazers_count": 4420,
-      "pushed_at": "2025-12-19T23:20:22Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "jBox",
-      "html_url": "https://github.com/stephanwagner/jBox",
-      "full_name": "stephanwagner/jBox",
-      "description": "jBox is a jQuery plugin that makes it easy to create customizable tooltips, modal windows, image galleries and more.",
-      "topics": [
-        "alert",
-        "confirm",
-        "confirmation-dialog",
-        "confirmation-modal",
-        "customizable-tooltips",
-        "dialog",
-        "image-gallery",
-        "javascript",
-        "jbox",
-        "jquery-plugin",
-        "lightbox",
-        "modal",
-        "modal-dialog",
-        "modal-window",
-        "modal-windows",
-        "notice",
-        "popup",
-        "popup-message",
-        "popup-window",
-        "tooltip"
-      ],
-      "stargazers_count": 1407,
-      "pushed_at": "2025-12-27T03:49:59Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "cairoshell",
-      "html_url": "https://github.com/cairoshell/cairoshell",
-      "full_name": "cairoshell/cairoshell",
-      "description": "Cairo is a customizable, intuitive desktop environment for Windows.",
-      "topics": [
-        "csharp",
-        "desktop-environment",
-        "launcher",
-        "shell",
-        "task-manager",
-        "windows-desktop",
-        "wpf"
-      ],
-      "stargazers_count": 3267,
-      "pushed_at": "2026-03-10T06:10:05Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "truecrypt-verified-mirror",
-      "html_url": "https://github.com/AuditProject/truecrypt-verified-mirror",
-      "full_name": "AuditProject/truecrypt-verified-mirror",
-      "description": "Verified Windows, OSX, Linux TrueCrypt v. 7.1a binaries and source files",
-      "topics": [],
-      "stargazers_count": 871,
-      "pushed_at": "2014-06-10T02:28:15Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "FloatWindowPermission",
-      "html_url": "https://github.com/zhaozepeng/FloatWindowPermission",
-      "full_name": "zhaozepeng/FloatWindowPermission",
-      "description": "this repository is aimed to adapt android float window permission in most kinds of mobiles and how to request it at runtime ",
-      "topics": [],
-      "stargazers_count": 1345,
-      "pushed_at": "2022-07-23T00:25:36Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "SpotifyAdBlock",
-      "html_url": "https://github.com/x0uid/SpotifyAdBlock",
-      "full_name": "x0uid/SpotifyAdBlock",
-      "description": "Protect your privacy by blocking all annoying Spotify ads & analytics in Linux, OSX and Windows with hosts file.",
-      "topics": [
-        "linux",
-        "local-machine",
-        "privacy",
-        "spotify",
-        "whitelist"
-      ],
-      "stargazers_count": 1446,
-      "pushed_at": "2024-06-02T07:44:19Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "sharpshell",
-      "html_url": "https://github.com/dwmkerr/sharpshell",
-      "full_name": "dwmkerr/sharpshell",
-      "description": "SharpShell makes it easy to create Windows Shell Extensions using the .NET Framework.",
-      "topics": [],
-      "stargazers_count": 1661,
-      "pushed_at": "2024-06-13T18:18:16Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "SyscallTables",
-      "html_url": "https://github.com/hfiref0x/SyscallTables",
-      "full_name": "hfiref0x/SyscallTables",
-      "description": "Windows NT Syscall tables",
-      "topics": [
-        "ssdt",
-        "syscall-table",
-        "win32k",
-        "win64"
-      ],
-      "stargazers_count": 1397,
-      "pushed_at": "2026-03-20T05:06:33Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "Clash",
-      "html_url": "https://github.com/Semporia/Clash",
-      "full_name": "Semporia/Clash",
-      "description": "Clash for Windows & ClashX Pro  自用节点订阅、分流规则、参考配置",
-      "topics": [
-        "rule-providers",
-        "rules"
-      ],
-      "stargazers_count": 1835,
-      "pushed_at": "2026-03-20T01:22:24Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "windows-installer",
-      "html_url": "https://github.com/electron/windows-installer",
-      "full_name": "electron/windows-installer",
-      "description": "Build Windows Installers for Electron apps",
-      "topics": [],
-      "stargazers_count": 1629,
-      "pushed_at": "2026-03-19T19:20:11Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "atom-bombing",
-      "html_url": "https://github.com/BreakingMalwareResearch/atom-bombing",
-      "full_name": "BreakingMalwareResearch/atom-bombing",
-      "description": "Brand New Code Injection for Windows",
-      "topics": [],
-      "stargazers_count": 741,
-      "pushed_at": "2020-10-07T09:20:05Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
-      "name": "Clash",
-      "html_url": "https://github.com/clash-download/Clash",
-      "full_name": "clash-download/Clash",
-      "description": "🟢 收录 Clash Verge Rev, Clash for Windows,Clash for Android,FlClash 等Clash内核全平台客户端 Github 官方仓库与详细图文配置教程 (2026最新）",
-      "topics": [
-        "clash",
-        "clash-for-android",
-        "clash-for-windows",
-        "clash-meta",
-        "clash-verge"
-      ],
-      "stargazers_count": 1168,
-      "pushed_at": "2026-03-06T17:59:27Z",
-      "added_to_queue": "2026-03-24T09:23:36.058Z"
-    },
-    {
       "name": "windows",
       "html_url": "https://github.com/boxcutter/windows",
       "full_name": "boxcutter/windows",
@@ -72274,6 +71813,85 @@
       "stargazers_count": 2681,
       "pushed_at": "2016-02-17T15:22:51Z",
       "added_to_queue": "2026-03-24T12:39:33.471Z"
+    },
+    {
+      "name": "PinLayout",
+      "html_url": "https://github.com/layoutBox/PinLayout",
+      "full_name": "layoutBox/PinLayout",
+      "description": "Fast Swift Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. [iOS/macOS/tvOS/CALayer]",
+      "topics": [
+        "anchor",
+        "carthage",
+        "chainable-methods",
+        "cocoapod",
+        "ios",
+        "ios-lib",
+        "ios-swift",
+        "ios-ui",
+        "language",
+        "layout",
+        "layout-engine",
+        "left-language",
+        "margin",
+        "rtl",
+        "swift",
+        "swift-3",
+        "swift-framework",
+        "swift-library",
+        "uiview-extension"
+      ],
+      "stargazers_count": 2430,
+      "pushed_at": "2025-07-23T12:20:32Z",
+      "added_to_queue": "2026-03-24T12:40:33.787Z"
+    },
+    {
+      "name": "Wave",
+      "html_url": "https://github.com/jtrivedi/Wave",
+      "full_name": "jtrivedi/Wave",
+      "description": "Wave is a spring-based animation engine for iOS and macOS that makes it easy to create fluid, interruptible animations that feel great.",
+      "topics": [
+        "animation",
+        "appkit",
+        "gestures",
+        "interaction-design",
+        "ios",
+        "motion",
+        "swift",
+        "swiftui",
+        "ui",
+        "uikit"
+      ],
+      "stargazers_count": 2344,
+      "pushed_at": "2025-02-17T19:48:42Z",
+      "added_to_queue": "2026-03-24T12:40:33.787Z"
+    },
+    {
+      "name": "Black-Friday-Deals",
+      "html_url": "https://github.com/mRs-/Black-Friday-Deals",
+      "full_name": "mRs-/Black-Friday-Deals",
+      "description": "Black Friday Deals for macOS / iOS Software & Books",
+      "topics": [],
+      "stargazers_count": 2299,
+      "pushed_at": "2025-11-30T11:20:42Z",
+      "added_to_queue": "2026-03-24T12:40:33.787Z"
+    },
+    {
+      "name": "notes",
+      "html_url": "https://github.com/guanguans/notes",
+      "full_name": "guanguans/notes",
+      "description": ":notebook_with_decorative_cover: Linux、MySQL、Nginx、PHP、Git、Shell 等笔记",
+      "topics": [
+        "chrome",
+        "chrome-extension",
+        "ios",
+        "macos",
+        "minttyrc",
+        "phpstorm",
+        "sublime"
+      ],
+      "stargazers_count": 2177,
+      "pushed_at": "2021-09-17T07:28:12Z",
+      "added_to_queue": "2026-03-24T12:40:33.787Z"
     }
   ]
 }

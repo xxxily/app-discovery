@@ -3980,7 +3980,7 @@
       "stars": 1568,
       "lastUpdated": "2026-03-24T09:09:24Z",
       "addedAt": "2026-03-24T04:09:07.319Z",
-      "_lastChecked": "2026-03-24T12:30:10.208Z",
+      "_lastChecked": "2026-03-24T12:41:33.374Z",
       "topics": [
         "android",
         "bitcoin",
@@ -6291,9 +6291,9 @@
       "is_cross_platform": true,
       "url": "https://github.com/OneKeyHQ/app-monorepo",
       "stars": 2336,
-      "lastUpdated": "2026-03-24T12:19:11Z",
+      "lastUpdated": "2026-03-24T12:31:00Z",
       "addedAt": "2026-03-24T04:18:57.067Z",
-      "_lastChecked": "2026-03-24T12:19:59.993Z",
+      "_lastChecked": "2026-03-24T12:40:33.787Z",
       "topics": [
         "android",
         "bitcoin",
@@ -8164,7 +8164,7 @@
       "stars": 2246,
       "lastUpdated": "2026-03-24T04:56:29Z",
       "addedAt": "2026-03-24T04:29:26.627Z",
-      "_lastChecked": "2026-03-24T10:50:10.701Z",
+      "_lastChecked": "2026-03-24T12:40:33.787Z",
       "topics": [
         "ios",
         "mastodon"
@@ -8308,9 +8308,9 @@
       "is_cross_platform": true,
       "url": "https://github.com/RocketChat/Rocket.Chat.ReactNative",
       "stars": 2370,
-      "lastUpdated": "2026-03-24T12:26:50Z",
+      "lastUpdated": "2026-03-24T12:33:26Z",
       "addedAt": "2026-03-24T04:32:01.176Z",
-      "_lastChecked": "2026-03-24T12:28:56.638Z",
+      "_lastChecked": "2026-03-24T12:40:33.787Z",
       "topics": [
         "android",
         "chat",
@@ -15950,9 +15950,9 @@
       "is_cross_platform": false,
       "url": "https://github.com/nextcloud/ios",
       "stars": 2374,
-      "lastUpdated": "2026-03-24T02:47:10Z",
+      "lastUpdated": "2026-03-24T11:56:40Z",
       "addedAt": "2026-03-24T05:19:16.148Z",
-      "_lastChecked": "2026-03-24T11:36:41.637Z",
+      "_lastChecked": "2026-03-24T12:40:33.787Z",
       "topics": [
         "hacktoberfest",
         "ios",
@@ -30004,7 +30004,7 @@
       "stars": 2268,
       "lastUpdated": "2024-06-30T23:17:05Z",
       "addedAt": "2026-03-24T06:45:51.305Z",
-      "_lastChecked": "2026-03-24T10:50:10.701Z",
+      "_lastChecked": "2026-03-24T12:40:33.787Z",
       "topics": [
         "android",
         "expo",
@@ -30206,7 +30206,7 @@
       "stars": 5068,
       "lastUpdated": "2026-03-08T10:03:23Z",
       "addedAt": "2026-03-24T06:47:38.709Z",
-      "_lastChecked": "2026-03-24T12:33:53.647Z",
+      "_lastChecked": "2026-03-24T12:41:33.374Z",
       "topics": [
         "acg",
         "comic",
@@ -30318,7 +30318,7 @@
       "stars": 4415,
       "lastUpdated": "2024-08-20T10:54:06Z",
       "addedAt": "2026-03-24T06:48:49.262Z",
-      "_lastChecked": "2026-03-24T12:33:53.647Z",
+      "_lastChecked": "2026-03-24T12:41:33.374Z",
       "topics": [
         "alamofire",
         "debug",
@@ -30451,7 +30451,7 @@
       "stars": 3789,
       "lastUpdated": "2026-03-21T08:14:00Z",
       "addedAt": "2026-03-24T06:51:01.079Z",
-      "_lastChecked": "2026-03-24T12:33:53.647Z",
+      "_lastChecked": "2026-03-24T12:41:33.374Z",
       "topics": [
         "ios",
         "monaco-editor",
@@ -36356,7 +36356,7 @@
       "stars": 2203,
       "lastUpdated": "2026-03-23T11:17:05Z",
       "addedAt": "2026-03-24T07:32:02.775Z",
-      "_lastChecked": "2026-03-24T12:32:46.350Z",
+      "_lastChecked": "2026-03-24T12:40:33.787Z",
       "topics": [
         "android",
         "android-malware",
@@ -36770,7 +36770,7 @@
       "stars": 2208,
       "lastUpdated": "2026-03-24T08:12:36Z",
       "addedAt": "2026-03-24T07:35:20.234Z",
-      "_lastChecked": "2026-03-24T11:36:41.637Z",
+      "_lastChecked": "2026-03-24T12:41:33.374Z",
       "topics": [
         "afc",
         "instruments",
@@ -44631,10 +44631,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/heiher/hev-socks5-tunnel",
-      "stars": 1755,
+      "stars": 1756,
       "lastUpdated": "2026-03-07T14:53:16Z",
       "addedAt": "2026-03-24T09:14:38.784Z",
-      "_lastChecked": "2026-03-24T12:04:10.402Z",
+      "_lastChecked": "2026-03-24T12:41:33.374Z",
       "topics": [
         "android",
         "dns",
@@ -44927,7 +44927,7 @@
       "stars": 2181,
       "lastUpdated": "2026-01-05T19:35:21Z",
       "addedAt": "2026-03-24T09:19:06.078Z",
-      "_lastChecked": "2026-03-24T11:46:10.158Z",
+      "_lastChecked": "2026-03-24T12:40:33.787Z",
       "topics": [],
       "categories": [
         "media",
@@ -45105,10 +45105,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/SagerNet/sing-box-for-apple",
-      "stars": 788,
+      "stars": 787,
       "lastUpdated": "2026-03-24T07:44:44Z",
       "addedAt": "2026-03-24T09:20:18.539Z",
-      "_lastChecked": "2026-03-24T10:51:24.348Z",
+      "_lastChecked": "2026-03-24T12:41:33.374Z",
       "topics": [],
       "categories": [
         "internet",
@@ -46623,7 +46623,7 @@
       "stars": 2434,
       "lastUpdated": "2025-08-23T21:23:19Z",
       "addedAt": "2026-03-24T09:28:40.374Z",
-      "_lastChecked": "2026-03-24T12:07:10.812Z",
+      "_lastChecked": "2026-03-24T12:40:33.786Z",
       "topics": [
         "ios",
         "ios-dev",
@@ -58699,7 +58699,7 @@
       "stars": 2315,
       "lastUpdated": "2023-10-05T18:49:30Z",
       "addedAt": "2026-03-24T10:41:09.896Z",
-      "_lastChecked": "2026-03-24T12:17:38.401Z",
+      "_lastChecked": "2026-03-24T12:40:33.787Z",
       "topics": [
         "apn",
         "electron",
@@ -72035,7 +72035,7 @@
       "stars": 2367,
       "lastUpdated": "2026-02-27T12:50:34Z",
       "addedAt": "2026-03-24T12:11:01.977Z",
-      "_lastChecked": "2026-03-24T12:38:22.997Z",
+      "_lastChecked": "2026-03-24T12:40:33.787Z",
       "topics": [
         "android",
         "developer-tools",
@@ -72069,7 +72069,7 @@
       "stars": 2230,
       "lastUpdated": "2025-11-08T22:27:15Z",
       "addedAt": "2026-03-24T12:11:01.977Z",
-      "_lastChecked": "2026-03-24T12:11:01.977Z",
+      "_lastChecked": "2026-03-24T12:40:33.787Z",
       "topics": [
         "audiostation-client",
         "emby-client",
@@ -75549,6 +75549,304 @@
       "categories": [
         "utilities",
         "security"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "Process Dump",
+      "description": "Windows 逆向工程命令行工具，用于从内存中提取恶意软件 PE 文件并重建到磁盘进行分析。支持隐藏模块检测、代码块转储及进程终止监控模式。",
+      "tags": [
+        "逆向工程",
+        "恶意软件分析",
+        "内存取证"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/glmcdona/Process-Dump",
+      "stars": 1834,
+      "lastUpdated": "2024-09-03T21:16:32Z",
+      "addedAt": "2026-03-24T12:40:20.137Z",
+      "_lastChecked": "2026-03-24T12:40:20.137Z",
+      "topics": [],
+      "categories": [
+        "security",
+        "developer"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "Vial",
+      "description": "开源跨平台键盘配置工具，支持实时修改键位映射和自定义布局。基于 QMK 固件，提供直观的图形界面让用户轻松定制机械键盘。",
+      "tags": [
+        "键盘配置",
+        "QMK",
+        "硬件工具"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/vial-kb/vial-gui",
+      "stars": 1309,
+      "lastUpdated": "2025-12-21T21:29:24Z",
+      "addedAt": "2026-03-24T12:40:20.137Z",
+      "_lastChecked": "2026-03-24T12:40:20.137Z",
+      "topics": [],
+      "categories": [
+        "utilities",
+        "customization"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "RubyInstaller",
+      "description": "基于 MSYS2 工具链的 Windows Ruby 安装程序，提供完整的 Ruby 开发环境。集成 MINGW 库支持，方便安装 C 扩展 Gem 包。",
+      "tags": [
+        "Ruby",
+        "安装程序",
+        "开发环境"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/oneclick/rubyinstaller2",
+      "stars": 706,
+      "lastUpdated": "2026-03-17T18:09:12Z",
+      "addedAt": "2026-03-24T12:40:20.137Z",
+      "_lastChecked": "2026-03-24T12:40:20.137Z",
+      "topics": [
+        "msys2",
+        "ruby",
+        "rubyinstaller"
+      ],
+      "categories": [
+        "developer",
+        "utilities"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "InspIRCd",
+      "description": "高性能模块化 IRCv3 服务器，支持 UNIX 和 Windows 系统。采用 C++ 编写，提供丰富的模块扩展能力和完善的 IRCv3 协议支持。",
+      "tags": [
+        "IRC服务器",
+        "即时通讯",
+        "开源"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/inspircd/inspircd",
+      "stars": 1304,
+      "lastUpdated": "2026-03-19T19:04:54Z",
+      "addedAt": "2026-03-24T12:40:20.137Z",
+      "_lastChecked": "2026-03-24T12:40:20.137Z",
+      "topics": [
+        "c-plus-plus",
+        "inspircd",
+        "internet-relay-chat",
+        "irc",
+        "irc-protocol",
+        "irc-server",
+        "ircd",
+        "ircv3"
+      ],
+      "categories": [
+        "communication",
+        "internet",
+        "trending"
+      ],
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ]
+    },
+    {
+      "name": "Dopamine",
+      "description": "一款简洁优雅的 Windows 音频播放器，专注于让音乐管理和聆听体验变得简单而美好。支持多种音频格式，界面现代美观。",
+      "tags": [
+        "音乐播放器",
+        "音频",
+        "媒体"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/digimezzo/dopamine-windows",
+      "stars": 2038,
+      "lastUpdated": "2025-12-30T07:54:32Z",
+      "addedAt": "2026-03-24T12:41:20.964Z",
+      "_lastChecked": "2026-03-24T12:41:20.965Z",
+      "topics": [],
+      "categories": [
+        "media",
+        "trending"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "Falcon SQL Client",
+      "description": "一款免费开源的跨平台 SQL 编辑器，内置数据可视化功能。支持 RedShift、MySQL、PostgreSQL、Oracle 等多种数据库连接。",
+      "tags": [
+        "SQL",
+        "数据库",
+        "可视化"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/plotly/falcon",
+      "stars": 5104,
+      "lastUpdated": "2023-04-17T17:59:03Z",
+      "addedAt": "2026-03-24T12:41:20.965Z",
+      "_lastChecked": "2026-03-24T12:41:20.965Z",
+      "topics": [
+        "electron",
+        "falcon",
+        "mysql-client",
+        "plotly",
+        "postgresql",
+        "redshift",
+        "sql",
+        "visualization"
+      ],
+      "categories": [
+        "developer",
+        "productivity"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "StumpWM",
+      "description": "一款完全用 Common Lisp 编写的平铺窗口管理器，高度可定制且完全依赖键盘操作。被誉为窗口管理器中的 Emacs，适合追求极致效率的用户。",
+      "tags": [
+        "窗口管理器",
+        "平铺式",
+        "键盘操作"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/stumpwm/stumpwm",
+      "stars": 2011,
+      "lastUpdated": "2026-01-09T03:08:35Z",
+      "addedAt": "2026-03-24T12:41:20.965Z",
+      "_lastChecked": "2026-03-24T12:41:20.965Z",
+      "topics": [],
+      "categories": [
+        "utilities",
+        "customization",
+        "trending"
+      ],
+      "platforms": [
+        "Linux"
+      ]
+    },
+    {
+      "name": "Flowpilot",
+      "description": "基于 openpilot 的开源驾驶辅助系统，支持自适应巡航、车道居中、前碰撞预警等功能。可在 Windows、Linux 和 Android 设备上运行。",
+      "tags": [
+        "驾驶辅助",
+        "ADAS",
+        "开源"
+      ],
+      "health": "Maintained",
+      "is_cross_platform": true,
+      "url": "https://github.com/flowdriveai/flowpilot",
+      "stars": 2019,
+      "lastUpdated": "2024-09-19T16:37:47Z",
+      "addedAt": "2026-03-24T12:41:20.965Z",
+      "_lastChecked": "2026-03-24T12:41:20.965Z",
+      "topics": [],
+      "categories": [
+        "utilities"
+      ],
+      "platforms": [
+        "Windows",
+        "Linux",
+        "Android"
+      ]
+    },
+    {
+      "name": "WinMemoryCleaner",
+      "description": "一款免费智能的 Windows 内存清理工具，使用原生 Windows API 优化内存区域。便携免安装，支持自动优化和内存监控功能。",
+      "tags": [
+        "内存清理",
+        "系统优化",
+        "RAM"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/IgorMundstein/WinMemoryCleaner",
+      "stars": 4420,
+      "lastUpdated": "2025-12-19T23:20:22Z",
+      "addedAt": "2026-03-24T12:41:20.965Z",
+      "_lastChecked": "2026-03-24T12:41:20.965Z",
+      "topics": [
+        "cleaner",
+        "foss",
+        "gaming-performance",
+        "memory",
+        "memory-cache",
+        "memory-cleaner",
+        "memory-leak",
+        "memory-management",
+        "memory-manager",
+        "memory-monitoring",
+        "memory-optimization",
+        "memory-optimizer",
+        "ram",
+        "ram-cleaner",
+        "rammap",
+        "windows-optimization-tool"
+      ],
+      "categories": [
+        "utilities",
+        "security"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "Cairo Desktop Environment",
+      "description": "一款可定制、直观的 Windows 桌面环境替代方案，提供现代化的任务栏、程序菜单和动态桌面功能。旨在提升生产力与用户体验，支持多显示器并优化工作流程。",
+      "tags": [
+        "桌面环境",
+        "Shell替换",
+        "任务栏",
+        "启动器"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/cairoshell/cairoshell",
+      "stars": 3267,
+      "lastUpdated": "2026-03-10T06:10:05Z",
+      "addedAt": "2026-03-24T12:42:11.444Z",
+      "_lastChecked": "2026-03-24T12:42:11.444Z",
+      "topics": [
+        "csharp",
+        "desktop-environment",
+        "launcher",
+        "shell",
+        "task-manager",
+        "windows-desktop",
+        "wpf"
+      ],
+      "categories": [
+        "utilities",
+        "customization",
+        "trending"
       ],
       "platforms": [
         "Windows"

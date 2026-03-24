@@ -17912,6 +17912,146 @@
       "description": "Hacking Toolkit",
       "rejected_at": "2026-03-24T12:39:24.419Z",
       "reason": "This is a collection of penetration testing scripts/tools rather than a polished end-user application. It's primarily a toolkit for security professionals and lacks the characteristics of a finished consumer application."
+    },
+    {
+      "name": "hcsshim",
+      "url": "https://github.com/microsoft/hcsshim",
+      "description": "Windows - Host Compute Service Shim",
+      "rejected_at": "2026-03-24T12:40:20.137Z",
+      "reason": "This is a Golang library/interface for Windows Host Compute Service, primarily used by container runtimes like Moby and Containerd. It's a developer library/API, not an end-user application."
+    },
+    {
+      "name": "Continuous-Claude-v3",
+      "url": "https://github.com/parcadei/Continuous-Claude-v3",
+      "description": "Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.",
+      "rejected_at": "2026-03-24T12:40:20.137Z",
+      "reason": "This is a configuration/template system for Claude Code CLI, consisting of hooks, skills, and agent configurations. It's a framework/template rather than a standalone end-user application."
+    },
+    {
+      "name": "microsoft-pdb",
+      "url": "https://github.com/microsoft/microsoft-pdb",
+      "description": "Information from Microsoft about the PDB format.  We'll try to keep this up to date. Just trying to help the CLANG/LLVM community get onto Windows.",
+      "rejected_at": "2026-03-24T12:40:20.137Z",
+      "reason": "This is documentation and format specification for Microsoft PDB (Program Database) symbol files. It's an archived informational resource, not an application."
+    },
+    {
+      "name": "glTFast",
+      "url": "https://github.com/atteneder/glTFast",
+      "description": "Efficient glTF 3D import / export package for Unity",
+      "rejected_at": "2026-03-24T12:40:20.137Z",
+      "reason": "This is a Unity package/library for importing and exporting glTF 3D files. It's a plugin for Unity developers, not a standalone end-user application."
+    },
+    {
+      "name": "Qt-Frameless-Window-DarkStyle",
+      "url": "https://github.com/Jorgen-VikingGod/Qt-Frameless-Window-DarkStyle",
+      "description": "simple MainWindow class implementation with frameless window and custom dark style. It adds also support for titlebar and buttons (minimize, maximize, close)",
+      "rejected_at": "2026-03-24T12:40:20.137Z",
+      "reason": "This is a Qt UI component/library providing frameless window and dark style implementation. It's a template/component for Qt developers to use in their applications, not a standalone end-user application."
+    },
+    {
+      "name": "SimpleVisor",
+      "url": "https://github.com/ionescu007/SimpleVisor",
+      "description": "SimpleVisor is a simple, portable, Intel VT-x hypervisor with two specific goals: using the least amount of assembly code (10 lines), and having the smallest amount of VMX-related code to support dynamic hyperjacking and unhyperjacking (that is, virtualizing the host state from within the host). It works on Windows and UEFI.",
+      "rejected_at": "2026-03-24T12:40:20.137Z",
+      "reason": "This is a minimal Intel VT-x hypervisor implementation primarily for educational/research purposes. It's a kernel driver component, not a typical end-user application software."
+    },
+    {
+      "name": "mqttclient",
+      "url": "https://github.com/IoTSharp/mqttclient",
+      "description": "A high-performance, high-stability, cross-platform MQTT client, developed based on the socket API, can be used on embedded devices (FreeRTOS / LiteOS / RT-Thread / TencentOS tiny), Linux, Windows, Mac, with a very concise The API interface realizes the quality of service of QOS2 with very few resources, and seamlessly connects the mbedtls encryption library.",
+      "rejected_at": "2026-03-24T12:41:20.964Z",
+      "reason": "This is a library/API for MQTT client functionality, not an end-user application. It's designed to be embedded in other applications."
+    },
+    {
+      "name": "pywinrm",
+      "url": "https://github.com/diyan/pywinrm",
+      "description": "Python library for Windows Remote Management (WinRM)",
+      "rejected_at": "2026-03-24T12:41:20.965Z",
+      "reason": "This is a Python library for Windows Remote Management, not an end-user application. It's designed for developers to integrate into their projects."
+    },
+    {
+      "name": "sharppcap",
+      "url": "https://github.com/dotpcap/sharppcap",
+      "description": "Official repository - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets",
+      "rejected_at": "2026-03-24T12:41:20.965Z",
+      "reason": "This is a .NET library for packet capturing, not an end-user application. It's designed for developers to build network monitoring tools."
+    },
+    {
+      "name": "MixedRealityToolkit",
+      "url": "https://github.com/microsoft/MixedRealityToolkit",
+      "description": "The MixedRealityToolkit is a collection of scripts and components intended to accelerate the development of mixed reality applications targeting Windows Mixed Reality.",
+      "rejected_at": "2026-03-24T12:41:20.965Z",
+      "reason": "This is a development toolkit/framework for building mixed reality applications, not an end-user application itself."
+    },
+    {
+      "name": "jBox",
+      "url": "https://github.com/stephanwagner/jBox",
+      "description": "jBox is a jQuery plugin that makes it easy to create customizable tooltips, modal windows, image galleries and more.",
+      "rejected_at": "2026-03-24T12:41:20.965Z",
+      "reason": "This is a jQuery plugin/library for creating UI components like tooltips and modals, not an end-user application. Additionally, the project is archived and no longer maintained."
+    },
+    {
+      "name": "truecrypt-verified-mirror",
+      "url": "https://github.com/AuditProject/truecrypt-verified-mirror",
+      "description": "Verified Windows, OSX, Linux TrueCrypt v. 7.1a binaries and source files",
+      "rejected_at": "2026-03-24T12:42:11.444Z",
+      "reason": "This is a verified mirror/archive of TrueCrypt binaries, not an actively developed application. It's a collection of historical binaries for reference purposes."
+    },
+    {
+      "name": "FloatWindowPermission",
+      "url": "https://github.com/zhaozepeng/FloatWindowPermission",
+      "description": "this repository is aimed to adapt android float window permission in most kinds of mobiles and how to request it at runtime ",
+      "rejected_at": "2026-03-24T12:42:11.444Z",
+      "reason": "This is a library/utility for developers to handle Android float window permissions, not an end-user application."
+    },
+    {
+      "name": "SpotifyAdBlock",
+      "url": "https://github.com/x0uid/SpotifyAdBlock",
+      "description": "Protect your privacy by blocking all annoying Spotify ads & analytics in Linux, OSX and Windows with hosts file.",
+      "rejected_at": "2026-03-24T12:42:11.444Z",
+      "reason": "This is just a hosts file configuration for blocking Spotify ads, not a standalone application. It's a collection of DNS entries."
+    },
+    {
+      "name": "sharpshell",
+      "url": "https://github.com/dwmkerr/sharpshell",
+      "description": "SharpShell makes it easy to create Windows Shell Extensions using the .NET Framework.",
+      "rejected_at": "2026-03-24T12:42:11.444Z",
+      "reason": "This is a .NET framework/library for developers to create Windows Shell Extensions, not an end-user application."
+    },
+    {
+      "name": "SyscallTables",
+      "url": "https://github.com/hfiref0x/SyscallTables",
+      "description": "Windows NT Syscall tables",
+      "rejected_at": "2026-03-24T12:42:11.444Z",
+      "reason": "This is a data collection/reference of Windows NT syscall tables, not an end-user application."
+    },
+    {
+      "name": "Clash",
+      "url": "https://github.com/Semporia/Clash",
+      "description": "Clash for Windows & ClashX Pro  自用节点订阅、分流规则、参考配置",
+      "rejected_at": "2026-03-24T12:42:11.444Z",
+      "reason": "This is a collection of Clash configuration files and subscription rules, not a standalone application."
+    },
+    {
+      "name": "windows-installer",
+      "url": "https://github.com/electron/windows-installer",
+      "description": "Build Windows Installers for Electron apps",
+      "rejected_at": "2026-03-24T12:42:11.444Z",
+      "reason": "This is a developer tool/library (npm package) for building Windows installers for Electron apps, not an end-user application."
+    },
+    {
+      "name": "atom-bombing",
+      "url": "https://github.com/BreakingMalwareResearch/atom-bombing",
+      "description": "Brand New Code Injection for Windows",
+      "rejected_at": "2026-03-24T12:42:11.444Z",
+      "reason": "This is a security research proof-of-concept demonstrating code injection techniques, not an end-user application."
+    },
+    {
+      "name": "Clash",
+      "url": "https://github.com/clash-download/Clash",
+      "description": "🟢 收录 Clash Verge Rev, Clash for Windows,Clash for Android,FlClash 等Clash内核全平台客户端 Github 官方仓库与详细图文配置教程 (2026最新）",
+      "rejected_at": "2026-03-24T12:42:11.444Z",
+      "reason": "This is a collection of links and navigation to various Clash clients, not a standalone application itself."
     }
   ]
 }
