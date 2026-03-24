@@ -1,0 +1,57 @@
+import zhNav from './nav/zh'
+import zhSidebar from './sidebar/zh'
+
+export default {
+  appearance: 'dark',
+  title: 'App-Discovery',
+  description: '发现各平台优质 APP 及其开源替代品，助你连接广阔的应用世界。',
+  lang: 'zh-CN',
+  base: '/',
+  outDir: './docs',
+  head: [
+    [
+      'script',
+      { defer: '', src: 'https://msc.anzz.site/script.js', 'data-website-id': '20b6a59e-90f5-4998-940e-a708c9972bac' }
+    ],
+    [
+      'script',
+      {},
+      `
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?fccc710dc874350e7d5ba2e39b487954";
+          var s = document.getElementsByTagName("script")[0];
+          s.parentNode.insertBefore(hm, s);
+        })();
+      `,
+    ]
+  ],
+  themeConfig: {
+    siteTitle: 'App-Discovery',
+    outlineTitle: '目录',
+    outline: [2, 3],
+    logo: '/assets/img/logo.png',
+    nav: zhNav,
+    // navbar: true,
+    // sidebar: 'auto',
+    sidebar: zhSidebar,
+    socialLinks: [{ icon: 'github', link: 'https://github.com/xxxily/hello-ai' }],
+    // displayAllHeaders: true,
+    // sidebarDepth: 5,
+    // lastUpdated: 'Last Updated',
+
+    // 默认值是 true 。设置为 false 来禁用所有页面的 下一篇 链接
+    // nextLinks: true,
+    // prevLinks: true,
+
+    // smoothScroll: true,
+  },
+  /* 显示代码的行号 */
+  // markdown: {
+  //   lineNumbers: true,
+  // },
+  /* 只需兼容现代浏览器 */
+  // evergreen: true,
+  plugins: [],
+}

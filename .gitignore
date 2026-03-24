@@ -1,0 +1,25 @@
+.DS_Store
+**/node_modules/
+**/log/
+**/.cache/
+**/src/demo/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+*.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.vscode
+.env
+.env.local
+.env.*.local
+.vitepress/cache
+.agents/*
+
+# Deployment scripts (private)
+scripts/deploy-*.sh
