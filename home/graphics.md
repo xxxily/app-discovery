@@ -2,7 +2,7 @@
 
 > 修图、绘画、建模、CAD 及矢量设计工具。
 
-> 当前分类已收录 **141** 个相关项目。
+> 当前分类已收录 **142** 个相关项目。
 
 ## [draw.io Desktop](https://github.com/jgraph/drawio-desktop)
 
@@ -993,6 +993,15 @@ Android平台GLSL着色器编辑器，支持实时预览并将作品设为动态
 - **Stars:** ⭐️ 868
 - **Tags:** `图片管理` `素材库` `设计工具`
 - **最后活动时间:** 2024-04-23
+
+## [cmft](https://github.com/dariomanesku/cmft)
+
+跨平台命令行立方体贴图过滤工具，支持多种输入输出格式，利用多核CPU和OpenCL GPU加速处理，适用于游戏开发和图形渲染工作流。
+
+- **Platforms:** **Windows**, **macOS**, **Linux**
+- **Stars:** ⭐️ 863
+- **Tags:** `CLI` `图形处理` `Cubemap`
+- **最后活动时间:** 2021-01-06
 
 ## [Seamly2D](https://github.com/FashionFreedom/Seamly2D)
 

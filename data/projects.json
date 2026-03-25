@@ -901,10 +901,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/hovancik/stretchly",
-      "stars": 6079,
+      "stars": 6078,
       "lastUpdated": "2026-03-16T08:49:38Z",
       "addedAt": "2026-03-24T03:56:54.969Z",
-      "_lastChecked": "2026-03-25T05:02:26.243Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "breaks",
         "bsd",
@@ -970,7 +970,7 @@
       "stars": 5968,
       "lastUpdated": "2026-03-22T18:25:24Z",
       "addedAt": "2026-03-24T03:56:54.969Z",
-      "_lastChecked": "2026-03-25T06:00:52.924Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "alsa",
         "audio-visualizer",
@@ -1010,10 +1010,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/gaozhangmin/aliyunpan",
-      "stars": 5927,
+      "stars": 5928,
       "lastUpdated": "2026-03-25T03:55:54Z",
       "addedAt": "2026-03-24T03:56:54.969Z",
-      "_lastChecked": "2026-03-25T05:20:25.436Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "electron-app",
         "linux",
@@ -1084,7 +1084,7 @@
       "stars": 5859,
       "lastUpdated": "2026-03-24T18:30:33Z",
       "addedAt": "2026-03-24T03:57:52.066Z",
-      "_lastChecked": "2026-03-25T05:02:26.243Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "delphi",
         "firebird-database",
@@ -1165,7 +1165,7 @@
       "stars": 5724,
       "lastUpdated": "2025-06-11T15:44:24Z",
       "addedAt": "2026-03-24T03:57:52.067Z",
-      "_lastChecked": "2026-03-25T05:52:44.996Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "bash",
         "cli",
@@ -1256,7 +1256,7 @@
       "stars": 5719,
       "lastUpdated": "2026-03-23T05:06:54Z",
       "addedAt": "2026-03-24T03:57:52.067Z",
-      "_lastChecked": "2026-03-25T06:00:52.923Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "cross-platform",
         "electron",
@@ -1294,7 +1294,7 @@
       "stars": 5711,
       "lastUpdated": "2025-09-10T07:23:01Z",
       "addedAt": "2026-03-24T03:59:03.760Z",
-      "_lastChecked": "2026-03-25T05:52:44.996Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "caesium",
         "compression",
@@ -1400,7 +1400,7 @@
       "stars": 5546,
       "lastUpdated": "2026-03-24T10:25:08Z",
       "addedAt": "2026-03-24T03:59:03.761Z",
-      "_lastChecked": "2026-03-25T06:00:52.923Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "android",
         "c-plus-plus",
@@ -1473,7 +1473,7 @@
       "stars": 5499,
       "lastUpdated": "2025-02-15T23:12:50Z",
       "addedAt": "2026-03-24T03:59:03.761Z",
-      "_lastChecked": "2026-03-25T05:57:44.428Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "c",
         "c-plus-plus",
@@ -1607,7 +1607,7 @@
       "stars": 5388,
       "lastUpdated": "2026-03-25T00:06:15Z",
       "addedAt": "2026-03-24T04:00:16.710Z",
-      "_lastChecked": "2026-03-25T05:50:45.749Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "client",
         "cross-platform",
@@ -1821,7 +1821,7 @@
       "stars": 5332,
       "lastUpdated": "2026-03-24T09:35:38Z",
       "addedAt": "2026-03-24T04:00:16.711Z",
-      "_lastChecked": "2026-03-25T05:17:26.514Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "javascript",
         "kugou",
@@ -1858,7 +1858,7 @@
       "stars": 5309,
       "lastUpdated": "2024-04-02T14:14:38Z",
       "addedAt": "2026-03-24T04:00:16.711Z",
-      "_lastChecked": "2026-03-25T05:18:26.699Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "aws",
         "aws-cli",
@@ -1965,10 +1965,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/zerocore-ai/microsandbox",
-      "stars": 5132,
+      "stars": 5133,
       "lastUpdated": "2026-03-24T23:38:27Z",
       "addedAt": "2026-03-24T04:01:28.121Z",
-      "_lastChecked": "2026-03-25T05:02:26.244Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "agents",
         "ai",
@@ -2126,7 +2126,7 @@
       "stars": 5013,
       "lastUpdated": "2026-02-28T06:13:09Z",
       "addedAt": "2026-03-24T04:01:28.121Z",
-      "_lastChecked": "2026-03-25T05:02:26.244Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "chrome",
         "chrome-extension",
@@ -2174,7 +2174,7 @@
       "stars": 5007,
       "lastUpdated": "2026-03-08T17:44:04Z",
       "addedAt": "2026-03-24T04:01:28.121Z",
-      "_lastChecked": "2026-03-25T05:50:45.749Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "android",
         "bluetooth",
@@ -2257,7 +2257,7 @@
       "stars": 4986,
       "lastUpdated": "2026-03-02T03:17:39Z",
       "addedAt": "2026-03-24T04:01:28.121Z",
-      "_lastChecked": "2026-03-25T05:02:26.244Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "adrive",
         "backup",
@@ -2293,7 +2293,7 @@
       "stars": 4983,
       "lastUpdated": "2026-03-25T01:14:41Z",
       "addedAt": "2026-03-24T04:02:22.646Z",
-      "_lastChecked": "2026-03-25T05:58:45.073Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "build-tools",
         "hpc",
@@ -2332,7 +2332,7 @@
       "stars": 4946,
       "lastUpdated": "2025-10-27T21:46:13Z",
       "addedAt": "2026-03-24T04:02:22.646Z",
-      "_lastChecked": "2026-03-25T05:15:26.625Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "bash",
         "linux",
@@ -2366,7 +2366,7 @@
       "stars": 4934,
       "lastUpdated": "2026-03-11T10:02:39Z",
       "addedAt": "2026-03-24T04:02:22.646Z",
-      "_lastChecked": "2026-03-25T05:50:45.749Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "cross-platform",
         "haskell",
@@ -2444,7 +2444,7 @@
       "stars": 4884,
       "lastUpdated": "2026-03-23T02:03:34Z",
       "addedAt": "2026-03-24T04:02:22.647Z",
-      "_lastChecked": "2026-03-25T05:18:26.698Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "desktop",
         "dynamic-desktop",
@@ -2526,7 +2526,7 @@
       "stars": 4843,
       "lastUpdated": "2026-03-25T04:19:35Z",
       "addedAt": "2026-03-24T04:03:33.945Z",
-      "_lastChecked": "2026-03-25T05:50:45.749Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "anytls",
         "clash",
@@ -2631,7 +2631,7 @@
       "stars": 4725,
       "lastUpdated": "2026-01-05T04:53:15Z",
       "addedAt": "2026-03-24T04:03:33.945Z",
-      "_lastChecked": "2026-03-25T05:55:44.448Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "ios",
         "linux",
@@ -2666,7 +2666,7 @@
       "stars": 4720,
       "lastUpdated": "2026-03-25T03:31:35Z",
       "addedAt": "2026-03-24T04:03:33.945Z",
-      "_lastChecked": "2026-03-25T05:17:26.514Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "ai",
         "chain-of-thought",
@@ -2813,7 +2813,7 @@
       "stars": 4648,
       "lastUpdated": "2026-03-24T14:06:03Z",
       "addedAt": "2026-03-24T04:04:32.681Z",
-      "_lastChecked": "2026-03-25T05:15:26.625Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "gplv3",
         "gtk4-rs",
@@ -2859,7 +2859,7 @@
       "stars": 4612,
       "lastUpdated": "2026-03-09T07:29:56Z",
       "addedAt": "2026-03-24T04:04:32.681Z",
-      "_lastChecked": "2026-03-25T05:50:45.749Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "developer-tools",
         "kubernetes",
@@ -2933,7 +2933,7 @@
       "stars": 4478,
       "lastUpdated": "2026-03-21T20:39:53Z",
       "addedAt": "2026-03-24T04:04:32.681Z",
-      "_lastChecked": "2026-03-25T05:02:26.244Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "android",
         "desktop",
@@ -4317,7 +4317,7 @@
       "stars": 6043,
       "lastUpdated": "2026-03-24T13:25:07Z",
       "addedAt": "2026-03-24T04:10:14.923Z",
-      "_lastChecked": "2026-03-25T05:02:26.243Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "apple",
         "ios",
@@ -4613,7 +4613,7 @@
       "stars": 5790,
       "lastUpdated": "2026-03-21T10:33:33Z",
       "addedAt": "2026-03-24T04:11:17.563Z",
-      "_lastChecked": "2026-03-25T05:51:45.298Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "chromeos",
         "electron",
@@ -5170,7 +5170,7 @@
       "stars": 5204,
       "lastUpdated": "2026-03-23T15:47:52Z",
       "addedAt": "2026-03-24T04:13:18.942Z",
-      "_lastChecked": "2026-03-25T06:00:52.923Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "apple-silicon",
         "automation",
@@ -14061,7 +14061,7 @@
       "stars": 5808,
       "lastUpdated": "2026-02-05T02:46:28Z",
       "addedAt": "2026-03-24T05:04:07.943Z",
-      "_lastChecked": "2026-03-25T05:58:45.073Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "ai-assistant",
         "github-copilot",
@@ -20079,7 +20079,7 @@
       "stars": 4951,
       "lastUpdated": "2021-06-06T10:16:29Z",
       "addedAt": "2026-03-24T05:43:18.493Z",
-      "_lastChecked": "2026-03-25T05:58:45.074Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "cross-platform",
         "download-subtitles",
@@ -21538,7 +21538,7 @@
       "stars": 4836,
       "lastUpdated": "2026-03-19T13:30:46Z",
       "addedAt": "2026-03-24T05:52:21.648Z",
-      "_lastChecked": "2026-03-25T05:50:45.749Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "cli",
         "cross-platform",
@@ -29906,7 +29906,7 @@
       "stars": 5231,
       "lastUpdated": "2026-03-21T08:30:51Z",
       "addedAt": "2026-03-24T06:42:10.261Z",
-      "_lastChecked": "2026-03-25T05:02:26.244Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "app",
         "cli",
@@ -30215,7 +30215,7 @@
       "stars": 5070,
       "lastUpdated": "2026-03-08T10:03:23Z",
       "addedAt": "2026-03-24T06:47:38.709Z",
-      "_lastChecked": "2026-03-25T05:41:46.402Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "acg",
         "comic",
@@ -31632,7 +31632,7 @@
       "stars": 6037,
       "lastUpdated": "2025-10-15T14:59:27Z",
       "addedAt": "2026-03-24T06:59:47.545Z",
-      "_lastChecked": "2026-03-25T05:02:26.243Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "macos",
         "simctl",
@@ -31664,7 +31664,7 @@
       "stars": 5980,
       "lastUpdated": "2020-11-17T07:00:48Z",
       "addedAt": "2026-03-24T06:59:47.545Z",
-      "_lastChecked": "2026-03-25T05:02:26.243Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "c",
         "console",
@@ -31699,10 +31699,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/lzhoang2801/OpCore-Simplify",
-      "stars": 5789,
+      "stars": 5790,
       "lastUpdated": "2026-03-16T01:39:41Z",
       "addedAt": "2026-03-24T07:00:53.871Z",
-      "_lastChecked": "2026-03-25T05:02:26.243Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "hackintosh",
         "hackintosh-efi",
@@ -31736,7 +31736,7 @@
       "stars": 5694,
       "lastUpdated": "2026-03-24T13:15:28Z",
       "addedAt": "2026-03-24T07:00:53.871Z",
-      "_lastChecked": "2026-03-25T05:02:26.243Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "acceleration",
         "cursor",
@@ -31770,7 +31770,7 @@
       "stars": 5627,
       "lastUpdated": "2024-10-09T12:29:33Z",
       "addedAt": "2026-03-24T07:00:53.872Z",
-      "_lastChecked": "2026-03-25T05:02:26.243Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "apple",
         "macos",
@@ -31794,10 +31794,10 @@
       "health": "Active",
       "is_cross_platform": false,
       "url": "https://github.com/jacklandrin/OnlySwitch",
-      "stars": 5566,
+      "stars": 5567,
       "lastUpdated": "2026-02-06T18:45:07Z",
       "addedAt": "2026-03-24T07:00:53.872Z",
-      "_lastChecked": "2026-03-25T05:02:26.243Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "ai",
         "ai-agents",
@@ -31840,7 +31840,7 @@
       "stars": 5547,
       "lastUpdated": "2024-08-08T21:26:42Z",
       "addedAt": "2026-03-24T07:00:53.872Z",
-      "_lastChecked": "2026-03-25T05:02:26.243Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "itunes",
         "macos",
@@ -31867,7 +31867,7 @@
       "stars": 5488,
       "lastUpdated": "2026-03-13T15:24:08Z",
       "addedAt": "2026-03-24T07:00:53.872Z",
-      "_lastChecked": "2026-03-25T05:02:26.244Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "adaptive-brightness",
         "brightness",
@@ -31906,7 +31906,7 @@
       "stars": 5480,
       "lastUpdated": "2026-02-13T10:55:07Z",
       "addedAt": "2026-03-24T07:00:53.872Z",
-      "_lastChecked": "2026-03-25T05:02:26.244Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "bloatware",
         "bloatware-removal",
@@ -31953,7 +31953,7 @@
       "stars": 5167,
       "lastUpdated": "2026-03-04T11:40:26Z",
       "addedAt": "2026-03-24T07:00:53.872Z",
-      "_lastChecked": "2026-03-25T05:02:26.244Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "apple",
         "calendar",
@@ -31989,7 +31989,7 @@
       "stars": 5035,
       "lastUpdated": "2026-03-18T20:02:44Z",
       "addedAt": "2026-03-24T07:02:09.702Z",
-      "_lastChecked": "2026-03-25T05:02:26.244Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "adblock",
         "adblocker",
@@ -32031,7 +32031,7 @@
       "stars": 4937,
       "lastUpdated": "2026-01-31T10:18:44Z",
       "addedAt": "2026-03-24T07:02:09.702Z",
-      "_lastChecked": "2026-03-25T05:02:26.244Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "clash",
         "clash-meta",
@@ -32061,10 +32061,10 @@
       "health": "Active",
       "is_cross_platform": false,
       "url": "https://github.com/johnste/finicky",
-      "stars": 4682,
+      "stars": 4683,
       "lastUpdated": "2026-03-16T13:00:55Z",
       "addedAt": "2026-03-24T07:02:09.703Z",
-      "_lastChecked": "2026-03-25T05:02:26.244Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "browser",
         "go",
@@ -32098,7 +32098,7 @@
       "stars": 4593,
       "lastUpdated": "2025-09-26T23:22:33Z",
       "addedAt": "2026-03-24T07:02:09.703Z",
-      "_lastChecked": "2026-03-25T05:02:26.244Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "hacktoberfest",
         "macos",
@@ -32126,7 +32126,7 @@
       "stars": 4592,
       "lastUpdated": "2026-03-03T19:39:43Z",
       "addedAt": "2026-03-24T07:02:09.703Z",
-      "_lastChecked": "2026-03-25T05:02:26.244Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "eval",
         "hot-reload",
@@ -32161,7 +32161,7 @@
       "stars": 4516,
       "lastUpdated": "2026-02-09T19:56:17Z",
       "addedAt": "2026-03-24T07:02:09.703Z",
-      "_lastChecked": "2026-03-25T05:02:26.244Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "app",
         "cocoa",
@@ -32191,7 +32191,7 @@
       "stars": 4513,
       "lastUpdated": "2025-02-05T13:23:36Z",
       "addedAt": "2026-03-24T07:02:09.703Z",
-      "_lastChecked": "2026-03-25T05:09:26.170Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "allowlist",
         "authorization",
@@ -32223,7 +32223,7 @@
       "stars": 4490,
       "lastUpdated": "2024-04-18T05:07:51Z",
       "addedAt": "2026-03-24T07:02:09.703Z",
-      "_lastChecked": "2026-03-25T05:02:26.244Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "apple-silicon",
         "cli",
@@ -37072,7 +37072,7 @@
       "stars": 4958,
       "lastUpdated": "2026-03-05T09:16:27Z",
       "addedAt": "2026-03-24T07:37:10.224Z",
-      "_lastChecked": "2026-03-25T05:50:45.749Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "collaboration",
         "cross-platform",
@@ -37113,7 +37113,7 @@
       "stars": 4766,
       "lastUpdated": "2026-03-25T04:10:10Z",
       "addedAt": "2026-03-24T07:38:09.312Z",
-      "_lastChecked": "2026-03-25T05:50:45.749Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "cross-platform",
         "git",
@@ -40851,7 +40851,7 @@
       "stars": 5855,
       "lastUpdated": "2025-03-19T20:19:21Z",
       "addedAt": "2026-03-24T08:23:48.355Z",
-      "_lastChecked": "2026-03-25T05:41:46.402Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "ios",
         "large-language-model",
@@ -44913,7 +44913,7 @@
       "stars": 4595,
       "lastUpdated": "2021-12-22T00:59:05Z",
       "addedAt": "2026-03-24T09:18:02.659Z",
-      "_lastChecked": "2026-03-25T01:16:58.010Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [],
       "categories": [
         "utilities",
@@ -45028,7 +45028,7 @@
       "stars": 5658,
       "lastUpdated": "2026-03-24T02:16:54Z",
       "addedAt": "2026-03-24T09:20:18.539Z",
-      "_lastChecked": "2026-03-25T05:31:46.888Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "clash",
         "clashmi",
@@ -60698,7 +60698,7 @@
       "stars": 5214,
       "lastUpdated": "2026-03-24T16:14:06Z",
       "addedAt": "2026-03-24T10:52:12.156Z",
-      "_lastChecked": "2026-03-25T05:18:26.699Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "electron",
         "github",
@@ -61149,7 +61149,7 @@
       "stars": 4999,
       "lastUpdated": "2026-03-22T16:55:25Z",
       "addedAt": "2026-03-24T10:55:17.668Z",
-      "_lastChecked": "2026-03-25T05:14:26.085Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [],
       "categories": [
         "utilities",
@@ -61591,7 +61591,7 @@
       "stars": 4871,
       "lastUpdated": "2026-03-21T12:04:50Z",
       "addedAt": "2026-03-24T10:57:32.942Z",
-      "_lastChecked": "2026-03-25T04:05:49.019Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "mcp",
         "mcp-server",
@@ -65069,7 +65069,7 @@
       "stars": 4817,
       "lastUpdated": "2026-03-09T20:59:14Z",
       "addedAt": "2026-03-24T11:19:44.703Z",
-      "_lastChecked": "2026-03-25T03:36:27.034Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "bluetooth",
         "buds-live",
@@ -65724,7 +65724,7 @@
       "stars": 5233,
       "lastUpdated": "2026-03-08T20:23:39Z",
       "addedAt": "2026-03-24T11:23:13.976Z",
-      "_lastChecked": "2026-03-25T01:16:58.010Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "darwin",
         "dotfiles",
@@ -66099,10 +66099,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/ONLYOFFICE/DesktopEditors",
-      "stars": 4591,
+      "stars": 4590,
       "lastUpdated": "2026-03-03T14:21:29Z",
       "addedAt": "2026-03-24T11:25:45.858Z",
-      "_lastChecked": "2026-03-25T01:16:58.010Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "collaboration",
         "desktop",
@@ -67022,7 +67022,7 @@
       "stars": 4528,
       "lastUpdated": "2025-08-31T15:27:29Z",
       "addedAt": "2026-03-24T11:32:17.389Z",
-      "_lastChecked": "2026-03-25T01:16:58.010Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [],
       "categories": [
         "utilities",
@@ -67945,7 +67945,7 @@
       "stars": 5799,
       "lastUpdated": "2026-02-01T02:05:36Z",
       "addedAt": "2026-03-24T11:39:44.111Z",
-      "_lastChecked": "2026-03-25T03:11:47.523Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [],
       "categories": [
         "utilities",
@@ -70025,7 +70025,7 @@
       "stars": 4949,
       "lastUpdated": "2026-03-10T01:36:42Z",
       "addedAt": "2026-03-24T11:52:18.179Z",
-      "_lastChecked": "2026-03-25T01:16:58.010Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "bika",
         "comic",
@@ -70087,7 +70087,7 @@
       "stars": 6001,
       "lastUpdated": "2026-03-19T20:34:17Z",
       "addedAt": "2026-03-24T11:53:15.241Z",
-      "_lastChecked": "2026-03-25T04:05:49.019Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [],
       "categories": [
         "utilities",
@@ -70475,10 +70475,10 @@
       "health": "Active",
       "is_cross_platform": false,
       "url": "https://github.com/Tencent/lemon-cleaner",
-      "stars": 6164,
+      "stars": 6166,
       "lastUpdated": "2025-12-04T06:31:52Z",
       "addedAt": "2026-03-24T11:55:21.750Z",
-      "_lastChecked": "2026-03-25T01:16:58.009Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [],
       "categories": [
         "utilities",
@@ -70558,10 +70558,10 @@
       "health": "Moderate",
       "is_cross_platform": true,
       "url": "https://github.com/paolo-projects/auto-unlocker",
-      "stars": 4844,
+      "stars": 4846,
       "lastUpdated": "2025-09-17T08:57:05Z",
       "addedAt": "2026-03-24T11:56:31.549Z",
-      "_lastChecked": "2026-03-25T01:16:58.010Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [],
       "categories": [
         "utilities",
@@ -70584,10 +70584,10 @@
       "health": "Active",
       "is_cross_platform": true,
       "url": "https://github.com/manga-download/hakuneko",
-      "stars": 5942,
+      "stars": 5943,
       "lastUpdated": "2026-03-20T08:32:49Z",
       "addedAt": "2026-03-24T11:56:31.550Z",
-      "_lastChecked": "2026-03-25T04:16:01.436Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [
         "anime",
         "anime-downloader",
@@ -70661,10 +70661,10 @@
       "health": "Active",
       "is_cross_platform": false,
       "url": "https://github.com/ninxsoft/Mist",
-      "stars": 4735,
+      "stars": 4736,
       "lastUpdated": "2025-10-11T07:40:41Z",
       "addedAt": "2026-03-24T12:00:24.129Z",
-      "_lastChecked": "2026-03-25T02:11:23.232Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [],
       "categories": [
         "utilities"
@@ -71139,7 +71139,7 @@
       "stars": 5826,
       "lastUpdated": "2025-06-29T18:26:33Z",
       "addedAt": "2026-03-24T12:04:01.631Z",
-      "_lastChecked": "2026-03-25T01:16:58.009Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [],
       "categories": [
         "developer",
@@ -71163,7 +71163,7 @@
       "stars": 5612,
       "lastUpdated": "2025-09-22T14:19:15Z",
       "addedAt": "2026-03-24T12:04:53.623Z",
-      "_lastChecked": "2026-03-25T01:16:58.009Z",
+      "_lastChecked": "2026-03-25T06:02:02.750Z",
       "topics": [],
       "categories": [
         "communication"
@@ -71183,10 +71183,10 @@
       "health": "Maintained",
       "is_cross_platform": false,
       "url": "https://github.com/ddddxxx/LyricsX",
-      "stars": 5126,
+      "stars": 5127,
       "lastUpdated": "2025-09-29T03:28:40Z",
       "addedAt": "2026-03-24T12:04:53.623Z",
-      "_lastChecked": "2026-03-25T01:16:58.010Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "apple-music",
         "audirvana",
@@ -71222,7 +71222,7 @@
       "stars": 4967,
       "lastUpdated": "2023-07-17T03:01:01Z",
       "addedAt": "2026-03-24T12:04:53.623Z",
-      "_lastChecked": "2026-03-25T01:16:58.010Z",
+      "_lastChecked": "2026-03-25T06:02:02.751Z",
       "topics": [
         "draggan",
         "gradio-interface",
@@ -129117,6 +129117,1956 @@
       ],
       "platforms": [
         "Android"
+      ]
+    },
+    {
+      "name": "91Porn",
+      "description": "Android 客户端应用，支持突破游客观看限制，提供视频浏览、播放和下载功能。采用 RxJava + Retrofit + MVP 架构开发。",
+      "tags": [
+        "视频播放",
+        "媒体下载",
+        "Android"
+      ],
+      "health": "Unknown",
+      "is_cross_platform": false,
+      "url": "https://github.com/zhaoxianjin/91porn",
+      "stars": 1217,
+      "lastUpdated": "2018-07-15T13:46:30Z",
+      "addedAt": "2026-03-25T06:01:34.999Z",
+      "_lastChecked": "2026-03-25T06:01:34.999Z",
+      "topics": [],
+      "categories": [
+        "media",
+        "entertainment"
+      ],
+      "platforms": [
+        "Android"
+      ]
+    },
+    {
+      "name": "CoinExchange",
+      "description": "基于 Spring Cloud 微服务架构的开源数字货币交易平台，包含完整的撮合交易引擎、后台管理系统、前端交易页面及原生移动端 APP。",
+      "tags": [
+        "加密货币",
+        "交易所",
+        "区块链"
+      ],
+      "health": "Maintained",
+      "is_cross_platform": true,
+      "url": "https://github.com/jammy928/CoinExchange_CryptoExchange_Java",
+      "stars": 1682,
+      "lastUpdated": "2024-05-12T15:29:18Z",
+      "addedAt": "2026-03-25T06:03:50.498Z",
+      "_lastChecked": "2026-03-25T06:03:50.499Z",
+      "topics": [
+        "coinexchange",
+        "cryptocurrency",
+        "cryptocurrency-exchanges",
+        "otc"
+      ],
+      "categories": [
+        "finance"
+      ],
+      "platforms": [
+        "Web",
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "name": "Virtual Smart Card",
+      "description": "智能卡读卡器与智能卡仿真工具套件，支持虚拟智能卡、远程读卡器、NFC卡模拟等功能，适用于安全测试与开发场景。",
+      "tags": [
+        "智能卡",
+        "安全工具",
+        "仿真"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/frankmorgner/vsmartcard",
+      "stars": 827,
+      "lastUpdated": "2026-03-12T21:09:17Z",
+      "addedAt": "2026-03-25T06:06:11.767Z",
+      "_lastChecked": "2026-03-25T06:06:11.767Z",
+      "topics": [
+        "android",
+        "c",
+        "ccid",
+        "emulation",
+        "nfc",
+        "pcsc",
+        "python",
+        "security",
+        "smartcard",
+        "smartcard-reader",
+        "tizen-wearable"
+      ],
+      "categories": [
+        "utilities",
+        "security"
+      ],
+      "platforms": [
+        "Windows",
+        "Android"
+      ]
+    },
+    {
+      "name": "AndroidViewClient",
+      "description": "强大的 Android UI 自动化测试工具，支持 Python 脚本编写和多设备并发操作，可自动生成可复用的测试脚本。",
+      "tags": [
+        "自动化测试",
+        "ADB",
+        "Python"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/dtmilano/AndroidViewClient",
+      "stars": 1700,
+      "lastUpdated": "2025-12-24T02:50:59Z",
+      "addedAt": "2026-03-25T06:09:06.797Z",
+      "_lastChecked": "2026-03-25T06:09:06.797Z",
+      "topics": [
+        "adb",
+        "android",
+        "androidviewclient",
+        "automation",
+        "culebra",
+        "monkeyrunner",
+        "python",
+        "testing",
+        "ui"
+      ],
+      "categories": [
+        "developer"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "twrpdtgen",
+      "description": "一款命令行工具，可从 Android 设备的 boot/recovery 镜像自动生成 TWRP 兼容的设备树文件，支持 Android 4.4 至 Android 12。",
+      "tags": [
+        "Android",
+        "TWRP",
+        "Recovery",
+        "CLI",
+        "Python"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/twrpdtgen/twrpdtgen",
+      "stars": 863,
+      "lastUpdated": "2026-01-03T03:04:47Z",
+      "addedAt": "2026-03-25T06:10:04.987Z",
+      "_lastChecked": "2026-03-25T06:10:04.987Z",
+      "topics": [
+        "android",
+        "device-tree",
+        "hacktoberfest",
+        "python",
+        "recovery",
+        "twrp",
+        "twrp-device-tree-generator"
+      ],
+      "categories": [
+        "developer"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Tailor",
+      "description": "跨平台 Swift 静态分析与代码检查工具，帮助开发者保持代码风格一致性并避免潜在 bug。",
+      "tags": [
+        "Swift",
+        "Linter",
+        "Static Analysis"
+      ],
+      "health": "Inactive",
+      "is_cross_platform": true,
+      "url": "https://github.com/sleekbyte/tailor",
+      "stars": 1407,
+      "lastUpdated": "2021-02-27T09:28:34Z",
+      "addedAt": "2026-03-25T06:31:02.660Z",
+      "_lastChecked": "2026-03-25T06:31:02.660Z",
+      "topics": [
+        "apple",
+        "linter",
+        "static-analyzer",
+        "swift"
+      ],
+      "categories": [
+        "developer"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "TeamFiltration",
+      "description": "跨平台 O365/EntraID 安全测试框架，支持账户枚举、密码喷洒、数据窃取与后门植入等渗透测试功能。",
+      "tags": [
+        "Security",
+        "Penetration Testing",
+        "O365"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/Flangvik/TeamFiltration",
+      "stars": 1375,
+      "lastUpdated": "2026-03-09T08:53:43Z",
+      "addedAt": "2026-03-25T06:31:02.660Z",
+      "_lastChecked": "2026-03-25T06:31:02.660Z",
+      "topics": [],
+      "categories": [
+        "security",
+        "trending"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Gank.io",
+      "description": "一款跨平台的干货集中营阅读应用，支持分类浏览、主题切换、夜间模式、内容收藏等功能，界面简洁美观。",
+      "tags": [
+        "React Native",
+        "阅读",
+        "跨平台"
+      ],
+      "health": "Stable",
+      "is_cross_platform": true,
+      "url": "https://github.com/wangdicoder/react-native-Gank",
+      "stars": 550,
+      "lastUpdated": "2019-02-06T01:11:59Z",
+      "addedAt": "2026-03-25T06:33:19.179Z",
+      "_lastChecked": "2026-03-25T06:33:19.179Z",
+      "topics": [
+        "react-native"
+      ],
+      "categories": [
+        "communication",
+        "utilities"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "name": "cmft",
+      "description": "跨平台命令行立方体贴图过滤工具，支持多种输入输出格式，利用多核CPU和OpenCL GPU加速处理，适用于游戏开发和图形渲染工作流。",
+      "tags": [
+        "CLI",
+        "图形处理",
+        "Cubemap"
+      ],
+      "health": "Stable",
+      "is_cross_platform": true,
+      "url": "https://github.com/dariomanesku/cmft",
+      "stars": 863,
+      "lastUpdated": "2021-01-06T10:25:08Z",
+      "addedAt": "2026-03-25T06:33:19.179Z",
+      "_lastChecked": "2026-03-25T06:33:19.179Z",
+      "topics": [],
+      "categories": [
+        "graphics",
+        "utilities"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "CamillaDSP",
+      "description": "强大的跨平台音频DSP处理引擎，支持IIR/FIR滤波器、分频器和房间校正，适用于高保真音频系统构建。",
+      "tags": [
+        "音频处理",
+        "DSP",
+        "CLI"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/HEnquist/camilladsp",
+      "stars": 862,
+      "lastUpdated": "2026-03-22T20:05:05Z",
+      "addedAt": "2026-03-25T06:33:19.179Z",
+      "_lastChecked": "2026-03-25T06:33:19.179Z",
+      "topics": [
+        "alsa",
+        "audio",
+        "coreaudio",
+        "dsp",
+        "fir",
+        "iir-filters",
+        "pulseaudio",
+        "wasapi"
+      ],
+      "categories": [
+        "media",
+        "utilities"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Aurora",
+      "description": "跨平台Beanstalkd队列服务器Web管理控制台，支持实时监控、任务管理、管道操作等功能，零依赖单文件部署。",
+      "tags": [
+        "队列管理",
+        "Web控制台",
+        "Go"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/xuri/aurora",
+      "stars": 599,
+      "lastUpdated": "2021-08-19T16:05:21Z",
+      "addedAt": "2026-03-25T06:33:19.179Z",
+      "_lastChecked": "2026-03-25T06:33:19.179Z",
+      "topics": [
+        "admin",
+        "aurora",
+        "beanstalkd",
+        "bstk",
+        "console",
+        "go",
+        "queue",
+        "tube",
+        "webui"
+      ],
+      "categories": [
+        "developer",
+        "utilities"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "vLLM-MLX",
+      "description": "专为 Apple Silicon 打造的高性能 LLM 推理服务器，支持 OpenAI 与 Anthropic API 兼容接口。原生支持文本、图像、视频、音频多模态处理，集成 MCP 工具调用，峰值吞吐量超 400 tok/s。",
+      "tags": [
+        "LLM",
+        "Apple Silicon",
+        "OpenAI API",
+        "Anthropic API",
+        "Multimodal",
+        "MCP"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/tauri-apps/window-vibrancy",
+      "stars": 984,
+      "lastUpdated": "2026-03-23T13:25:44Z",
+      "addedAt": "2026-03-25T06:34:02.120Z",
+      "_lastChecked": "2026-03-25T06:34:02.120Z",
+      "topics": [
+        "acrylic",
+        "blur",
+        "macos",
+        "plugin",
+        "tao",
+        "tauri",
+        "tauri-plugin",
+        "vibrancy",
+        "windows",
+        "winit"
+      ],
+      "categories": [
+        "developer",
+        "ai_apps"
+      ],
+      "platforms": [
+        "macOS"
+      ]
+    },
+    {
+      "name": "Docker TimeMachine",
+      "description": "基于 Docker 的 Time Machine 备份服务器，支持 SMB 协议，让 macOS 用户轻松搭建网络备份存储。",
+      "tags": [
+        "backup",
+        "time-machine",
+        "samba",
+        "docker",
+        "nas"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/mbentley/docker-timemachine",
+      "stars": 768,
+      "lastUpdated": "2026-02-17T11:53:50Z",
+      "addedAt": "2026-03-25T06:37:29.668Z",
+      "_lastChecked": "2026-03-25T06:37:29.668Z",
+      "topics": [],
+      "categories": [
+        "utilities",
+        "security"
+      ],
+      "platforms": [
+        "Docker",
+        "Linux",
+        "macOS"
+      ]
+    },
+    {
+      "name": "Foundation Lab",
+      "description": "探索 Apple Foundation Models 框架的示例应用，集成 AI 对话、工具调用、语音识别等智能功能，展示设备端 AI 能力。",
+      "tags": [
+        "ai",
+        "apple-intelligence",
+        "llm",
+        "foundation-models",
+        "swiftui"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/rudrankriyam/Foundation-Models-Framework-Example",
+      "stars": 958,
+      "lastUpdated": "2026-03-14T23:54:54Z",
+      "addedAt": "2026-03-25T06:37:29.669Z",
+      "_lastChecked": "2026-03-25T06:37:29.669Z",
+      "topics": [
+        "ai",
+        "apple-foundation-models",
+        "apple-intelligence",
+        "foundation-models",
+        "foundation-models-framework",
+        "generative-ai",
+        "healthkit",
+        "ios",
+        "large-language-models",
+        "llm",
+        "macos",
+        "multilingual",
+        "on-device-ai",
+        "rag",
+        "speech-recognition",
+        "swift",
+        "swiftui",
+        "text-to-speech",
+        "tool-calling",
+        "xcode"
+      ],
+      "categories": [
+        "ai_apps",
+        "productivity"
+      ],
+      "platforms": [
+        "iOS",
+        "macOS"
+      ]
+    },
+    {
+      "name": "MSLab",
+      "description": "微软官方出品的快速实验室部署工具，支持在 Hyper-V 环境中快速构建 Azure Local、Windows 10 和 Windows Server 虚拟实验室环境。",
+      "tags": [
+        "虚拟化",
+        "实验室",
+        "PowerShell",
+        "系统部署"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/microsoft/MSLab",
+      "stars": 1283,
+      "lastUpdated": "2025-10-21T13:38:35Z",
+      "addedAt": "2026-03-25T06:42:40.317Z",
+      "_lastChecked": "2026-03-25T06:42:40.317Z",
+      "topics": [
+        "azshci",
+        "powershell",
+        "s2d",
+        "windows"
+      ],
+      "categories": [
+        "utilities",
+        "developer"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "UWPDumper",
+      "description": "UWP 应用运行时内存转储工具，可绕过加密文件系统保护，用于安全研究和逆向工程分析。",
+      "tags": [
+        "逆向工程",
+        "UWP",
+        "安全工具",
+        "内存分析"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/Wunkolo/UWPDumper",
+      "stars": 929,
+      "lastUpdated": "2024-09-03T22:19:38Z",
+      "addedAt": "2026-03-25T06:42:40.317Z",
+      "_lastChecked": "2026-03-25T06:42:40.317Z",
+      "topics": [
+        "injector",
+        "uwp",
+        "windows"
+      ],
+      "categories": [
+        "developer",
+        "security"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "FlutterOSC",
+      "description": "基于 Flutter 开发的开源中国客户端，支持 Android 和 iOS 双平台。提供资讯浏览、动弹发布与评论、主题切换等功能，适合开发者社区交流与学习。",
+      "tags": [
+        "Flutter",
+        "开源中国",
+        "社交"
+      ],
+      "health": "Inactive",
+      "is_cross_platform": true,
+      "url": "https://github.com/yubo725/flutter-osc",
+      "stars": 2897,
+      "lastUpdated": "2021-08-07T12:29:57Z",
+      "addedAt": "2026-03-25T06:49:38.812Z",
+      "_lastChecked": "2026-03-25T06:49:38.812Z",
+      "topics": [
+        "android",
+        "app",
+        "flutter",
+        "ios",
+        "mobile-app"
+      ],
+      "categories": [
+        "communication",
+        "learning"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "name": "Demo2APK",
+      "description": "一键将 AI 生成的代码演示转换为可安装的 Android APK 应用。支持 HTML、React 项目上传，无需配置开发环境即可快速生成应用。",
+      "tags": [
+        "APK生成",
+        "Android开发",
+        "Web工具"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/DeadWaveWave/demo2apk",
+      "stars": 548,
+      "lastUpdated": "2026-03-20T02:15:50Z",
+      "addedAt": "2026-03-25T06:51:30.180Z",
+      "_lastChecked": "2026-03-25T06:51:30.180Z",
+      "topics": [
+        "apk",
+        "apkdownload",
+        "chatgpt",
+        "demo",
+        "gemini",
+        "html",
+        "react",
+        "vibe-coding",
+        "vibecoding"
+      ],
+      "categories": [
+        "developer",
+        "utilities"
+      ],
+      "platforms": [
+        "Web"
+      ]
+    },
+    {
+      "name": "Mariana Trench",
+      "description": "Facebook 开源的 Android 与 Java 应用安全静态分析工具。可自动检测远程代码执行、隐私数据泄露等安全漏洞。",
+      "tags": [
+        "静态分析",
+        "安全审计",
+        "Android安全"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/facebook/mariana-trench",
+      "stars": 1224,
+      "lastUpdated": "2026-03-19T17:52:35Z",
+      "addedAt": "2026-03-25T06:51:30.180Z",
+      "_lastChecked": "2026-03-25T06:51:30.180Z",
+      "topics": [],
+      "categories": [
+        "developer",
+        "security",
+        "trending"
+      ],
+      "platforms": [
+        "Linux",
+        "macOS"
+      ]
+    },
+    {
+      "name": "Memory Game",
+      "description": "一款专为4岁以上儿童设计的精美记忆配对游戏，包含动物、怪物和表情三种主题，支持六种难度级别，无广告纯净体验。",
+      "tags": [
+        "游戏",
+        "儿童",
+        "益智"
+      ],
+      "health": "Maintenance",
+      "is_cross_platform": false,
+      "url": "https://github.com/sromku/memory-game",
+      "stars": 596,
+      "lastUpdated": "2021-05-23T22:29:39Z",
+      "addedAt": "2026-03-25T06:52:26.813Z",
+      "_lastChecked": "2026-03-25T06:52:26.813Z",
+      "topics": [
+        "android",
+        "game",
+        "kids"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "platforms": [
+        "Android"
+      ]
+    },
+    {
+      "name": "OpenLauncher",
+      "description": "一款开源可定制的Android桌面启动器，在个性化与简洁之间取得平衡，提供丰富的自定义选项和流畅的用户体验。",
+      "tags": [
+        "启动器",
+        "桌面",
+        "个性化"
+      ],
+      "health": "Discontinued",
+      "is_cross_platform": false,
+      "url": "https://github.com/OpenLauncherTeam/openlauncher",
+      "stars": 1499,
+      "lastUpdated": "2023-10-10T15:26:37Z",
+      "addedAt": "2026-03-25T06:52:26.813Z",
+      "_lastChecked": "2026-03-25T06:52:26.813Z",
+      "topics": [
+        "android",
+        "app",
+        "customization",
+        "drawer",
+        "hacktoberfest",
+        "launcher"
+      ],
+      "categories": [
+        "customization",
+        "utilities"
+      ],
+      "platforms": [
+        "Android"
+      ]
+    },
+    {
+      "name": "Simple Calculator",
+      "description": "一款简洁美观的计算器应用，支持基础运算、货币换算及历史记录功能，无广告且完全开源。",
+      "tags": [
+        "calculator",
+        "utilities",
+        "kotlin",
+        "opensource"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/SimpleMobileTools/Simple-Calculator",
+      "stars": 595,
+      "lastUpdated": "2024-06-11T09:56:53Z",
+      "addedAt": "2026-03-25T06:53:15.507Z",
+      "_lastChecked": "2026-03-25T06:53:15.507Z",
+      "topics": [
+        "android",
+        "calculator",
+        "freedom",
+        "kotlin",
+        "opensource"
+      ],
+      "categories": [
+        "utilities"
+      ],
+      "platforms": [
+        "Android"
+      ]
+    },
+    {
+      "name": "Simple File Manager",
+      "description": "轻量级安卓文件管理器，无广告、注重隐私安全。支持文件压缩、传输、搜索及指纹保护等实用功能。",
+      "tags": [
+        "文件管理",
+        "隐私保护",
+        "开源"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/SimpleMobileTools/Simple-File-Manager",
+      "stars": 1574,
+      "lastUpdated": "2024-06-11T09:59:37Z",
+      "addedAt": "2026-03-25T06:54:29.830Z",
+      "_lastChecked": "2026-03-25T06:54:29.830Z",
+      "topics": [
+        "android",
+        "android-development",
+        "file-manager",
+        "freedom",
+        "kotlin",
+        "opensource"
+      ],
+      "categories": [
+        "utilities"
+      ],
+      "platforms": [
+        "Android"
+      ]
+    },
+    {
+      "name": "Santa Tracker",
+      "description": "Google官方圣诞老人追踪应用，包含趣味小游戏、动画和互动内容。采用动态功能模块架构，支持Android Wear表盘。",
+      "tags": [
+        "节日娱乐",
+        "Google官方",
+        "教育游戏"
+      ],
+      "health": "Archived",
+      "is_cross_platform": false,
+      "url": "https://github.com/google/santa-tracker-android",
+      "stars": 2074,
+      "lastUpdated": "2022-06-30T06:38:28Z",
+      "addedAt": "2026-03-25T06:54:29.830Z",
+      "_lastChecked": "2026-03-25T06:54:29.830Z",
+      "topics": [
+        "android",
+        "android-wear",
+        "firebase",
+        "google",
+        "santa-tracker"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "platforms": [
+        "Android"
+      ]
+    },
+    {
+      "name": "DylanStepCount",
+      "description": "Android精准计步器应用，支持运动计划制定与历史记录查看。兼容小米、魅族、华为等主流机型。",
+      "tags": [
+        "计步器",
+        "健康追踪",
+        "运动"
+      ],
+      "health": "Stable",
+      "is_cross_platform": false,
+      "url": "https://github.com/linglongxin24/DylanStepCount",
+      "stars": 1582,
+      "lastUpdated": "2022-05-19T00:32:18Z",
+      "addedAt": "2026-03-25T06:54:29.830Z",
+      "_lastChecked": "2026-03-25T06:54:29.830Z",
+      "topics": [
+        "android"
+      ],
+      "categories": [
+        "utilities"
+      ],
+      "platforms": [
+        "Android"
+      ]
+    },
+    {
+      "name": "ML Manager",
+      "description": "现代化安卓应用管理器，支持提取APK、应用卸载、收藏整理等功能。提供Root增强特性如隐藏应用、清理缓存等。",
+      "tags": [
+        "应用管理",
+        "APK提取",
+        "Material Design"
+      ],
+      "health": "Stable",
+      "is_cross_platform": false,
+      "url": "https://github.com/javiersantos/MLManager",
+      "stars": 1245,
+      "lastUpdated": "2020-09-30T19:48:08Z",
+      "addedAt": "2026-03-25T06:54:29.830Z",
+      "_lastChecked": "2026-03-25T06:54:29.830Z",
+      "topics": [
+        "android",
+        "apk",
+        "app",
+        "customizable",
+        "material-design"
+      ],
+      "categories": [
+        "utilities"
+      ],
+      "platforms": [
+        "Android"
+      ]
+    },
+    {
+      "name": "DiDiCallCar",
+      "description": "仿滴滴出行的Android打车应用，集成RFID身份验证、司机证件OCR识别、多语言国际化等创新功能，解决人车不符等安全问题。",
+      "tags": [
+        "出行",
+        "打车",
+        "NFC",
+        "OCR"
+      ],
+      "health": "Unknown",
+      "is_cross_platform": false,
+      "url": "https://github.com/18601949127/DiDiCallCar",
+      "stars": 1155,
+      "lastUpdated": "2019-10-31T06:24:06Z",
+      "addedAt": "2026-03-25T06:55:33.209Z",
+      "_lastChecked": "2026-03-25T06:55:33.209Z",
+      "topics": [
+        "android",
+        "call",
+        "car",
+        "didi",
+        "java",
+        "map",
+        "mobile",
+        "nfc",
+        "ocr",
+        "rfid",
+        "uber"
+      ],
+      "categories": [
+        "utilities",
+        "communication"
+      ],
+      "platforms": [
+        "Android"
+      ]
+    },
+    {
+      "name": "Turbo Editor",
+      "description": "简洁强大的Android文本编辑器，支持多种文件格式编辑，提供语法高亮、文件管理等功能，开源免费。",
+      "tags": [
+        "编辑器",
+        "文本",
+        "文件管理"
+      ],
+      "health": "Unknown",
+      "is_cross_platform": false,
+      "url": "https://github.com/vmihalachi/turbo-editor",
+      "stars": 1358,
+      "lastUpdated": "2020-03-03T02:58:13Z",
+      "addedAt": "2026-03-25T06:55:33.209Z",
+      "_lastChecked": "2026-03-25T06:55:33.209Z",
+      "topics": [
+        "android",
+        "android-application",
+        "editor",
+        "file",
+        "gplv3",
+        "java",
+        "text"
+      ],
+      "categories": [
+        "productivity",
+        "developer"
+      ],
+      "platforms": [
+        "Android"
+      ]
+    },
+    {
+      "name": "AdGuard for Android",
+      "description": "Android 平台最强大的系统级广告拦截与隐私保护工具，全方位屏蔽各类广告、追踪器和恶意内容，守护您的网络安全与隐私。",
+      "tags": [
+        "广告拦截",
+        "隐私保护",
+        "网络安全"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/AdguardTeam/AdguardForAndroid",
+      "stars": 1723,
+      "lastUpdated": "2026-02-20T18:11:04Z",
+      "addedAt": "2026-03-25T06:58:24.203Z",
+      "_lastChecked": "2026-03-25T06:58:24.203Z",
+      "topics": [
+        "adguard",
+        "android"
+      ],
+      "categories": [
+        "security",
+        "internet",
+        "trending"
+      ],
+      "platforms": [
+        "Android"
+      ]
+    },
+    {
+      "name": "Shadowsocks for iOS",
+      "description": "一款安全高效的代理工具，支持 iOS 和 macOS 平台，帮助用户保护网络隐私并实现安全访问。",
+      "tags": [
+        "VPN",
+        "代理",
+        "隐私保护",
+        "网络工具"
+      ],
+      "health": "Archived",
+      "is_cross_platform": true,
+      "url": "https://github.com/shadowsocks/shadowsocks-iOS",
+      "stars": 8162,
+      "lastUpdated": "2022-05-17T06:55:42Z",
+      "addedAt": "2026-03-25T07:00:30.540Z",
+      "_lastChecked": "2026-03-25T07:00:30.540Z",
+      "topics": [],
+      "categories": [
+        "internet",
+        "security"
+      ],
+      "platforms": [
+        "macOS",
+        "iOS"
+      ]
+    },
+    {
+      "name": "SeaShell",
+      "description": "一款专业的 iOS/macOS 后渗透测试框架，支持远程设备访问、控制与敏感信息提取，采用 TLS 1.3 加密通信。",
+      "tags": [
+        "安全测试",
+        "渗透测试",
+        "远程访问"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/EntySec/SeaShell",
+      "stars": 678,
+      "lastUpdated": "2024-09-20T14:12:55Z",
+      "addedAt": "2026-03-25T07:15:33.091Z",
+      "_lastChecked": "2026-03-25T07:15:33.091Z",
+      "topics": [
+        "exploit",
+        "exploitation",
+        "ios",
+        "ios-exploit",
+        "ios-exploitation",
+        "ios-hacking",
+        "ios-malware",
+        "ipados",
+        "jailbreak",
+        "post-exploitation",
+        "post-exploitation-toolkit",
+        "remote-access-tool",
+        "remote-admin-tool",
+        "reverse-shell",
+        "trollstore"
+      ],
+      "categories": [
+        "security",
+        "developer"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Claude Forge",
+      "description": "为 Claude Code 打造的全功能开发环境增强框架，提供 11 个专业 AI 代理、40+ 斜杠命令和自动化钩子。一键安装即可获得完整的智能编程助手体验。",
+      "tags": [
+        "claude-code",
+        "ai-agents",
+        "cli-tools",
+        "automation"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/sangrokjung/claude-forge",
+      "stars": 600,
+      "lastUpdated": "2026-03-17T10:03:54Z",
+      "addedAt": "2026-03-25T07:25:39.845Z",
+      "_lastChecked": "2026-03-25T07:25:39.845Z",
+      "topics": [
+        "agents",
+        "ai-assistant",
+        "ai-coding",
+        "ai-framework",
+        "ai-pair-programming",
+        "anthropic",
+        "automation",
+        "claude-code",
+        "claude-code-agents",
+        "cli-tools",
+        "developer-experience",
+        "developer-tools",
+        "dotfiles",
+        "hooks",
+        "llm",
+        "macos",
+        "productivity",
+        "shell",
+        "slash-commands",
+        "workflow"
+      ],
+      "categories": [
+        "developer",
+        "ai_apps",
+        "productivity"
+      ],
+      "platforms": [
+        "macOS",
+        "Linux",
+        "Windows"
+      ]
+    },
+    {
+      "name": "Symlinker",
+      "description": "简洁实用的 Windows 图形化符号链接创建工具，支持创建符号链接、硬链接和目录连接点，无需命令行操作。",
+      "tags": [
+        "系统工具",
+        "文件管理",
+        "GUI"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/amd989/Symlinker",
+      "stars": 505,
+      "lastUpdated": "2026-03-25T02:05:06Z",
+      "addedAt": "2026-03-25T07:26:17.318Z",
+      "_lastChecked": "2026-03-25T07:26:17.318Z",
+      "topics": [
+        "gui",
+        "mklink",
+        "symbolic-links",
+        "symlinker"
+      ],
+      "categories": [
+        "utilities"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "Win Brute Logon",
+      "description": "一款Windows密码安全测试工具，用于安全专业人员评估系统账户锁定策略和密码强度。支持从Windows XP到最新Windows 10版本，可从任意账户（包括访客账户）进行密码暴力破解测试。",
+      "tags": [
+        "安全测试",
+        "密码审计",
+        "渗透测试"
+      ],
+      "health": "Stable",
+      "is_cross_platform": false,
+      "url": "https://github.com/PhrozenIO/win-brute-logon",
+      "stars": 1156,
+      "lastUpdated": "2023-11-09T10:37:58Z",
+      "addedAt": "2026-03-25T07:29:44.989Z",
+      "_lastChecked": "2026-03-25T07:29:44.989Z",
+      "topics": [
+        "bruteforce",
+        "delphi",
+        "pascal",
+        "windows"
+      ],
+      "categories": [
+        "security"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "Electron Toolkit",
+      "description": "一款面向 Electron 开发者的图形化工具集，提供应用打包、图标生成、屏幕录制和网站构建等实用功能，大幅简化桌面应用开发流程。",
+      "tags": [
+        "Electron",
+        "开发工具",
+        "GUI"
+      ],
+      "health": "Maintained",
+      "is_cross_platform": true,
+      "url": "https://github.com/PhilippLgh/electron-toolkit",
+      "stars": 805,
+      "lastUpdated": "2018-08-24T09:16:33Z",
+      "addedAt": "2026-03-25T07:33:33.947Z",
+      "_lastChecked": "2026-03-25T07:33:33.947Z",
+      "topics": [],
+      "categories": [
+        "developer"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Dockeron",
+      "description": "基于 Electron 和 Vue.js 构建的 Docker 桌面管理应用，提供直观的图形界面来管理 Docker 容器和镜像。",
+      "tags": [
+        "Docker",
+        "Electron",
+        "Vue.js",
+        "容器管理"
+      ],
+      "health": "Stale",
+      "is_cross_platform": true,
+      "url": "https://github.com/dockeron/dockeron",
+      "stars": 792,
+      "lastUpdated": "2020-12-10T08:11:58Z",
+      "addedAt": "2026-03-25T07:33:33.947Z",
+      "_lastChecked": "2026-03-25T07:33:33.947Z",
+      "topics": [
+        "docker",
+        "electron",
+        "electron-app",
+        "electron-vue",
+        "vue",
+        "vuejs",
+        "vuejs2"
+      ],
+      "categories": [
+        "developer"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Zenshin",
+      "description": "一款基于 Web 和 Electron 的动漫流媒体播放应用，集成 AniList 动漫列表管理与在线视频流播放功能，支持 HLS 和 WebTorrent 技术。",
+      "tags": [
+        "动漫",
+        "流媒体",
+        "AniList",
+        "视频播放"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/hitarth-gg/zenshin",
+      "stars": 694,
+      "lastUpdated": "2026-03-09T20:33:04Z",
+      "addedAt": "2026-03-25T07:34:19.251Z",
+      "_lastChecked": "2026-03-25T07:34:19.251Z",
+      "topics": [
+        "anilist",
+        "anime",
+        "anime-streaming",
+        "axios",
+        "electron",
+        "electronjs",
+        "express",
+        "expressjs",
+        "hls",
+        "hlsjs",
+        "nodejs",
+        "nyaa",
+        "radix-ui",
+        "react",
+        "react-query",
+        "reactjs",
+        "tailwindcss",
+        "video-streaming",
+        "webscraping",
+        "webtorrent"
+      ],
+      "categories": [
+        "media",
+        "entertainment"
+      ],
+      "platforms": [
+        "Windows",
+        "Web"
+      ]
+    },
+    {
+      "name": "xVA Synth",
+      "description": "基于机器学习的语音合成桌面应用，支持从电子游戏角色中提取声音进行语音生成，广泛用于游戏模组制作和创意内容创作。",
+      "tags": [
+        "语音合成",
+        "AI",
+        "电子游戏",
+        "Electron"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/DanRuta/xVA-Synth",
+      "stars": 635,
+      "lastUpdated": "2024-04-28T14:53:36Z",
+      "addedAt": "2026-03-25T07:35:26.217Z",
+      "_lastChecked": "2026-03-25T07:35:26.217Z",
+      "topics": [
+        "elder-scrolls",
+        "electron",
+        "fallout",
+        "machine-learning",
+        "skyrim",
+        "speech-synthesis",
+        "tacotron",
+        "voice-synthesis"
+      ],
+      "categories": [
+        "media",
+        "ai_apps"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "DroidCam OBS Plugin",
+      "description": "将智能手机变为OBS直播摄像头的实用插件，支持Windows、macOS和Linux平台，让直播和视频录制更加便捷灵活。",
+      "tags": [
+        "OBS",
+        "摄像头",
+        "直播工具",
+        "跨平台"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/dev47apps/droidcam-obs-plugin",
+      "stars": 670,
+      "lastUpdated": "2026-01-30T14:44:35Z",
+      "addedAt": "2026-03-25T07:50:24.074Z",
+      "_lastChecked": "2026-03-25T07:50:24.076Z",
+      "topics": [
+        "android",
+        "droidcam",
+        "ios",
+        "obs-studio",
+        "webcam",
+        "webcamera"
+      ],
+      "categories": [
+        "media",
+        "utilities"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Shenzhen",
+      "description": "强大的 iOS 应用构建与分发命令行工具，支持一键打包 .ipa 文件并分发至 TestFlight、HockeyApp、Crashlytics 等多个平台。",
+      "tags": [
+        "CLI",
+        "iOS",
+        "Build",
+        "Distribution",
+        "IPA"
+      ],
+      "health": "Maintenance",
+      "is_cross_platform": false,
+      "url": "https://github.com/nomad-cli/shenzhen",
+      "stars": 4640,
+      "lastUpdated": "2021-06-20T10:17:38Z",
+      "addedAt": "2026-03-25T07:51:19.236Z",
+      "_lastChecked": "2026-03-25T07:51:19.236Z",
+      "topics": [],
+      "categories": [
+        "developer"
+      ],
+      "platforms": [
+        "macOS"
+      ]
+    },
+    {
+      "name": "Loop",
+      "description": "一款开源的自动化胰岛素输送系统应用，专为糖尿病患者设计。支持与胰岛素泵和连续血糖监测仪配合使用，实现智能血糖管理。",
+      "tags": [
+        "健康",
+        "糖尿病管理",
+        "医疗",
+        "开源"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/LoopKit/Loop",
+      "stars": 1667,
+      "lastUpdated": "2026-02-16T01:06:37Z",
+      "addedAt": "2026-03-25T07:54:29.405Z",
+      "_lastChecked": "2026-03-25T07:54:29.405Z",
+      "topics": [
+        "diabetes",
+        "diabetes-app",
+        "diabetes-prediction"
+      ],
+      "categories": [
+        "utilities",
+        "trending"
+      ],
+      "platforms": [
+        "iOS",
+        "watchOS"
+      ]
+    },
+    {
+      "name": "cross-env",
+      "description": "跨平台环境变量设置工具，解决 Windows 与 Unix 系统间环境变量语法差异问题，让开发者无需关心平台兼容性即可统一设置环境变量。",
+      "tags": [
+        "CLI",
+        "Environment",
+        "Cross-platform",
+        "Node.js"
+      ],
+      "health": "Stable",
+      "is_cross_platform": true,
+      "url": "https://github.com/kentcdodds/cross-env",
+      "stars": 6531,
+      "lastUpdated": "2025-11-16T14:11:37Z",
+      "addedAt": "2026-03-25T07:58:31.588Z",
+      "_lastChecked": "2026-03-25T07:58:31.588Z",
+      "topics": [
+        "cross-env",
+        "cross-platform",
+        "environment",
+        "macos",
+        "unix",
+        "variables",
+        "windows"
+      ],
+      "categories": [
+        "developer",
+        "utilities"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Doctor Dignity",
+      "description": "开源离线医疗 AI 助手，基于 Llama2 微调并通过美国医师执照考试，支持 iOS、Android 和 Web 平台，保护用户健康数据隐私。",
+      "tags": [
+        "AI",
+        "Medical",
+        "LLM",
+        "Offline",
+        "Privacy"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/llSourcell/Doctor-Dignity",
+      "stars": 3838,
+      "lastUpdated": "2023-09-21T01:07:13Z",
+      "addedAt": "2026-03-25T07:58:31.588Z",
+      "_lastChecked": "2026-03-25T07:58:31.588Z",
+      "topics": [],
+      "categories": [
+        "ai_apps",
+        "health"
+      ],
+      "platforms": [
+        "iOS",
+        "Android",
+        "Web"
+      ]
+    },
+    {
+      "name": "OpenSmalltalk VM",
+      "description": "跨平台 Smalltalk 虚拟机，支持 Squeak 和 Cuis 等 Smalltalk 实现的运行时环境，提供 JIT 编译和垃圾回收功能。",
+      "tags": [
+        "Virtual Machine",
+        "Smalltalk",
+        "Runtime"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/OpenSmalltalk/opensmalltalk-vm",
+      "stars": 595,
+      "lastUpdated": "2026-03-05T22:52:54Z",
+      "addedAt": "2026-03-25T08:03:50.376Z",
+      "_lastChecked": "2026-03-25T08:03:50.376Z",
+      "topics": [
+        "armv8",
+        "cuis",
+        "ephemerons",
+        "garbage-collector",
+        "generated-from-simulator",
+        "implicit-forwarding",
+        "jit",
+        "language-virtual-machine",
+        "linux",
+        "macos",
+        "non-blocking-ffi",
+        "raspberry-pi",
+        "smalltalk",
+        "spur",
+        "squeak",
+        "win",
+        "x86-32",
+        "x86-64"
+      ],
+      "categories": [
+        "developer"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Verwandlung Online Judge",
+      "description": "基于 Spring MVC 框架构建的跨平台在线评测系统，支持编程竞赛和代码练习，提供完整的判题和提交管理功能。",
+      "tags": [
+        "Online Judge",
+        "Programming",
+        "Education"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/hzxie/voj",
+      "stars": 612,
+      "lastUpdated": "2026-03-20T21:40:59Z",
+      "addedAt": "2026-03-25T08:03:50.376Z",
+      "_lastChecked": "2026-03-25T08:03:50.376Z",
+      "topics": [
+        "activemq",
+        "docker",
+        "java",
+        "mybatis",
+        "online-judge",
+        "spring-mvc"
+      ],
+      "categories": [
+        "learning",
+        "developer"
+      ],
+      "platforms": [
+        "Web",
+        "Windows",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Gideros",
+      "description": "开源跨平台游戏开发引擎，支持 Lua 脚本语言，可一键部署至 iOS、Android、Windows 等多平台，提供即时测试和原生性能。",
+      "tags": [
+        "Game Engine",
+        "Lua",
+        "Cross-Platform"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/gideros/gideros",
+      "stars": 607,
+      "lastUpdated": "2026-01-30T14:43:58Z",
+      "addedAt": "2026-03-25T08:03:50.376Z",
+      "_lastChecked": "2026-03-25T08:03:50.376Z",
+      "topics": [
+        "cross-platform",
+        "game",
+        "game-2d",
+        "game-development",
+        "game-engine",
+        "lua"
+      ],
+      "categories": [
+        "developer",
+        "entertainment"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "iOS",
+        "Android"
+      ]
+    },
+    {
+      "name": "ZoneMTA",
+      "description": "基于 Node.js 构建的现代出站邮件传输代理服务器，支持精细路由控制、IP 预热和 HTTP API，适合大规模邮件发送场景。",
+      "tags": [
+        "MTA",
+        "SMTP",
+        "Email Server"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/zone-eu/zone-mta",
+      "stars": 657,
+      "lastUpdated": "2026-03-23T09:53:25Z",
+      "addedAt": "2026-03-25T08:03:50.376Z",
+      "_lastChecked": "2026-03-25T08:03:50.376Z",
+      "topics": [],
+      "categories": [
+        "internet",
+        "developer"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "ShadowsocksX-NG-R8",
+      "description": "macOS 平台的 ShadowsocksR 代理客户端，支持 PAC 智能分流，帮助用户实现安全稳定的网络代理连接。",
+      "tags": [
+        "代理",
+        "VPN",
+        "网络工具"
+      ],
+      "health": "Unknown",
+      "is_cross_platform": false,
+      "url": "https://github.com/paradiseduo/ShadowsocksX-NG-R8",
+      "stars": 1366,
+      "lastUpdated": "2020-10-28T06:01:22Z",
+      "addedAt": "2026-03-25T08:07:40.996Z",
+      "_lastChecked": "2026-03-25T08:07:40.996Z",
+      "topics": [
+        "cfw",
+        "clash",
+        "clashforwindows",
+        "clashr",
+        "clashx",
+        "clashxr",
+        "gfw",
+        "macos",
+        "pac",
+        "proxy",
+        "shadow",
+        "shadowrocket",
+        "shadowsocks",
+        "shadowsocksr",
+        "shadowsocksx",
+        "shadowsocksx-ng",
+        "ssr"
+      ],
+      "categories": [
+        "internet",
+        "security"
+      ],
+      "platforms": [
+        "macOS"
+      ]
+    },
+    {
+      "name": "TablePro",
+      "description": "原生 macOS 数据库客户端，支持 MySQL、PostgreSQL、MongoDB、Redis 等多种数据库，内置 AI 助手辅助 SQL 编写与查询优化。",
+      "tags": [
+        "数据库",
+        "SQL",
+        "AI助手"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/TableProApp/TablePro",
+      "stars": 1336,
+      "lastUpdated": "2026-03-25T02:52:08Z",
+      "addedAt": "2026-03-25T08:07:40.996Z",
+      "_lastChecked": "2026-03-25T08:07:40.996Z",
+      "topics": [
+        "appkit",
+        "database",
+        "database-client",
+        "macos",
+        "macos-app",
+        "mongodb",
+        "mssql",
+        "mysql",
+        "native",
+        "postgresql",
+        "redis",
+        "sql",
+        "sqlite",
+        "swift",
+        "swiftui",
+        "tableplus"
+      ],
+      "categories": [
+        "developer",
+        "productivity",
+        "ai_apps",
+        "trending"
+      ],
+      "platforms": [
+        "macOS"
+      ]
+    },
+    {
+      "name": "Reset Windows Update Tool",
+      "description": "Windows 更新故障排查与修复工具，可重置更新组件、清理缓存并恢复系统更新服务正常运行。",
+      "tags": [
+        "系统维护",
+        "故障修复",
+        "命令行工具"
+      ],
+      "health": "Archived",
+      "is_cross_platform": false,
+      "url": "https://github.com/ManuelGil/Reset-Windows-Update-Tool",
+      "stars": 510,
+      "lastUpdated": "2026-01-16T14:36:25Z",
+      "addedAt": "2026-03-25T08:14:34.713Z",
+      "_lastChecked": "2026-03-25T08:14:34.713Z",
+      "topics": [
+        "c-plus-plus",
+        "command-line-tool",
+        "cpp",
+        "dev-cpp",
+        "latam",
+        "maintenance-tool",
+        "microsoft",
+        "reset-windows",
+        "restore",
+        "script-reset",
+        "software-distribution",
+        "systemd-service",
+        "troubleshooting",
+        "update",
+        "update-service",
+        "windows",
+        "windows-service",
+        "windows-update",
+        "wureset",
+        "wureset-project"
+      ],
+      "categories": [
+        "utilities"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "winget-install",
+      "description": "通过 PowerShell 一键安装 WinGet 包管理器的实用脚本工具，自动处理依赖项，支持 Windows 10/11 和 Server 系统。",
+      "tags": [
+        "PowerShell",
+        "Windows",
+        "包管理器",
+        "系统工具"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/asheroto/winget-install",
+      "stars": 571,
+      "lastUpdated": "2026-01-12T22:29:15Z",
+      "addedAt": "2026-03-25T08:15:33.556Z",
+      "_lastChecked": "2026-03-25T08:15:33.556Z",
+      "topics": [
+        "auto",
+        "automatically",
+        "cli",
+        "cmd",
+        "dependencies",
+        "dependency",
+        "fix",
+        "install",
+        "installer",
+        "microsoft",
+        "msix",
+        "msixbundle",
+        "powershell",
+        "prerequisites",
+        "script",
+        "windows",
+        "winget",
+        "xaml"
+      ],
+      "categories": [
+        "utilities"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "aria2 Static Builds",
+      "description": "aria2 静态编译版本，支持多协议的高速下载工具，包含 BitTorrent、HTTP/FTP 等功能。提供 Windows 和 Linux 平台的预编译二进制文件，开箱即用。",
+      "tags": [
+        "下载器",
+        "命令行工具",
+        "BitTorrent"
+      ],
+      "health": "Stable",
+      "is_cross_platform": true,
+      "url": "https://github.com/asdo92/aria2-static-builds",
+      "stars": 723,
+      "lastUpdated": "2025-09-19T19:14:16Z",
+      "addedAt": "2026-03-25T08:16:44.374Z",
+      "_lastChecked": "2026-03-25T08:16:44.374Z",
+      "topics": [
+        "aria2",
+        "builds",
+        "linux",
+        "static",
+        "windows"
+      ],
+      "categories": [
+        "utilities",
+        "internet"
+      ],
+      "platforms": [
+        "Windows",
+        "Linux"
+      ]
+    },
+    {
+      "name": "OpenChat",
+      "description": "一款现代化的全栈 AI 聊天应用，支持 Web、移动端和桌面端三端同步。集成 GPT-4 对话、AI 文生图、网络搜索等功能，基于 Cloudflare Workers 构建实现全球极速部署。",
+      "tags": [
+        "AI聊天",
+        "全栈应用",
+        "跨平台",
+        "GPT-4"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/akazwz/openchat-monorepo",
+      "stars": 565,
+      "lastUpdated": "2025-06-06T15:27:15Z",
+      "addedAt": "2026-03-25T08:17:34.048Z",
+      "_lastChecked": "2026-03-25T08:17:34.048Z",
+      "topics": [
+        "cloudflare",
+        "cloudflare-workers",
+        "connectrpc",
+        "react",
+        "react-router",
+        "tauri"
+      ],
+      "categories": [
+        "ai_apps",
+        "communication"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "Android",
+        "iOS",
+        "Web"
+      ]
+    },
+    {
+      "name": "EasyDB",
+      "description": "一款轻量级桌面数据查询工具，内置 DataFusion 引擎，无需安装数据库即可使用 SQL 直接查询本地 CSV、Excel、JSON 等文件。支持复杂 SQL 语法包括多表 JOIN、子查询和窗口函数，轻松处理数 GB 级大型文件。",
+      "tags": [
+        "SQL查询",
+        "数据分析",
+        "桌面应用",
+        "本地文件"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/shencangsheng/easydb_app",
+      "stars": 1002,
+      "lastUpdated": "2026-02-27T10:02:00Z",
+      "addedAt": "2026-03-25T08:17:34.049Z",
+      "_lastChecked": "2026-03-25T08:17:34.049Z",
+      "topics": [
+        "csv",
+        "databases",
+        "json",
+        "query-editor",
+        "read",
+        "rust",
+        "sql-assistant",
+        "tauri",
+        "tsv"
+      ],
+      "categories": [
+        "productivity",
+        "utilities",
+        "developer",
+        "trending"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS"
+      ]
+    },
+    {
+      "name": "Pupil",
+      "description": "一款功能丰富的 Hitomi.la 漫画阅读器，支持漫画浏览、下载与离线阅读，提供流畅的阅读体验。",
+      "tags": [
+        "漫画阅读",
+        "图片浏览",
+        "离线阅读"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/tom5079/Pupil",
+      "stars": 592,
+      "lastUpdated": "2026-03-24T05:07:46Z",
+      "addedAt": "2026-03-25T08:23:33.041Z",
+      "_lastChecked": "2026-03-25T08:23:33.041Z",
+      "topics": [
+        "android",
+        "android-app",
+        "e-hentai",
+        "exhentai",
+        "hitomi",
+        "hitomi-la",
+        "manga-downloader",
+        "manga-reader",
+        "manga-viewer"
+      ],
+      "categories": [
+        "media",
+        "entertainment"
+      ],
+      "platforms": [
+        "Android"
+      ]
+    },
+    {
+      "name": "Ghost Framework",
+      "description": "一款基于 Android Debug Bridge 的 Android 设备远程访问与后渗透测试框架，支持远程 Shell 连接与设备管理。",
+      "tags": [
+        "Security",
+        "Android",
+        "Penetration Testing",
+        "CLI"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/EntySec/Ghost",
+      "stars": 3304,
+      "lastUpdated": "2025-11-01T01:58:25Z",
+      "addedAt": "2026-03-25T08:24:40.824Z",
+      "_lastChecked": "2026-03-25T08:24:40.824Z",
+      "topics": [
+        "adb",
+        "android",
+        "android-debug-bridge",
+        "android-device",
+        "android-exploit",
+        "android-hack",
+        "android-hacking",
+        "android-rat",
+        "backdoor",
+        "entysec",
+        "exploit",
+        "exploitation-framework",
+        "hack",
+        "hacking",
+        "hacking-tools",
+        "kali-linux",
+        "post-exploitation",
+        "rat",
+        "remote-access",
+        "remote-shell"
+      ],
+      "categories": [
+        "security",
+        "developer"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "PeopleInSpace",
+      "description": "基于 Kotlin Multiplatform 的跨平台应用，实时展示太空中宇航员的位置与信息。支持 SwiftUI、Jetpack Compose、桌面端及 Web 等多端客户端。",
+      "tags": [
+        "Kotlin",
+        "Multiplatform",
+        "Space",
+        "Compose",
+        "SwiftUI"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/joreilly/PeopleInSpace",
+      "stars": 3314,
+      "lastUpdated": "2026-03-19T09:36:59Z",
+      "addedAt": "2026-03-25T08:31:30.657Z",
+      "_lastChecked": "2026-03-25T08:31:30.657Z",
+      "topics": [
+        "android",
+        "compose-desktop",
+        "compose-ios",
+        "compose-multiplatform",
+        "compose-web",
+        "ios",
+        "jetpack-compose",
+        "kmp",
+        "kmp-sample",
+        "koin",
+        "kotlin",
+        "kotlin-coroutines",
+        "kotlin-multiplatform",
+        "kotlin-native",
+        "ktor",
+        "mcp",
+        "swift",
+        "swiftui",
+        "wasm"
+      ],
+      "categories": [
+        "learning",
+        "utilities",
+        "trending"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "Windows",
+        "macOS",
+        "Linux",
+        "Web"
+      ]
+    },
+    {
+      "name": "IOS13-SimulateTouch",
+      "description": "iOS 系统级触摸模拟自动化工具，支持多点触控、触摸录制回放、图像匹配、OCR识别等功能，需越狱环境运行。",
+      "tags": [
+        "自动化",
+        "触摸模拟",
+        "越狱工具",
+        "iOS"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/xuan32546/IOS13-SimulateTouch",
+      "stars": 1397,
+      "lastUpdated": "2022-11-08T12:16:17Z",
+      "addedAt": "2026-03-25T08:51:55.374Z",
+      "_lastChecked": "2026-03-25T08:51:55.374Z",
+      "topics": [
+        "ios",
+        "touch-events",
+        "touch-simulation",
+        "touchscreen-control"
+      ],
+      "categories": [
+        "utilities",
+        "developer"
+      ],
+      "platforms": [
+        "iOS"
       ]
     }
   ]
