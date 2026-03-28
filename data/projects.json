@@ -131068,6 +131068,1369 @@
       "platforms": [
         "iOS"
       ]
+    },
+    {
+      "name": "iSCSIInitiator",
+      "description": "macOS 原生 iSCSI 发起端软件，支持自动检测和挂载 iSCSI 目标设备上的逻辑单元，帮助用户便捷地创建和挂载存储卷。",
+      "tags": [
+        "iSCSI",
+        "存储",
+        "网络",
+        "系统工具"
+      ],
+      "health": "Maintenance",
+      "is_cross_platform": false,
+      "url": "https://github.com/iscsi-osx/iSCSIInitiator",
+      "stars": 574,
+      "lastUpdated": "2023-02-28T16:00:02Z",
+      "addedAt": "2026-03-25T09:02:39.746Z",
+      "_lastChecked": "2026-03-25T09:02:39.746Z",
+      "topics": [
+        "c",
+        "c-plus-plus",
+        "iscsi",
+        "iscsi-initiator",
+        "kernel-extension",
+        "macos",
+        "objective-c"
+      ],
+      "categories": [
+        "utilities"
+      ],
+      "platforms": [
+        "macOS"
+      ]
+    },
+    {
+      "name": "hologram.nvim",
+      "description": "跨平台 Neovim 终端图片查看器，支持在编辑器内直接显示图片。基于 Kitty 图形协议，使用 Lua 和 C 编写，轻量高效。",
+      "tags": [
+        "neovim",
+        "image-viewer",
+        "terminal",
+        "plugin"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/edluffy/hologram.nvim",
+      "stars": 1427,
+      "lastUpdated": "2023-11-15T01:01:53Z",
+      "addedAt": "2026-03-25T09:03:47.186Z",
+      "_lastChecked": "2026-03-25T09:03:47.186Z",
+      "topics": [],
+      "categories": [
+        "developer"
+      ],
+      "platforms": [
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "WMPFDebugger",
+      "description": "微信小程序 Windows 端调试工具，通过破解远程调试限制实现完整的 Chrome 调试协议支持，方便开发者使用标准浏览器开发者工具进行调试。",
+      "tags": [
+        "微信小程序",
+        "调试工具",
+        "开发者工具"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/evi0s/WMPFDebugger",
+      "stars": 1571,
+      "lastUpdated": "2026-03-21T02:40:13Z",
+      "addedAt": "2026-03-25T09:07:04.886Z",
+      "_lastChecked": "2026-03-25T09:07:04.886Z",
+      "topics": [],
+      "categories": [
+        "developer",
+        "trending"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "H264BSAnalyzer",
+      "description": "专业的 H.264/AVC 和 H.265/HEVC 码流分析工具，支持 NAL 单元解析、十六进制数据显示、视频播放及帧级控制，可导出多种格式。",
+      "tags": [
+        "视频分析",
+        "H.264",
+        "H.265",
+        "码流分析"
+      ],
+      "health": "Stable",
+      "is_cross_platform": false,
+      "url": "https://github.com/latelee/H264BSAnalyzer",
+      "stars": 923,
+      "lastUpdated": "2018-09-22T09:56:52Z",
+      "addedAt": "2026-03-25T09:07:04.886Z",
+      "_lastChecked": "2026-03-25T09:07:04.886Z",
+      "topics": [],
+      "categories": [
+        "media",
+        "developer"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "WinPython",
+      "description": "Windows 平台免费的 Python 发行版，预装科学计算常用包，无需安装即可运行，适合数据分析和科学计算场景。",
+      "tags": [
+        "Python",
+        "科学计算",
+        "开发环境"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/winpython/winpython",
+      "stars": 2234,
+      "lastUpdated": "2026-03-10T19:28:59Z",
+      "addedAt": "2026-03-25T09:07:04.886Z",
+      "_lastChecked": "2026-03-25T09:07:04.886Z",
+      "topics": [],
+      "categories": [
+        "developer",
+        "productivity",
+        "trending"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "AndroBugs Framework",
+      "description": "高效的 Android 应用漏洞扫描工具，帮助开发者和安全研究人员快速检测 APK 中的潜在安全漏洞，平均扫描时间不到 2 分钟。",
+      "tags": [
+        "Android",
+        "Security",
+        "Vulnerability Scanner",
+        "CLI"
+      ],
+      "health": "Stable",
+      "is_cross_platform": true,
+      "url": "https://github.com/AndroBugs/AndroBugs_Framework",
+      "stars": 1221,
+      "lastUpdated": "2019-04-24T13:26:23Z",
+      "addedAt": "2026-03-25T09:07:56.615Z",
+      "_lastChecked": "2026-03-25T09:07:56.615Z",
+      "topics": [],
+      "categories": [
+        "security",
+        "developer"
+      ],
+      "platforms": [
+        "Windows",
+        "Linux"
+      ]
+    },
+    {
+      "name": "MusicPlayer",
+      "description": "基于 JavaFX 的跨平台桌面音乐播放器，支持播放列表管理、媒体键控制、自动音乐库更新及搜索功能，界面简洁美观。",
+      "tags": [
+        "Music Player",
+        "JavaFX",
+        "Desktop",
+        "Media"
+      ],
+      "health": "Stable",
+      "is_cross_platform": true,
+      "url": "https://github.com/Mpmart08/MusicPlayer",
+      "stars": 930,
+      "lastUpdated": "2016-08-23T16:36:44Z",
+      "addedAt": "2026-03-25T09:07:56.616Z",
+      "_lastChecked": "2026-03-25T09:07:56.616Z",
+      "topics": [],
+      "categories": [
+        "media"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS"
+      ]
+    },
+    {
+      "name": "K8CScan",
+      "description": "功能强大的内网渗透扫描工具，支持多线程批量扫描C段主机，集成信息收集、漏洞扫描、密码爆破等多种安全测试功能模块。",
+      "tags": [
+        "安全扫描",
+        "渗透测试",
+        "内网探测"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/k8gege/K8CScan",
+      "stars": 1301,
+      "lastUpdated": "2019-12-25T03:23:01Z",
+      "addedAt": "2026-03-25T09:09:28.002Z",
+      "_lastChecked": "2026-03-25T09:09:28.003Z",
+      "topics": [
+        "cobalt-strike",
+        "crack",
+        "exploit",
+        "ftp",
+        "getshell",
+        "hacking",
+        "ipc",
+        "mssql",
+        "mysql",
+        "netscan",
+        "oracle",
+        "password",
+        "pentest",
+        "poc",
+        "portscan",
+        "scanner",
+        "security",
+        "smb",
+        "subdomain",
+        "wmi"
+      ],
+      "categories": [
+        "security"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "JAWS",
+      "description": "Windows系统安全枚举脚本，用于快速检测系统配置缺陷和潜在提权向量，是渗透测试人员的常用辅助工具。",
+      "tags": [
+        "安全审计",
+        "权限枚举",
+        "渗透测试"
+      ],
+      "health": "Maintained",
+      "is_cross_platform": false,
+      "url": "https://github.com/411Hall/JAWS",
+      "stars": 1933,
+      "lastUpdated": "2021-04-19T14:53:29Z",
+      "addedAt": "2026-03-25T09:09:28.004Z",
+      "_lastChecked": "2026-03-25T09:09:28.004Z",
+      "topics": [],
+      "categories": [
+        "security"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "Windows Privilege Escalation Check",
+      "description": "独立的Windows权限提升检测工具，可快速扫描系统中的潜在提权漏洞和安全配置问题。",
+      "tags": [
+        "安全审计",
+        "权限检测",
+        "渗透测试"
+      ],
+      "health": "Maintained",
+      "is_cross_platform": false,
+      "url": "https://github.com/pentestmonkey/windows-privesc-check",
+      "stars": 1499,
+      "lastUpdated": "2023-08-01T07:35:20Z",
+      "addedAt": "2026-03-25T09:09:28.004Z",
+      "_lastChecked": "2026-03-25T09:09:28.004Z",
+      "topics": [],
+      "categories": [
+        "security"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "PyGPT",
+      "description": "功能强大的桌面 AI 助手应用，支持 GPT-5、Claude、Gemini、Ollama 等多种大模型。集成聊天、视觉、语音、RAG、图像视频生成、智能代理等丰富功能，是全能型 AI 生产力工具。",
+      "tags": [
+        "AI助手",
+        "桌面应用",
+        "大模型",
+        "智能代理"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/szczyglis-dev/py-gpt",
+      "stars": 1703,
+      "lastUpdated": "2026-02-06T03:08:43Z",
+      "addedAt": "2026-03-25T09:10:22.084Z",
+      "_lastChecked": "2026-03-25T09:10:22.084Z",
+      "topics": [
+        "ai",
+        "ai-assistant",
+        "artificial-intelligence",
+        "autonomous-agent",
+        "chatbot",
+        "claude",
+        "deepseek",
+        "desktop-app",
+        "gemini",
+        "gpt-4",
+        "gpt-5",
+        "grok",
+        "llama-index",
+        "llm",
+        "mcp",
+        "o1",
+        "ollama",
+        "openai",
+        "perplexity",
+        "sora2"
+      ],
+      "categories": [
+        "ai_apps",
+        "productivity",
+        "trending"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "ReDex",
+      "description": "Facebook 开源的 Android 字节码优化器，通过分析和优化 DEX 文件来减小 APK 体积并提升运行性能。支持多种优化策略，是 Android 开发者的利器。",
+      "tags": [
+        "Android",
+        "Optimizer",
+        "Bytecode",
+        "CLI"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/facebook/redex",
+      "stars": 6282,
+      "lastUpdated": "2026-03-24T20:20:28Z",
+      "addedAt": "2026-03-25T09:14:33.323Z",
+      "_lastChecked": "2026-03-25T09:14:33.323Z",
+      "topics": [],
+      "categories": [
+        "developer",
+        "trending"
+      ],
+      "platforms": [
+        "Linux",
+        "macOS",
+        "Windows"
+      ]
+    },
+    {
+      "name": "usbmuxd",
+      "description": "跨平台 USB 多路复用守护进程，用于管理 iOS 设备的 USB 连接。支持多设备并行连接，可与 libimobiledevice 工具链配合实现设备管理、数据同步等功能。",
+      "tags": [
+        "iOS",
+        "USB",
+        "Daemon",
+        "Cross-platform"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/libimobiledevice/usbmuxd",
+      "stars": 1686,
+      "lastUpdated": "2025-12-06T01:14:51Z",
+      "addedAt": "2026-03-25T09:46:37.930Z",
+      "_lastChecked": "2026-03-25T09:46:37.930Z",
+      "topics": [
+        "c",
+        "daemon",
+        "ios",
+        "libimobiledevice",
+        "library",
+        "usb",
+        "usbmuxd"
+      ],
+      "categories": [
+        "developer",
+        "utilities"
+      ],
+      "platforms": [
+        "Linux",
+        "macOS",
+        "Windows"
+      ]
+    },
+    {
+      "name": "mssql-scripter",
+      "description": "微软官方推出的跨平台 SQL Server 数据库脚本生成命令行工具，支持导出数据库架构和数据为 T-SQL 脚本，便于版本控制和迁移部署。",
+      "tags": [
+        "SQL",
+        "Database",
+        "CLI",
+        "Microsoft"
+      ],
+      "health": "Stable",
+      "is_cross_platform": true,
+      "url": "https://github.com/microsoft/mssql-scripter",
+      "stars": 751,
+      "lastUpdated": "2024-05-07T23:31:50Z",
+      "addedAt": "2026-03-25T09:58:42.600Z",
+      "_lastChecked": "2026-03-25T09:58:42.600Z",
+      "topics": [],
+      "categories": [
+        "developer"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "RTLSDR-Scanner",
+      "description": "跨平台 RTL-SDR 频谱扫描图形界面工具，支持频率范围扫描、信号分析和频谱可视化，适用于无线电爱好者和信号分析场景。",
+      "tags": [
+        "SDR",
+        "Radio",
+        "Spectrum Analyzer",
+        "RTL-SDR"
+      ],
+      "health": "Stable",
+      "is_cross_platform": true,
+      "url": "https://github.com/EarToEarOak/RTLSDR-Scanner",
+      "stars": 714,
+      "lastUpdated": "2018-12-05T21:57:35Z",
+      "addedAt": "2026-03-25T09:58:42.601Z",
+      "_lastChecked": "2026-03-25T09:58:42.601Z",
+      "topics": [
+        "radio",
+        "rtl-sdr",
+        "sdr",
+        "spectrum-analyzer"
+      ],
+      "categories": [
+        "utilities"
+      ],
+      "platforms": [
+        "Windows",
+        "Linux"
+      ]
+    },
+    {
+      "name": "udp2raw-multiplatform",
+      "description": "跨平台网络隧道工具，支持将 UDP 流量伪装为 TCP 进行传输，有效穿透网络限制。适用于网络调试、内网穿透等场景。",
+      "tags": [
+        "网络隧道",
+        "UDP",
+        "内网穿透",
+        "跨平台"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/wangyu-/udp2raw-multiplatform",
+      "stars": 713,
+      "lastUpdated": "2023-10-07T08:48:09Z",
+      "addedAt": "2026-03-25T09:59:35.553Z",
+      "_lastChecked": "2026-03-25T09:59:35.555Z",
+      "topics": [],
+      "categories": [
+        "internet",
+        "utilities"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "BSD"
+      ]
+    },
+    {
+      "name": "QSS Editor",
+      "description": "跨平台 Qt 样式表编辑器，支持实时预览 QSS 样式效果，帮助开发者快速设计和调试 Qt 界面主题。",
+      "tags": [
+        "Qt",
+        "样式表",
+        "界面设计",
+        "开发工具"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/HappySeaFox/qsseditor",
+      "stars": 511,
+      "lastUpdated": "2022-10-07T10:45:31Z",
+      "addedAt": "2026-03-25T09:59:35.556Z",
+      "_lastChecked": "2026-03-25T09:59:35.556Z",
+      "topics": [
+        "qscintilla",
+        "qss",
+        "qt",
+        "qt-style-sheets",
+        "qt-stylesheets",
+        "qt4",
+        "qt5"
+      ],
+      "categories": [
+        "developer",
+        "graphics"
+      ],
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ]
+    },
+    {
+      "name": "Pretendard",
+      "description": "一款高质量的跨平台系统字体替代方案，提供出色的可读性和统一的视觉体验，支持韩文、日文等多种语言文字。",
+      "tags": [
+        "字体",
+        "美化",
+        "跨平台"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/orioncactus/pretendard",
+      "stars": 3315,
+      "lastUpdated": "2025-06-28T11:40:15Z",
+      "addedAt": "2026-03-25T10:00:34.762Z",
+      "_lastChecked": "2026-03-25T10:00:34.762Z",
+      "topics": [
+        "font",
+        "fonts",
+        "typeface"
+      ],
+      "categories": [
+        "customization"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "ComfyUI-Easy-Install",
+      "description": "一键式 ComfyUI 便携安装器，无需手动配置 Python 环境和依赖，支持 Nvidia GPU 加速，开箱即用的 AI 图像生成解决方案。",
+      "tags": [
+        "ComfyUI",
+        "AI图像生成",
+        "安装器",
+        "便携版"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/Tavris1/ComfyUI-Easy-Install",
+      "stars": 946,
+      "lastUpdated": "2026-03-25T02:23:40Z",
+      "addedAt": "2026-03-25T10:02:00.203Z",
+      "_lastChecked": "2026-03-25T10:02:00.203Z",
+      "topics": [
+        "comfyui",
+        "comfyui-easy-install",
+        "comfyui-installer",
+        "comfyui-portable-installer",
+        "pixaroma",
+        "portable-installer"
+      ],
+      "categories": [
+        "utilities",
+        "ai_apps"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "ravynOS",
+      "description": "开源操作系统项目，旨在提供与 macOS 的源码和二进制兼容性，基于 FreeBSD 构建，拥有类似 macOS 的图形界面和用户体验。",
+      "tags": [
+        "操作系统",
+        "macOS兼容",
+        "桌面环境",
+        "FreeBSD"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/ravynsoft/ravynos",
+      "stars": 6665,
+      "lastUpdated": "2026-03-24T01:56:17Z",
+      "addedAt": "2026-03-25T10:02:00.204Z",
+      "_lastChecked": "2026-03-25T10:02:00.204Z",
+      "topics": [
+        "c",
+        "cocoa",
+        "cpp",
+        "darwin",
+        "desktop",
+        "freebsd",
+        "hacktoberfest",
+        "mach",
+        "macos",
+        "objective-c",
+        "operating-system",
+        "osdev",
+        "unix",
+        "xnu"
+      ],
+      "categories": [
+        "utilities",
+        "customization",
+        "trending"
+      ],
+      "platforms": [
+        "Linux"
+      ]
+    },
+    {
+      "name": "aeneas",
+      "description": "强大的音频与文本自动同步CLI工具，可自动生成字幕时间轴映射，支持多种输出格式如SRT、SMIL等。",
+      "tags": [
+        "forced-alignment",
+        "audio-sync",
+        "subtitles",
+        "cli"
+      ],
+      "health": "Stable",
+      "is_cross_platform": true,
+      "url": "https://github.com/readbeyond/aeneas",
+      "stars": 2812,
+      "lastUpdated": "2024-06-22T01:35:46Z",
+      "addedAt": "2026-03-25T10:03:35.797Z",
+      "_lastChecked": "2026-03-25T10:03:35.797Z",
+      "topics": [
+        "alignment",
+        "audio",
+        "cli",
+        "dtw",
+        "espeak",
+        "espeak-ng",
+        "festival",
+        "ffmpeg",
+        "forced-alignment",
+        "linux",
+        "macos",
+        "nlp",
+        "python",
+        "smil",
+        "speech",
+        "srt",
+        "text",
+        "text-to-speech",
+        "tts",
+        "windows"
+      ],
+      "categories": [
+        "media",
+        "developer"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "massCode",
+      "description": "一款免费开源的代码片段管理器，帮助开发者高效组织、搜索和复用代码片段。基于 Electron 和 Monaco 编辑器构建，支持多平台使用。",
+      "tags": [
+        "代码片段",
+        "开发者工具",
+        "开源"
+      ],
+      "health": "Archived",
+      "is_cross_platform": true,
+      "url": "https://github.com/antonreshetov/massCode",
+      "stars": 2026,
+      "lastUpdated": "2022-05-04T09:06:30Z",
+      "addedAt": "2026-03-25T10:04:28.325Z",
+      "_lastChecked": "2026-03-25T10:04:28.325Z",
+      "topics": [
+        "electron",
+        "linux",
+        "macos",
+        "monaco-editor",
+        "productivity",
+        "snippets",
+        "snippets-manager",
+        "vue",
+        "windows"
+      ],
+      "categories": [
+        "productivity",
+        "developer"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "macadmin-scripts",
+      "description": "macOS 系统管理员工具集，提供下载 macOS IPSW 固件文件、创建 macOS 安装磁盘镜像等实用功能，简化系统部署与维护流程。",
+      "tags": [
+        "macOS",
+        "系统管理",
+        "CLI工具"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/munki/macadmin-scripts",
+      "stars": 2422,
+      "lastUpdated": "2025-11-04T17:09:52Z",
+      "addedAt": "2026-03-25T10:06:00.386Z",
+      "_lastChecked": "2026-03-25T10:06:00.386Z",
+      "topics": [],
+      "categories": [
+        "utilities",
+        "developer"
+      ],
+      "platforms": [
+        "macOS"
+      ]
+    },
+    {
+      "name": "i3-gaps",
+      "description": "i3-gaps 是 i3wm 的增强分支，一款专为 X11 设计的平铺式窗口管理器。它在原版基础上增加了窗口间隙等实用功能，提供更灵活的桌面布局体验。",
+      "tags": [
+        "窗口管理器",
+        "平铺式",
+        "X11"
+      ],
+      "health": "Archived",
+      "is_cross_platform": false,
+      "url": "https://github.com/Airblader/i3",
+      "stars": 5820,
+      "lastUpdated": "2022-11-01T17:29:33Z",
+      "addedAt": "2026-03-25T10:11:43.140Z",
+      "_lastChecked": "2026-03-25T10:11:43.140Z",
+      "topics": [
+        "i3",
+        "i3-gaps",
+        "i3wm",
+        "x11",
+        "x11-wm",
+        "xcb",
+        "xorg"
+      ],
+      "categories": [
+        "utilities",
+        "customization"
+      ],
+      "platforms": [
+        "Linux"
+      ]
+    },
+    {
+      "name": "KitHack",
+      "description": "一款集成多种渗透测试工具的安全框架，支持生成跨平台后门程序，适用于安全研究人员进行授权渗透测试。",
+      "tags": [
+        "Penetration Testing",
+        "Security",
+        "Backdoor Generator"
+      ],
+      "health": "Unmaintained",
+      "is_cross_platform": false,
+      "url": "https://github.com/AdrMXR/KitHack",
+      "stars": 2001,
+      "lastUpdated": "2025-02-19T05:32:04Z",
+      "addedAt": "2026-03-25T10:14:48.629Z",
+      "_lastChecked": "2026-03-25T10:14:48.629Z",
+      "topics": [
+        "android",
+        "apktool",
+        "backdoor",
+        "bash",
+        "information-gathering",
+        "metasploit-framework",
+        "msfvenom",
+        "ngrok",
+        "passwords-attacks",
+        "payload-generator",
+        "phishing",
+        "python",
+        "spoofing",
+        "web-attacks",
+        "wifi-attacks",
+        "windows"
+      ],
+      "categories": [
+        "security"
+      ],
+      "platforms": [
+        "Linux"
+      ]
+    },
+    {
+      "name": "Winds",
+      "description": "一款精美的开源 RSS 阅读器与播客客户端，支持内容订阅、智能推荐与播客播放功能。",
+      "tags": [
+        "RSS Reader",
+        "Podcast",
+        "Electron"
+      ],
+      "health": "Unmaintained",
+      "is_cross_platform": true,
+      "url": "https://github.com/GetStream/Winds",
+      "stars": 9317,
+      "lastUpdated": "2021-10-11T20:32:23Z",
+      "addedAt": "2026-03-25T10:14:48.630Z",
+      "_lastChecked": "2026-03-25T10:14:48.630Z",
+      "topics": [
+        "activity-stream",
+        "algolia-api",
+        "create-react-app",
+        "electron",
+        "electron-app",
+        "express",
+        "feed",
+        "getstream",
+        "machine-learning",
+        "newsfeed",
+        "personalization",
+        "podcast",
+        "podcast-client",
+        "podcasts",
+        "react",
+        "react-native",
+        "redux",
+        "rss",
+        "rss-reader"
+      ],
+      "categories": [
+        "communication",
+        "media"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "h-player-v2",
+      "description": "基于 Electron 的视频播放器应用，支持视频源导入、分类浏览搜索及特色多窗口播放模式。",
+      "tags": [
+        "Video Player",
+        "Electron",
+        "Multimedia"
+      ],
+      "health": "Unmaintained",
+      "is_cross_platform": true,
+      "url": "https://github.com/ZyqGitHub1/h-player-v2",
+      "stars": 3141,
+      "lastUpdated": "2022-12-09T18:49:52Z",
+      "addedAt": "2026-03-25T10:14:48.630Z",
+      "_lastChecked": "2026-03-25T10:14:48.630Z",
+      "topics": [
+        "audit",
+        "electron-app",
+        "player",
+        "porn",
+        "video"
+      ],
+      "categories": [
+        "media",
+        "entertainment"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Touché",
+      "description": "一款用于配置 Touchégg 触摸手势的桌面应用程序，提供直观的 GTK 图形界面，让用户轻松自定义触摸板和触摸屏的多点触控手势。",
+      "tags": [
+        "手势配置",
+        "触摸板",
+        "触摸屏",
+        "GTK"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/JoseExposito/touche",
+      "stars": 644,
+      "lastUpdated": "2025-08-02T10:41:50Z",
+      "addedAt": "2026-03-25T10:16:12.566Z",
+      "_lastChecked": "2026-03-25T10:16:12.566Z",
+      "topics": [
+        "gestures",
+        "gtk",
+        "linux",
+        "multi-touch",
+        "touchegg",
+        "touchpad",
+        "touchscreen"
+      ],
+      "categories": [
+        "utilities",
+        "customization"
+      ],
+      "platforms": [
+        "Linux"
+      ]
+    },
+    {
+      "name": "LiveCaptions",
+      "description": "Linux 桌面实时字幕应用，为系统音频和麦克风提供本地实时语音转文字字幕。支持自定义字体样式，完全离线运行，无需依赖专有服务。",
+      "tags": [
+        "Accessibility",
+        "Speech-to-Text",
+        "Desktop"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/abb128/LiveCaptions",
+      "stars": 1724,
+      "lastUpdated": "2025-02-27T21:24:11Z",
+      "addedAt": "2026-03-25T10:17:09.050Z",
+      "_lastChecked": "2026-03-25T10:17:09.050Z",
+      "topics": [],
+      "categories": [
+        "utilities",
+        "productivity"
+      ],
+      "platforms": [
+        "Linux"
+      ]
+    },
+    {
+      "name": "sway-launcher-desktop",
+      "description": "基于 fzf 的 TUI 应用启动器，支持 Desktop Entry 文件解析和历史记录。轻量高效，适用于 Sway、i3 等窗口管理器环境。",
+      "tags": [
+        "Launcher",
+        "TUI",
+        "Sway",
+        "i3"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/Biont/sway-launcher-desktop",
+      "stars": 674,
+      "lastUpdated": "2024-11-12T20:38:58Z",
+      "addedAt": "2026-03-25T10:17:09.050Z",
+      "_lastChecked": "2026-03-25T10:17:09.050Z",
+      "topics": [
+        "application-autostart",
+        "bash",
+        "desktop-entries",
+        "desktop-files",
+        "dmenu-replacement",
+        "fzf",
+        "i3wm",
+        "launcher",
+        "menu",
+        "sway",
+        "swaywm",
+        "tui",
+        "xdg-basedir"
+      ],
+      "categories": [
+        "utilities",
+        "productivity"
+      ],
+      "platforms": [
+        "Linux"
+      ]
+    },
+    {
+      "name": "WasIstLos",
+      "description": "Linux 平台非官方 WhatsApp 桌面客户端，基于 GTK3 和 WebKitGTK 开发。支持系统托盘、通知提醒、自动启动及多语言界面。",
+      "tags": [
+        "WhatsApp",
+        "Messaging",
+        "GTK"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/xeco23/WasIstLos",
+      "stars": 1165,
+      "lastUpdated": "2024-10-22T12:35:59Z",
+      "addedAt": "2026-03-25T10:17:09.050Z",
+      "_lastChecked": "2026-03-25T10:17:09.050Z",
+      "topics": [
+        "appindicator",
+        "cmake",
+        "cpp",
+        "gtk3",
+        "gtkmm3-library",
+        "gui",
+        "linux",
+        "webkit2gtk",
+        "whatsapp"
+      ],
+      "categories": [
+        "communication"
+      ],
+      "platforms": [
+        "Linux"
+      ]
+    },
+    {
+      "name": "jumpapp",
+      "description": "X11 桌面环境的 run-or-raise 应用切换器，一键启动或聚焦应用程序窗口。适合键盘党快速切换应用，提升工作流效率。",
+      "tags": [
+        "Window Manager",
+        "Keyboard",
+        "X11"
+      ],
+      "health": "Stable",
+      "is_cross_platform": false,
+      "url": "https://github.com/mkropat/jumpapp",
+      "stars": 675,
+      "lastUpdated": "2024-10-16T21:09:55Z",
+      "addedAt": "2026-03-25T10:17:09.050Z",
+      "_lastChecked": "2026-03-25T10:17:09.050Z",
+      "topics": [
+        "application-switching",
+        "run-or-raise"
+      ],
+      "categories": [
+        "utilities",
+        "productivity"
+      ],
+      "platforms": [
+        "Linux"
+      ]
+    },
+    {
+      "name": "Home Assistant Desktop",
+      "description": "Home Assistant 智能家居平台的桌面客户端，支持多实例管理、自动发现及全局快捷键。提供系统托盘集成与自动更新功能。",
+      "tags": [
+        "Home Automation",
+        "Smart Home",
+        "Electron"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/iprodanovbg/homeassistant-desktop",
+      "stars": 581,
+      "lastUpdated": "2024-07-29T10:40:46Z",
+      "addedAt": "2026-03-25T10:17:09.051Z",
+      "_lastChecked": "2026-03-25T10:17:09.051Z",
+      "topics": [],
+      "categories": [
+        "utilities",
+        "productivity"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "qFlipper",
+      "description": "Flipper Zero 多功能工具的官方桌面管理软件，支持固件更新、设备修复及远程控制。提供备份恢复、DFU 文件安装等完整功能。",
+      "tags": [
+        "Firmware",
+        "Flipper Zero",
+        "Hardware"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/flipperdevices/qFlipper",
+      "stars": 1537,
+      "lastUpdated": "2024-06-11T13:05:35Z",
+      "addedAt": "2026-03-25T10:17:09.051Z",
+      "_lastChecked": "2026-03-25T10:17:09.051Z",
+      "topics": [],
+      "categories": [
+        "utilities",
+        "developer"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "PSLab Desktop",
+      "description": "开源的口袋科学实验室桌面应用程序，提供示波器、波形发生器、频率计等多种测量仪器功能，适用于教学实验和科学研究。",
+      "tags": [
+        "科学实验",
+        "测量仪器",
+        "开源硬件",
+        "教育"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/fossasia/pslab-desktop",
+      "stars": 1773,
+      "lastUpdated": "2024-02-06T21:27:46Z",
+      "addedAt": "2026-03-25T10:18:14.228Z",
+      "_lastChecked": "2026-03-25T10:18:14.228Z",
+      "topics": [],
+      "categories": [
+        "utilities",
+        "learning"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "JSONExport",
+      "description": "macOS 原生桌面应用，可将 JSON 对象导出为多种编程语言的模型类代码，自动生成构造函数、工具方法及存取器。",
+      "tags": [
+        "JSON转换",
+        "代码生成",
+        "开发工具",
+        "macOS"
+      ],
+      "health": "Maintenance",
+      "is_cross_platform": false,
+      "url": "https://github.com/Ahmed-Ali/JSONExport",
+      "stars": 4823,
+      "lastUpdated": "2023-10-22T07:25:07Z",
+      "addedAt": "2026-03-25T10:18:14.228Z",
+      "_lastChecked": "2026-03-25T10:18:14.228Z",
+      "topics": [],
+      "categories": [
+        "developer",
+        "utilities"
+      ],
+      "platforms": [
+        "macOS"
+      ]
+    },
+    {
+      "name": "Exilence Next",
+      "description": "《流放之路》游戏资产价值统计桌面工具，帮助玩家追踪角色、仓库和背包的财富变化，支持组队共享净值数据。",
+      "tags": [
+        "游戏工具",
+        "流放之路",
+        "资产管理",
+        "统计"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/viktorgullmark/exilence-next",
+      "stars": 645,
+      "lastUpdated": "2023-05-23T12:14:27Z",
+      "addedAt": "2026-03-25T10:18:14.228Z",
+      "_lastChecked": "2026-03-25T10:18:14.228Z",
+      "topics": [],
+      "categories": [
+        "entertainment",
+        "utilities"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "Amenoma",
+      "description": "《原神》圣遗物与材料扫描导出工具，通过屏幕识别自动扫描背包物品并导出至多种分析工具支持的格式。",
+      "tags": [
+        "原神",
+        "圣遗物扫描",
+        "游戏工具",
+        "OCR识别"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/daydreaming666/Amenoma",
+      "stars": 591,
+      "lastUpdated": "2023-01-23T08:17:12Z",
+      "addedAt": "2026-03-25T10:18:14.229Z",
+      "_lastChecked": "2026-03-25T10:18:14.229Z",
+      "topics": [],
+      "categories": [
+        "entertainment",
+        "utilities"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "PB for Desktop",
+      "description": "轻量级开源 Pushbullet 桌面客户端，支持在 macOS、Windows 和 Linux 上接收原生推送通知，支持通知缩略图与自定义音效。",
+      "tags": [
+        "Pushbullet",
+        "通知",
+        "桌面客户端"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/sidneys/pb-for-desktop",
+      "stars": 517,
+      "lastUpdated": "2023-01-06T01:32:30Z",
+      "addedAt": "2026-03-25T10:18:59.303Z",
+      "_lastChecked": "2026-03-25T10:18:59.303Z",
+      "topics": [
+        "desktop",
+        "linux",
+        "macos",
+        "notifications",
+        "pushbullet"
+      ],
+      "categories": [
+        "utilities",
+        "communication"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "SharpRDP",
+      "description": "基于 .NET 的 RDP 远程桌面协议命令行工具，支持身份验证后的远程命令执行，适用于安全测试与系统管理场景。",
+      "tags": [
+        "RDP",
+        "远程桌面",
+        "安全工具"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/0xthirteen/SharpRDP",
+      "stars": 1139,
+      "lastUpdated": "2022-11-13T05:29:33Z",
+      "addedAt": "2026-03-25T10:18:59.303Z",
+      "_lastChecked": "2026-03-25T10:18:59.303Z",
+      "topics": [],
+      "categories": [
+        "security",
+        "utilities"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "Data Pixels Playground",
+      "description": "创意像素艺术生成桌面应用，支持通过编程方式实时生成像素画作品，提供可视化编辑与代码执行环境。",
+      "tags": [
+        "像素艺术",
+        "创意工具",
+        "图形设计"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/gmattie/Data-Pixels",
+      "stars": 3361,
+      "lastUpdated": "2021-12-23T16:04:56Z",
+      "addedAt": "2026-03-25T10:18:59.303Z",
+      "_lastChecked": "2026-03-25T10:18:59.303Z",
+      "topics": [],
+      "categories": [
+        "graphics",
+        "entertainment"
+      ],
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "FTC Robot Controller",
+      "description": "FIRST Tech Challenge 官方机器人控制应用，支持通过 Android Studio 进行编程开发，提供 Blocks 和 OnBot Java 两种编程方式。",
+      "tags": [
+        "机器人",
+        "教育",
+        "编程"
+      ],
+      "health": "Active",
+      "is_cross_platform": false,
+      "url": "https://github.com/FIRST-Tech-Challenge/FtcRobotController",
+      "stars": 1210,
+      "lastUpdated": "2026-01-20T20:22:22Z",
+      "addedAt": "2026-03-25T10:20:11.017Z",
+      "_lastChecked": "2026-03-25T10:20:11.017Z",
+      "topics": [],
+      "categories": [
+        "utilities",
+        "trending"
+      ],
+      "platforms": [
+        "Android"
+      ]
+    },
+    {
+      "name": "Clash for Android",
+      "description": "基于 Clash 内核的 Android 代理工具，提供图形化界面支持规则分流，适用于网络代理与流量管理场景。",
+      "tags": [
+        "代理",
+        "网络",
+        "VPN"
+      ],
+      "health": "Development",
+      "is_cross_platform": false,
+      "url": "https://github.com/xuhaoyang/ClashForAndroid",
+      "stars": 2335,
+      "lastUpdated": "2023-11-03T06:14:40Z",
+      "addedAt": "2026-03-25T10:20:11.017Z",
+      "_lastChecked": "2026-03-25T10:20:11.017Z",
+      "topics": [],
+      "categories": [
+        "internet"
+      ],
+      "platforms": [
+        "Android"
+      ]
+    },
+    {
+      "name": "iOctocat",
+      "description": "一款专为 iOS 设备设计的 GitHub 客户端，支持 iPhone、iPad 和 iPod Touch，方便开发者随时随地管理代码仓库。",
+      "tags": [
+        "GitHub",
+        "iOS",
+        "代码管理"
+      ],
+      "health": "Inactive",
+      "is_cross_platform": false,
+      "url": "https://github.com/dennisreimann/ioctocat",
+      "stars": 1644,
+      "lastUpdated": "2014-01-29T20:29:04Z",
+      "addedAt": "2026-03-25T10:38:49.703Z",
+      "_lastChecked": "2026-03-25T10:38:49.703Z",
+      "topics": [
+        "app",
+        "github",
+        "ioctocat",
+        "ios",
+        "ipad",
+        "iphone"
+      ],
+      "categories": [
+        "developer",
+        "productivity"
+      ],
+      "platforms": [
+        "iOS"
+      ]
+    },
+    {
+      "name": "PSScriptTools",
+      "description": "一套功能丰富的 PowerShell 工具集，包含多种实用函数以增强脚本编写体验和控制台操作效率，支持跨平台运行。",
+      "tags": [
+        "PowerShell",
+        "Scripting",
+        "CLI Tools",
+        "Cross-platform"
+      ],
+      "health": "Active",
+      "is_cross_platform": true,
+      "url": "https://github.com/jdhitsolutions/PSScriptTools",
+      "stars": 994,
+      "lastUpdated": "2025-03-26T18:02:52Z",
+      "addedAt": "2026-03-25T10:57:09.541Z",
+      "_lastChecked": "2026-03-25T10:57:09.541Z",
+      "topics": [
+        "powershell",
+        "powershell-core",
+        "powershell7",
+        "scripting"
+      ],
+      "categories": [
+        "utilities",
+        "developer"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
     }
   ]
 }

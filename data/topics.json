@@ -3,22 +3,22 @@
     "windows": {
       "level": 1,
       "lastExplored": "2026-03-25T05:19:22.825Z",
-      "score": 897
+      "score": 900
     },
     "macos": {
       "level": 1,
       "lastExplored": "2026-03-25T05:09:22.822Z",
-      "score": 880
+      "score": 885
     },
     "android": {
       "level": 1,
       "lastExplored": "2026-03-25T05:36:42.911Z",
-      "score": 882
+      "score": 883
     },
     "ios": {
       "level": 1,
       "lastExplored": "2026-03-25T05:47:16.560Z",
-      "score": 415
+      "score": 417
     },
     "cross-platform": {
       "level": 1,
@@ -43,7 +43,7 @@
     "electron-app": {
       "level": 1,
       "lastExplored": "2026-03-25T05:20:22.892Z",
-      "score": 75
+      "score": 77
     },
     "flutter-app": {
       "level": 1,
@@ -283,19 +283,19 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 26
+      "score": 27
     },
     "linux": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 621
+      "score": 626
     },
     "oracle": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 1
+      "score": 2
     },
     "packer": {
       "level": 2,
@@ -391,7 +391,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 15
+      "score": 16
     },
     "xauth": {
       "level": 2,
@@ -433,7 +433,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 3
+      "score": 4
     },
     "xquartz": {
       "level": 2,
@@ -469,7 +469,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 71
+      "score": 74
     },
     "cross-platform-gui": {
       "level": 2,
@@ -559,7 +559,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 130
+      "score": 132
     },
     "remote-admin-tool": {
       "level": 2,
@@ -595,7 +595,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 41
+      "score": 42
     },
     "ble": {
       "level": 2,
@@ -661,7 +661,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 4
+      "score": 5
     },
     "bitlocker": {
       "level": 2,
@@ -727,7 +727,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 95
+      "score": 96
     },
     "security-hardening": {
       "level": 2,
@@ -757,7 +757,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 68
+      "score": 69
     },
     "mac": {
       "level": 2,
@@ -775,7 +775,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 60
+      "score": 61
     },
     "application": {
       "level": 2,
@@ -793,7 +793,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 84
+      "score": 86
     },
     "tauri": {
       "level": 2,
@@ -829,7 +829,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 36
+      "score": 37
     },
     "h264": {
       "level": 2,
@@ -907,7 +907,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 101
+      "score": 102
     },
     "client": {
       "level": 2,
@@ -997,7 +997,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 21
+      "score": 22
     },
     "docker": {
       "level": 2,
@@ -1015,7 +1015,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 217
+      "score": 218
     },
     "movie": {
       "level": 2,
@@ -1027,7 +1027,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 14
+      "score": 15
     },
     "nzb": {
       "level": 2,
@@ -1087,7 +1087,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 9
+      "score": 10
     },
     "twain": {
       "level": 2,
@@ -1135,7 +1135,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 14
+      "score": 15
     },
     "xbox360-controller": {
       "level": 2,
@@ -1153,7 +1153,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 46
+      "score": 47
     },
     "brightness": {
       "level": 2,
@@ -1339,7 +1339,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 14
+      "score": 15
     },
     "exfat": {
       "level": 2,
@@ -1375,7 +1375,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 65
+      "score": 67
     },
     "secureboot": {
       "level": 2,
@@ -1423,7 +1423,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 45
+      "score": 46
     },
     "go": {
       "level": 2,
@@ -1435,7 +1435,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 85
+      "score": 86
     },
     "privacy": {
       "level": 2,
@@ -1573,7 +1573,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 63
+      "score": 65
     },
     "msvc": {
       "level": 2,
@@ -1657,7 +1657,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 33
+      "score": 35
     },
     "cmd": {
       "level": 2,
@@ -1693,7 +1693,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 44
+      "score": 45
     },
     "sdk": {
       "level": 2,
@@ -1897,7 +1897,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 16
+      "score": 17
     },
     "game": {
       "level": 2,
@@ -1993,7 +1993,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 11
+      "score": 12
     },
     "sensors": {
       "level": 2,
@@ -2059,7 +2059,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 54
+      "score": 55
     },
     "collaborate": {
       "level": 2,
@@ -2071,7 +2071,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 28
+      "score": 29
     },
     "rootfs": {
       "level": 2,
@@ -2113,7 +2113,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 6
+      "score": 7
     },
     "tensorflow": {
       "level": 2,
@@ -2215,7 +2215,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 74
+      "score": 75
     },
     "automatic": {
       "level": 2,
@@ -2335,7 +2335,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 175
+      "score": 177
     },
     "g-assist": {
       "level": 2,
@@ -2653,7 +2653,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 7
+      "score": 8
     },
     "ftp-client": {
       "level": 2,
@@ -2839,7 +2839,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 1
+      "score": 2
     },
     "attack": {
       "level": 2,
@@ -3181,7 +3181,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.519Z",
-      "score": 13
+      "score": 14
     },
     "hexchat": {
       "level": 2,
@@ -3379,7 +3379,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.520Z",
-      "score": 25
+      "score": 26
     },
     "java": {
       "level": 2,
@@ -3517,7 +3517,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.520Z",
-      "score": 9
+      "score": 10
     },
     "exe": {
       "level": 2,
@@ -3571,7 +3571,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.520Z",
-      "score": 2
+      "score": 3
     },
     "kali-linux": {
       "level": 2,
@@ -3919,13 +3919,13 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.520Z",
-      "score": 56
+      "score": 57
     },
     "chatbot": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.520Z",
-      "score": 18
+      "score": 19
     },
     "gpt4": {
       "level": 2,
@@ -4351,7 +4351,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.520Z",
-      "score": 36
+      "score": 37
     },
     "scrcpy": {
       "level": 2,
@@ -4543,7 +4543,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:52:50.520Z",
-      "score": 29
+      "score": 30
     },
     "pyannote": {
       "level": 2,
@@ -4663,13 +4663,13 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:55:55.507Z",
-      "score": 6
+      "score": 7
     },
     "productivity": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:55:55.507Z",
-      "score": 80
+      "score": 81
     },
     "url": {
       "level": 2,
@@ -4849,7 +4849,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:55:55.507Z",
-      "score": 1
+      "score": 2
     },
     "accessibility": {
       "level": 2,
@@ -4885,7 +4885,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:55:55.507Z",
-      "score": 25
+      "score": 26
     },
     "recipes": {
       "level": 2,
@@ -5377,7 +5377,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:55:55.507Z",
-      "score": 5
+      "score": 6
     },
     "debian-linux": {
       "level": 2,
@@ -5515,7 +5515,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:55:55.507Z",
-      "score": 10
+      "score": 11
     },
     "password-manager": {
       "level": 2,
@@ -5647,7 +5647,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:55:55.507Z",
-      "score": 38
+      "score": 39
     },
     "multilingual": {
       "level": 2,
@@ -5677,7 +5677,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:55:55.507Z",
-      "score": 5
+      "score": 6
     },
     "tool-calling": {
       "level": 2,
@@ -6163,7 +6163,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:55:55.507Z",
-      "score": 108
+      "score": 109
     },
     "gallery": {
       "level": 2,
@@ -6331,7 +6331,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:55:55.507Z",
-      "score": 33
+      "score": 34
     },
     "raycast": {
       "level": 2,
@@ -6391,13 +6391,13 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:55:55.507Z",
-      "score": 4
+      "score": 5
     },
     "i3wm": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:55:55.507Z",
-      "score": 5
+      "score": 7
     },
     "tiling": {
       "level": 2,
@@ -6709,7 +6709,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:55:55.508Z",
-      "score": 14
+      "score": 15
     },
     "deepseek-r1": {
       "level": 2,
@@ -6757,7 +6757,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:55:55.508Z",
-      "score": 14
+      "score": 15
     },
     "self-hosted": {
       "level": 2,
@@ -7399,7 +7399,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:55:55.508Z",
-      "score": 75
+      "score": 76
     },
     "react-universal": {
       "level": 2,
@@ -7513,7 +7513,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:55:55.508Z",
-      "score": 20
+      "score": 21
     },
     "recovery": {
       "level": 2,
@@ -7537,7 +7537,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:55:55.508Z",
-      "score": 26
+      "score": 27
     },
     "cdn": {
       "level": 2,
@@ -7759,7 +7759,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:55:55.508Z",
-      "score": 0
+      "score": 1
     },
     "xdg-compliance": {
       "level": 2,
@@ -8509,7 +8509,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:57:30.099Z",
-      "score": 34
+      "score": 35
     },
     "android-image-cropper": {
       "level": 2,
@@ -9529,13 +9529,13 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:57:30.099Z",
-      "score": 1
+      "score": 2
     },
     "espeak-ng": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:57:30.099Z",
-      "score": 1
+      "score": 2
     },
     "speech-synthesis": {
       "level": 2,
@@ -9613,7 +9613,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:57:30.099Z",
-      "score": 3
+      "score": 4
     },
     "federated-analytics": {
       "level": 2,
@@ -9661,7 +9661,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T16:57:30.099Z",
-      "score": 8
+      "score": 9
     },
     "scikit-learn": {
       "level": 2,
@@ -10375,13 +10375,13 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:50.966Z",
-      "score": 5
+      "score": 6
     },
     "snippets-manager": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:50.966Z",
-      "score": 2
+      "score": 3
     },
     "vite": {
       "level": 2,
@@ -10675,7 +10675,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:50.966Z",
-      "score": 12
+      "score": 13
     },
     "bloatware-removal": {
       "level": 2,
@@ -11095,13 +11095,13 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:50.967Z",
-      "score": 4
+      "score": 5
     },
     "mysql": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:50.967Z",
-      "score": 15
+      "score": 16
     },
     "postgresql": {
       "level": 2,
@@ -11275,7 +11275,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:50.967Z",
-      "score": 1
+      "score": 2
     },
     "marking-menu": {
       "level": 2,
@@ -12421,7 +12421,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:50.967Z",
-      "score": 6
+      "score": 7
     },
     "patches": {
       "level": 2,
@@ -12553,7 +12553,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:50.967Z",
-      "score": 22
+      "score": 23
     },
     "prompt-engineering": {
       "level": 2,
@@ -12913,7 +12913,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:53.523Z",
-      "score": 15
+      "score": 16
     },
     "rss-parser": {
       "level": 2,
@@ -13183,7 +13183,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:53.523Z",
-      "score": 25
+      "score": 26
     },
     "openssl": {
       "level": 2,
@@ -13231,7 +13231,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:53.523Z",
-      "score": 10
+      "score": 11
     },
     "liquid-glass": {
       "level": 2,
@@ -13561,7 +13561,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:53.523Z",
-      "score": 16
+      "score": 17
     },
     "hight-performance": {
       "level": 2,
@@ -13945,13 +13945,13 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:53.523Z",
-      "score": 1
+      "score": 2
     },
     "radio": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:53.523Z",
-      "score": 4
+      "score": 5
     },
     "radio-station": {
       "level": 2,
@@ -14989,7 +14989,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:05:53.524Z",
-      "score": 13
+      "score": 14
     },
     "codesigning": {
       "level": 2,
@@ -15283,7 +15283,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:07:43.585Z",
-      "score": 1
+      "score": 2
     },
     "transformer": {
       "level": 2,
@@ -15817,7 +15817,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:07:43.585Z",
-      "score": 17
+      "score": 18
     },
     "kotlinconf": {
       "level": 2,
@@ -16567,7 +16567,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:07:43.585Z",
-      "score": 6
+      "score": 7
     },
     "transaction": {
       "level": 2,
@@ -17617,7 +17617,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:07:46.593Z",
-      "score": 4
+      "score": 5
     },
     "podcast-player": {
       "level": 2,
@@ -19489,13 +19489,13 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:21:21.910Z",
-      "score": 3
+      "score": 4
     },
     "sdr": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:21:21.910Z",
-      "score": 5
+      "score": 6
     },
     "sdrplay": {
       "level": 2,
@@ -19519,7 +19519,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:21:21.910Z",
-      "score": 1
+      "score": 2
     },
     "visualization": {
       "level": 2,
@@ -20611,7 +20611,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:21:21.911Z",
-      "score": 0
+      "score": 1
     },
     "quick": {
       "level": 2,
@@ -21097,7 +21097,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:21:21.911Z",
-      "score": 0
+      "score": 1
     },
     "pe": {
       "level": 2,
@@ -21115,7 +21115,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-23T17:21:21.911Z",
-      "score": 6
+      "score": 7
     },
     "ai-tools": {
       "level": 2,
@@ -21223,7 +21223,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T03:54:51.855Z",
-      "score": 3
+      "score": 4
     },
     "jwt": {
       "level": 2,
@@ -23635,7 +23635,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T03:58:08.632Z",
-      "score": 1
+      "score": 2
     },
     "tron": {
       "level": 2,
@@ -24367,7 +24367,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T03:59:12.505Z",
-      "score": 1
+      "score": 2
     },
     "screen-mirroring": {
       "level": 2,
@@ -24421,7 +24421,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T03:59:12.505Z",
-      "score": 4
+      "score": 5
     },
     "mac-os": {
       "level": 2,
@@ -28087,13 +28087,13 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:04:43.018Z",
-      "score": 5
+      "score": 6
     },
     "osdev": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:04:43.018Z",
-      "score": 1
+      "score": 2
     },
     "reactos": {
       "level": 2,
@@ -28909,7 +28909,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:08:00.527Z",
-      "score": 7
+      "score": 8
     },
     "pyqt5-desktop-application": {
       "level": 2,
@@ -29023,7 +29023,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:08:00.527Z",
-      "score": 1
+      "score": 2
     },
     "newsreader": {
       "level": 2,
@@ -30043,49 +30043,49 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:09:15.337Z",
-      "score": 0
+      "score": 1
     },
     "algolia-api": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:09:15.337Z",
-      "score": 0
+      "score": 1
     },
     "create-react-app": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:09:15.337Z",
-      "score": 0
+      "score": 1
     },
     "feed": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:09:15.337Z",
-      "score": 1
+      "score": 2
     },
     "getstream": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:09:15.337Z",
-      "score": 0
+      "score": 1
     },
     "personalization": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:09:15.337Z",
-      "score": 0
+      "score": 1
     },
     "podcast-client": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:09:15.337Z",
-      "score": 0
+      "score": 1
     },
     "porn": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:09:15.337Z",
-      "score": 0
+      "score": 1
     },
     "caprine": {
       "level": 2,
@@ -30907,7 +30907,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:09:15.338Z",
-      "score": 2
+      "score": 3
     },
     "perplexity-ai": {
       "level": 2,
@@ -32095,7 +32095,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:11:26.293Z",
-      "score": 3
+      "score": 4
     },
     "new-bing": {
       "level": 2,
@@ -32173,7 +32173,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:11:26.293Z",
-      "score": 2
+      "score": 3
     },
     "noi": {
       "level": 2,
@@ -32449,7 +32449,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:11:26.293Z",
-      "score": 0
+      "score": 1
     },
     "neovim-clients": {
       "level": 2,
@@ -32941,7 +32941,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:12:23.830Z",
-      "score": 7
+      "score": 8
     },
     "arsc": {
       "level": 2,
@@ -37111,7 +37111,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:25:52.419Z",
-      "score": 1
+      "score": 2
     },
     "snapshots": {
       "level": 2,
@@ -37357,7 +37357,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:26:49.302Z",
-      "score": 2
+      "score": 3
     },
     "c-plus-plus-14": {
       "level": 2,
@@ -38179,7 +38179,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:32:13.367Z",
-      "score": 0
+      "score": 1
     },
     "inference-server": {
       "level": 2,
@@ -39295,7 +39295,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:33:09.718Z",
-      "score": 0
+      "score": 1
     },
     "telegram-rat": {
       "level": 2,
@@ -39655,7 +39655,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T04:39:09.672Z",
-      "score": 3
+      "score": 4
     },
     "ddgksf2013": {
       "level": 2,
@@ -40669,7 +40669,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T05:03:25.871Z",
-      "score": 1
+      "score": 2
     },
     "planner": {
       "level": 2,
@@ -42469,7 +42469,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T05:10:44.572Z",
-      "score": 6
+      "score": 7
     },
     "lockdown-services": {
       "level": 2,
@@ -43339,7 +43339,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T05:15:40.096Z",
-      "score": 1
+      "score": 2
     },
     "rce": {
       "level": 2,
@@ -43855,7 +43855,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T05:27:46.828Z",
-      "score": 0
+      "score": 1
     },
     "frpc": {
       "level": 2,
@@ -45607,7 +45607,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T05:58:34.865Z",
-      "score": 0
+      "score": 1
     },
     "rest": {
       "level": 2,
@@ -48145,7 +48145,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T06:48:59.706Z",
-      "score": 1
+      "score": 2
     },
     "gpt5": {
       "level": 2,
@@ -51517,7 +51517,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T06:54:09.767Z",
-      "score": 2
+      "score": 3
     },
     "ethernet": {
       "level": 2,
@@ -51781,7 +51781,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T06:54:09.767Z",
-      "score": 1
+      "score": 2
     },
     "vector-graphics": {
       "level": 2,
@@ -53011,37 +53011,37 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T06:58:52.403Z",
-      "score": 2
+      "score": 3
     },
     "comfyui-easy-install": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T06:58:52.403Z",
-      "score": 0
+      "score": 1
     },
     "comfyui-installer": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T06:58:52.403Z",
-      "score": 0
+      "score": 1
     },
     "comfyui-portable-installer": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T06:58:52.403Z",
-      "score": 0
+      "score": 1
     },
     "pixaroma": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T06:58:52.403Z",
-      "score": 0
+      "score": 1
     },
     "portable-installer": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T06:58:52.403Z",
-      "score": 0
+      "score": 1
     },
     "ppsspp": {
       "level": 2,
@@ -53989,37 +53989,37 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T07:01:02.832Z",
-      "score": 1
+      "score": 2
     },
     "dtw": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T07:01:02.832Z",
-      "score": 0
+      "score": 1
     },
     "festival": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T07:01:02.832Z",
-      "score": 0
+      "score": 1
     },
     "forced-alignment": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T07:01:02.832Z",
-      "score": 0
+      "score": 1
     },
     "nlp": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T07:01:02.832Z",
-      "score": 0
+      "score": 1
     },
     "srt": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T07:01:02.832Z",
-      "score": 0
+      "score": 1
     },
     "aws-s3": {
       "level": 2,
@@ -54079,49 +54079,49 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T07:01:02.832Z",
-      "score": 2
+      "score": 3
     },
     "msfvenom": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T07:01:02.832Z",
-      "score": 1
+      "score": 2
     },
     "ngrok": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T07:01:02.832Z",
-      "score": 0
+      "score": 1
     },
     "passwords-attacks": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T07:01:02.832Z",
-      "score": 0
+      "score": 1
     },
     "payload-generator": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T07:01:02.832Z",
-      "score": 0
+      "score": 1
     },
     "spoofing": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T07:01:02.832Z",
-      "score": 0
+      "score": 1
     },
     "web-attacks": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T07:01:02.832Z",
-      "score": 0
+      "score": 1
     },
     "wifi-attacks": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T07:01:02.832Z",
-      "score": 0
+      "score": 1
     },
     "virtual-desktops": {
       "level": 2,
@@ -57019,7 +57019,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T07:05:40.736Z",
-      "score": 2
+      "score": 3
     },
     "wayland-compositor": {
       "level": 2,
@@ -59107,7 +59107,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T07:14:40.023Z",
-      "score": 6
+      "score": 7
     },
     "monospace-font": {
       "level": 2,
@@ -59533,13 +59533,13 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T07:15:51.502Z",
-      "score": 0
+      "score": 1
     },
     "iscsi-initiator": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T07:15:51.502Z",
-      "score": 0
+      "score": 1
     },
     "asn1": {
       "level": 2,
@@ -59923,7 +59923,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T07:16:51.840Z",
-      "score": 2
+      "score": 3
     },
     "jetson-nano": {
       "level": 2,
@@ -60109,7 +60109,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T07:16:51.841Z",
-      "score": 1
+      "score": 2
     },
     "finder-toolbar": {
       "level": 2,
@@ -64591,7 +64591,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:20:27.372Z",
-      "score": 0
+      "score": 1
     },
     "shared-memory": {
       "level": 2,
@@ -70315,7 +70315,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:47:36.244Z",
-      "score": 2
+      "score": 3
     },
     "picker-component": {
       "level": 2,
@@ -71887,7 +71887,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T09:51:14.281Z",
-      "score": 4
+      "score": 5
     },
     "google-place-api": {
       "level": 2,
@@ -76291,7 +76291,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T10:00:50.750Z",
-      "score": 0
+      "score": 1
     },
     "game-animation": {
       "level": 2,
@@ -76717,7 +76717,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T10:06:38.529Z",
-      "score": 0
+      "score": 1
     },
     "httpie": {
       "level": 2,
@@ -77191,13 +77191,13 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T10:21:53.586Z",
-      "score": 0
+      "score": 1
     },
     "x11-wm": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T10:21:53.586Z",
-      "score": 2
+      "score": 3
     },
     "windows-vista": {
       "level": 2,
@@ -77269,7 +77269,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T10:24:20.988Z",
-      "score": 1
+      "score": 2
     },
     "feature-control": {
       "level": 2,
@@ -77785,7 +77785,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T10:27:27.395Z",
-      "score": 1
+      "score": 2
     },
     "smbscan": {
       "level": 2,
@@ -82801,7 +82801,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T10:56:24.481Z",
-      "score": 0
+      "score": 1
     },
     "tray-icon": {
       "level": 2,
@@ -90541,7 +90541,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T13:07:01.993Z",
-      "score": 1
+      "score": 2
     },
     "window-switcher": {
       "level": 2,
@@ -92167,7 +92167,7 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-24T13:30:30.109Z",
-      "score": 0
+      "score": 1
     },
     "custom-animation": {
       "level": 2,
@@ -98023,37 +98023,37 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-25T04:19:20.258Z",
-      "score": 0
+      "score": 1
     },
     "netscan": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-25T04:19:20.258Z",
-      "score": 0
+      "score": 1
     },
     "subdomain": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-25T04:19:20.258Z",
-      "score": 0
+      "score": 1
     },
     "llama-index": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-25T04:19:20.258Z",
-      "score": 0
+      "score": 1
     },
     "o1": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-25T04:19:20.258Z",
-      "score": 0
+      "score": 1
     },
     "sora2": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-25T04:19:20.258Z",
-      "score": 0
+      "score": 1
     },
     "wow64": {
       "level": 2,
@@ -98089,25 +98089,25 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-25T04:56:39.895Z",
-      "score": 0
+      "score": 1
     },
     "qt-style-sheets": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-25T04:56:39.895Z",
-      "score": 0
+      "score": 1
     },
     "qt-stylesheets": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-25T04:56:39.895Z",
-      "score": 0
+      "score": 1
     },
     "qt4": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-25T04:56:39.895Z",
-      "score": 0
+      "score": 1
     },
     "oidcclient": {
       "level": 2,
@@ -98119,13 +98119,13 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-25T05:25:25.632Z",
-      "score": 0
+      "score": 1
     },
     "touchpad": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-25T05:25:25.632Z",
-      "score": 0
+      "score": 1
     },
     "bot-builder": {
       "level": 2,
@@ -98191,43 +98191,43 @@
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-25T05:25:25.632Z",
-      "score": 0
+      "score": 1
     },
     "desktop-entries": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-25T05:25:25.632Z",
-      "score": 0
+      "score": 1
     },
     "desktop-files": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-25T05:25:25.632Z",
-      "score": 0
+      "score": 1
     },
     "swaywm": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-25T05:25:25.632Z",
-      "score": 0
+      "score": 1
     },
     "gtkmm3-library": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-25T05:25:25.632Z",
-      "score": 0
+      "score": 1
     },
     "application-switching": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-25T05:25:25.632Z",
-      "score": 0
+      "score": 1
     },
     "run-or-raise": {
       "level": 2,
       "lastExplored": "1970-01-01T00:00:00Z",
       "added": "2026-03-25T05:25:25.632Z",
-      "score": 0
+      "score": 1
     },
     "uix": {
       "level": 2,

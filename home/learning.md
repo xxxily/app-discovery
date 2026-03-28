@@ -2,7 +2,7 @@
 
 > 电子书阅读、课程学习、语言学习及百科知识。
 
-> 当前分类已收录 **127** 个相关项目。
+> 当前分类已收录 **128** 个相关项目。
 
 ## [Trilium Notes](https://github.com/TriliumNext/Trilium)
 
@@ -606,6 +606,15 @@ Android 动画效果演示应用，汇集帧动画、补间动画、属性动画
 - **Stars:** ⭐️ 1.8k
 - **Tags:** `小说阅读` `本地阅读` `翻页动画`
 - **最后活动时间:** 2020-03-15
+
+## [PSLab Desktop](https://github.com/fossasia/pslab-desktop)
+
+开源的口袋科学实验室桌面应用程序，提供示波器、波形发生器、频率计等多种测量仪器功能，适用于教学实验和科学研究。
+
+- **Platforms:** **Windows**, **macOS**, **Linux**
+- **Stars:** ⭐️ 1.8k
+- **Tags:** `科学实验` `测量仪器` `开源硬件` `教育`
+- **最后活动时间:** 2024-02-06
 
 ## [RHVoice](https://github.com/RHVoice/RHVoice)
 
