@@ -1,70 +1,70 @@
 {
-  "totalProjects": 3850,
+  "totalProjects": 4058,
   "categories": {
     "trending": {
       "name": "🔥 热门推荐",
-      "count": 1668
+      "count": 1808
     },
     "productivity": {
       "name": "🚀 生产力与协作",
-      "count": 820
+      "count": 861
     },
     "utilities": {
       "name": "🛠️ 系统工具与实用程序",
-      "count": 2003
+      "count": 2126
     },
     "media": {
       "name": "🎬 影音与多媒体",
-      "count": 530
+      "count": 553
     },
     "communication": {
       "name": "💬 社交通讯与资讯",
-      "count": 234
+      "count": 245
     },
     "graphics": {
       "name": "🎨 图形图像与设计",
-      "count": 144
+      "count": 151
     },
     "internet": {
       "name": "🌐 网络工具与浏览器",
-      "count": 349
+      "count": 364
     },
     "security": {
       "name": "🛡️ 安全、隐私与清理",
-      "count": 517
+      "count": 541
     },
     "developer": {
       "name": "👨‍💻 开发工具与编程",
-      "count": 965
+      "count": 1022
     },
     "ai_apps": {
       "name": "🤖 AI 助手与增强应用",
-      "count": 203
+      "count": 233
     },
     "learning": {
       "name": "📚 学习、教育与阅读",
-      "count": 128
+      "count": 130
     },
     "finance": {
       "name": "💹 金融、理财与记账",
-      "count": 52
+      "count": 53
     },
     "entertainment": {
       "name": "🎮 娱乐、游戏与休闲",
-      "count": 388
+      "count": 406
     },
     "customization": {
       "name": "💎 个性化与美化",
-      "count": 321
+      "count": 342
     }
   },
   "platforms": {
-    "Windows": 2103,
-    "macOS": 2061,
-    "Android": 1041,
-    "iOS": 474,
-    "Linux": 1651,
-    "Web": 111
+    "Windows": 2189,
+    "macOS": 2168,
+    "Android": 1117,
+    "iOS": 489,
+    "Linux": 1726,
+    "Web": 117
   },
-  "lastUpdated": "2026-03-28T02:04:53.991Z"
+  "lastUpdated": "2026-04-14T05:25:14.186Z"
 }
